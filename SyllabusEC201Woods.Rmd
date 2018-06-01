@@ -12,6 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Course Description
 
+The official description of the course is:
+
+ > A study of the choices individuals face as participants in the markets for goods, services and factors of production like labor; behavior of profit-maximizing firms operating in markets with varying degrees of competitive pressure; potential role of government in intervening to influence market outcomes using taxes and subsidies; reasons for international trade and economic inequality.
+
+It is my intent to give you a basket of tools that you can use after the final exam to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices you make.
 
 
 ## Key Dates
@@ -20,13 +25,13 @@ knitr::opts_chunk$set(echo = TRUE)
 + Midterm 1: July 17th
 + Midterm 2: August 7th
 
-Exams will be given on those days and at those times only.  I do not give make up, early or late exams.  The final is required.  You will recieve a failing grade if you don't take it.
+Exams will be given on those days and at those times only.  I do not give make up, early or late exams.  The final is required.  You will receive a failing grade if you don't take it.
 
-If you have a DRC compensation and would normally schedule an exam in the testing center, you must schedule your exam on the day of the exam such that you finish your exam at 5pm.
+If you have a DRC compensation and would normally schedule an exam in the testing center, you must schedule your exam so that it starts at the same time as the class.
 
-# Contact Information
+## Contact Information
 
-Communication will be handled through slack https://ec314summer18.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://PSUec201Fall2018.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
 Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels. If you have a personal message that is not intended for others, send a direct message. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
 
@@ -41,21 +46,20 @@ Office Hours:
 + Drop in office hours are Tues 3:00-4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
 + If you can’t attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 15 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
 
-
 My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  
 
 # Textbook and Other Resources
 
 
-### Netiquette
+
+## Netiquette
+
 Since we will be having some online interaction, we should be clear
 about what we should and should not do.
 
 In class, I can see what is going on at all times.  In the online
 environment, I can't see everything and I can't react as quickly to
-what I do see.  Students are expected to be particularly trustworthy
-both in terms of their own conduct, and in reporting inappropriate
-conduct to me.
+what I do see.  Students are expected to be particularly trustworthy both in terms of their own conduct, and in reporting inappropriate conduct to me.
 
 I will not tolerate profanity, obscenity, or remarks intended to
 discount or dismiss either a person or his or her point of view. If your inappropriate message is in the public forum, I will warn you
@@ -63,30 +67,59 @@ once in that public space. If you continue with inappropriate conduct
 in the public spaces, your access to them will be denied for the rest
 of the term. If your inappropriate conduct is in private, a student code of conduct violation complaint may be filed. 
  
-### D2L
+## D2L
 
+D2L will be how you turn in homework assignments and check your grades, but little else will be in there.  
 
 # Assessments and Grade Policy
 
-Your grade in the class will be based on your performance on the midterms and the final exam.  
+Your grade in the class will be based on your performance on the midterms, final exam, homework assignments and in-class quizzes.  
 
 + Final Exam (30%)
-+ Midterm 1 (30%)
-+ Midterm 2 (30%)
-+ In-class quizzes and Class Rules D2L Quiz (10%)
-
-The quizzes in D2L are not part of your grade, except as noted below, but you will be hard pressed to pass the class without spending significant time with the material.
-
-Course grades will be based on class rank with cut points between letter grades determined by gaps in the distribution.  Note that the exams are required. Not attending an exam will result in a failing grade.
-
-## In-class quizzes and Class Rules D2L Quiz
-
++ Midterm 1 (20%)
++ Midterm 2 (20%)
++ In-class quizzes (10%)
++ Homework (20%)
 
 ## Exams
 
+Exams will be closed note and closed book.  Problems will primarily be problem solving but there may be some multiple choice questions.
+
+Students will be assigned seats and photo ID will be required for all exams. You will only be allowed a writing implement and a calculator.  No headphones, phones, smart watches, internet connected devices, or other material will be allowed.  All backpacks will be stored at the front or side of the classroom.  If we see a phone, we will take your exam, you will receive a zero, and you will be sent to the dean of student life.
+
+The seating chart for the exam will be released on slack just before the exam to make it easier to find your seat.
+
+## In-class quizzes
+
+There is a 50% chance of a quiz in each class meeting. In-class quizzes are intended to be a check on if you completed the required reading before the start of class.  They are graded on a pass/no-pass basis and will include very simple questions about the course material.  They will not be returned but a key will be provided. 
+
+While it may be tempting to avoid class because of the easy access to the lecture slides, this is typically a quick path to a low grade.
+
+## Homework
+
+Homework will be due weekly and will turned in via D2L.  Some of the assignments will be graphics and math heavy, typically high school algebra, but avoid writing the assignments out by hand and turning in a photograph.  These are very difficult to grade.
 
 # Topics
 
++ What is Economics (Ch 1 and 2):  It is bigger than you thought and even helps explain small behaviors.
+
++ Supply and Demand (Ch 3):  What everyone knows.  This is a good simple model for many things, but not everything.
+
++ Consumer and Producer Surplus and Price Controls (Ch 4 and 5): Looks at how well functioning markets work to make people as well off as possible and how sometimes interfering in markets makes people worse or better off.
+
++ Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, include price and income changes.
+
++ Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems markets.  It is also less clear than you thought who pays for taxes.
+
++ Decision Making (Ch 9 and 10) :  Economics has a formal and very flexible model of choice that even allows for altruistic behaviors. This is a key tool in later courses.
+
++ Supply Curves (Ch 11): Not all markets, choices or allocation mechanisms can be described by supply and demand.  Supply curves allow us to find out what happens in those circumstances.
+
++ Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
+
++ Monopoly, Oligopoly and Monopolistic Competition (Ch 13-15): Uses cost curves and game theory to describe what happens when markets don't work for the benefit of society and how to change the rules so that they do.
+
++ Public Policy (Ch 16-18) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution, traffic, and even how we pay for and decide where parks go.
 
 # Other Rules
 
