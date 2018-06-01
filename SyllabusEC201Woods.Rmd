@@ -16,7 +16,7 @@ The official description of the course is:
 
  > A study of the choices individuals face as participants in the markets for goods, services and factors of production like labor; behavior of profit-maximizing firms operating in markets with varying degrees of competitive pressure; potential role of government in intervening to influence market outcomes using taxes and subsidies; reasons for international trade and economic inequality.
 
-It is my intent to give you a basket of tools that you can use after the final exam to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices you make.
+It is my intent to give you a basket of tools that you can use after the final exam to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices we make.
 
 
 ## Key Dates
@@ -100,6 +100,8 @@ While it may be tempting to avoid class because of the easy access to the lectur
 Homework will be due weekly and will turned in via D2L.  Some of the assignments will be graphics and math heavy, typically high school algebra, but avoid writing the assignments out by hand and turning in a photograph.  These are very difficult to grade.
 
 # Topics
+
+A detailed reading schedule will be announced as we progress both in class and in slack.
 
 + What is Economics (Ch 1 and 2):  It is bigger than you thought and even helps explain small behaviors.
 
