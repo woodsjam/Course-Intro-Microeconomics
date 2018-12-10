@@ -194,6 +194,18 @@ Example: .84, .82, .77, .76, .75, .65, .64, .50, .44, .2, .1
 
 + Grade breaks are in the gaps.
 
+## From My Last EC202
+
+https://github.com/woodsjam/Course-Intro-Microeconomics/blob/master/DayOne/MT2Analysis.pdf
+
+In summary:
+
++ I use the full range of points.
++ Most people don't change their behavior.
++ Don't miss class.
++ Do your homework.
+
+
 ## Econ Break
 
 We will look at these in greater detail later.
@@ -222,7 +234,7 @@ Why did I allocate grades the way I did?
 
 ## Show up
 
-
+Duh!
 
 ## Do your Own Work
 
