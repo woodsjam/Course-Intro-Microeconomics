@@ -149,7 +149,9 @@ Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018
 + Could be one each class
 + Check if you completed the reading
 + Check if you reviewed earlier classes.
-+ Key provided
++ Key provided via email to your @pdx.edu account.
+
+Do yourself a favor and review these questions.
 
 
 ## Homework
@@ -158,6 +160,7 @@ Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018
 + Turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function. 
 + Do not write the assignments out by hand and then turn in a photo in pdf form.
 
+These tend to be harder questions that combine two or more ideas from lecture.  Don't expect to knock them out in 30min.  
 
 ## D2L
 
@@ -184,7 +187,7 @@ I will assume you know how  to work D2L.
 
 ## Grades Based on Class Rank
 
-+ Course Grade Distribution: ~50% As, ~25% Bs, ~12% Cs
++ Course Grade Distribution: ~30% As, ~30% Bs, ~12% Cs
 + Based on class rank
     + Not 90% and above is an A...
     + Expect exams to use the full range.
@@ -193,6 +196,7 @@ Example: .84, .82, .77, .76, .75, .65, .64, .50, .44, .2, .1
 
 
 + Grade breaks are in the gaps.
++ The median, i.e., middle, student will earn a B.
 
 ## From My Last EC202
 
@@ -205,6 +209,32 @@ In summary:
 + Don't miss class.
 + Do your homework.
 
+## What I learned in Fall from teaching EC202
+
++ I don't pay much attention to teaching evaluations.  They self-select the bottom of the class.
+    + Mostly I found out that when students don't show up to class and miss key worked examples and concepts -- they blame me.
++ I do an end of term debrief with the class.
+    + I implemented many ideas from my end of term debrief relating to course mechanics.
+    + How the exam questions work.
+    + The sticks and carrots of the class.
+
+But, I am powerless in the face of your indifference.
+
+## It is your effort, not mine
+
++ I can give you exercises that use the tools discussed in class -- but if you don't do them ...
++ I can give you feedback and answer keys -- but if you don't look at them.
++ I give guidance on what to read -- but if you don't read.
+
+You paid a "small" dollar amount to take this class, but the biggest cost is your motivation, effort and time. 
+
+## Over the Break
+
++ The school of business has been concerned with students not learning in EC201/202 and gave a knowledge test to their students.
+    + Students missed anything mathematical -- even percent change.
+    + Students only were able to answer Costa's Level 1 questions but little else.  For example, students could recognize a definition but could not an example that satisfies the definition.
+
+Which is why we are taking a [15 minute pre-test](https://e.ggtimer.com/10%20minutes)
 
 ## Econ Break
 
@@ -284,12 +314,15 @@ The most expensive part of a meal is not always the best part. Price, the financ
 
 "With a five-year 31% underemployment rate according to Burning Glass, and a massive 601,092 degrees passed out in 2016, business and related majors produced a staggering 186,339 people with a degree and no corresponding college-level job. Counting the initial underemployment rate for business and related majors of 47%, a whopping 282,513 were underemployed in 2016." 
 
--- Strada Institute for the Future of Work
+-- Strada Institute for the  Future of Work
+
+
+
 
 ## What are your local economists working on?
 
 + Randy Bluffstone: Ethiopia and Nepal stoves.
-+ Sahan Dissanayake: How to preserve forrests and farmland
++ Sahan Dissanayake: How to preserve forests and farmland
 + John Gallup: Estimating income inequality when data is not great
 + John Hall: Heterodox
 + Hiro Ito: Trade imbalances and key currencies, and resiliency after natural disasters.
