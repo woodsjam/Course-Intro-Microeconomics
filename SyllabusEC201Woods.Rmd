@@ -21,7 +21,7 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 ## Key Dates
 
-+ Final Exam: March 19th,	8:00AM-09:50 
++ Final Exam: March 19th,	8:00AM - 9:50 
 + Midterm 1: January 30th
 + Midterm 2: February 27th
 + Last Day to Withdraw or Change Grade Option: February 24th.
@@ -51,6 +51,7 @@ Office Hours:
 My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  I will put something on slack if this is necessary.
 
 There is also a Graduate Assistant for this course, ***NAME***, who will be available in CH 230 ***HOURS***.  There are other graduate assistants there and any one of them should be able to help you.  Please go here rather than the tutors in the library.
+
 # Textbook and Other Resources
 
 I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09878-9).  This textbook is amazingly overpriced.  I will not be assigning questions from the chapters, so feel free to purchase one of the earlier editions of the book.
@@ -129,7 +130,7 @@ A detailed reading schedule will be announced as we progress both in class and i
 
 + Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, include price and income changes.
 
-+ Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems markets.  It is also less clear than you thought who pays for taxes.
++ Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes  is less clear than you thought.
 
 + Decision Making (Ch 9 and 10) :  Economics has a formal and very flexible model of choice that even allows for altruistic behaviors. This is a key tool in later courses.
 
@@ -137,9 +138,9 @@ A detailed reading schedule will be announced as we progress both in class and i
 
 + Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
 
-+ Monopoly, Oligopoly and Monopolistic Competition (Ch 13-15): Uses cost curves and game theory to describe what happens when markets don't work for the benefit of society and how to change the rules so that they do.
++ Monopoly, Oligopoly and Monopolistic Competition (Ch 13-15): Uses cost curves and game theory to describe the costs to society of market power.
 
-+ Public Policy (Ch 16-18) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution, traffic, and even how we pay for and decide where parks go.
++ Public Policy (Ch 16-18) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic.  We study how we site parks and other shared resources.
 
 + Factor Markets and Risk (Ch 19-20): How the goods markets, what firms produce, feed into the factor markets, like the labor market.   
 
@@ -182,6 +183,8 @@ A detailed reading schedule will be announced as we progress both in class and i
 + Academic honesty is expected and required of students enrolled in this course.  Suspected academic dishonesty in this course will be handled according to the procedures set out in the Student Code of Conduct.
 
 + I am sympathetic to family emergencies but you must inform me as soon as possible. If the notice is verbal, please email me with your understanding of our agreement. All agreements have to be in writing.
+
++ There is no extra credit.
 
 
 Link to this syllabus https://github.com/woodsjam/Course-Intro-Microeconomics.  There is a branch for each term.  Be sure to choose the correct branch to see the current syllabus.  
