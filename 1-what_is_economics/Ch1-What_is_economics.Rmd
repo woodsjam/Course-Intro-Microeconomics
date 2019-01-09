@@ -1,0 +1,141 @@
+---
+title: "Ch 1: What is Economics"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Goals
+
++ Introduce some economic principles.
++ Clarify terms used
++ Show some contradictions with observed behavior
+
+## Individual Principles
+
++ Principle #1: Choices are necessary because resources are scarce. 
++ Principle #2: The true cost of something is its opportunity cost. 
++ Principle #3: “How much” is a decision at the margin. 
+
++ Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
+
+## Principle 1: Choices are necessary because resources are scarce.
+
+**Resource**: Anything that can be used to produce something else
+
+**Scarce**: In short supply, limited.
+
++ To be clear, money is only part.  Time, attention, daylight, break in the storm.
++ Even if you have enough of some resources for what you want, there is always one that is limited.
+
+"Should I kill myself, or have a cup of coffee?" -- (Not) Camus
+
+## Principle 2: The true cost of something is its opportunity cost. 
+
+**Opportunity Cost**: What you must give up in order to get something.
+
++ Always beyond the direct financial.
++ Often the financial is hidden
+
+"I love sourdough bread.  I don't eat it, not because it is expensive, but because it makes me sleepy and have to spend more time at the gym." -- Jamie
+
+## Principle 3: “How much” is a decision at the margin. 
+
++ People compare costs and benefits.
++ Opportunity cost with quantities.
++ A little more of this for a little less of that.
++ Most often violated through "The sunk cost fallacy"
+
+"No matter how far you've gone down the wrong road, turn back." -- Traditional Turkish Proverb (Sunk Cost Fallacy)
+
+## Principle 4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
+
++ Note "themselves" not "all of us"
++ If you are lucky that results in all of us being better off.
++ **Incentives**: The rules of how rewards and punishments for action or inaction are awarded.
+
+A key goal in designing incentive systems to align individual self-interest with social well-being. 
+
+## Interaction
+
++ Principle #5: There are gains from trade
++ Principle #6: Markets move toward equilibrium
++ Principle #7: Resources should be used efficiency to achieve society's goals
++ Principle #8: Markets usually lead to efficiency.
+
+
+## Principle #5:  There are gains from trade
+
++ This is why we split chores
++ Why being totally, "self-sufficient", producing all your needs, makes you miserable.
++ Says possible but not always true for everything and only if voluntary.
+
+"It is the maxim of every prudent master of a family, never to attempt to make at home what it will cost him more to make than to buy...What is prudence in the conduct of every private family, can scarce be folly in that of a great kingdom." -- Adam Smith
+
+## Principle #6: Markets move toward equilibrium
+
++ **Equilibrium**: Stable equilibrium is a very general idea.
++ Make a small temporary change and the system returns to its previous state.
+
+This is what allows us to predict future events.
+
+
+## Principle #7: Resources should be used efficiently to achieve society's goals
+
+**Efficently**: Has many different meanings.
+
++ Can't get more with same resources.
++ Can't make someone better off without making someone worse off.
++ Gets complicated after that.
+    
+"I will definitely help you if it doesn't harm me, but I will often help when the harm to me is less than the benefit to you" -- Jamie    
+
+## Principle #8: Markets usually lead to .
+
++ Markets are good at distributed information processing:
+    + Information about needs and costs to satisfy needs are communicated with prices, bids and ask.
+    + Prices also transfer resources needed to satisfy the need.
++ Similar to your body handles needs.  Blood transports information and resources.
++ We do mean usually.  
+    + Sometimes markets don't work.
+    + Sometimes governments need in modify market rules to make them work better. See Principle 4
+    
+"In Republican administrations, it is the economists job to explain that sometimes markets don't work.  In Democratic, that sometimes markets do work"  -- Severin Borenstein, Economist
+
+
+## Macro Principles 
+Principle #10: One person’s spending is another person’s income. 
+
+Principle #11: Overall spending sometimes gets out of line with the economy’s productive capacity. 
+
+Principle #12: Government policies can change spending. 
+
+## Principle #10: One person’s spending is another person’s income. 
+
++ Critical insight in macroeconomics.
++ Remember "Principle #5: There are gains from trade"?
++ When you decrease your spending by, say, savings, the income earned by others from your spending falls.
+
+This should remind you of a food chain.  Every species is food for another.
+
+
+## Principle #11: Overall spending sometimes gets out of line with the economy’s productive capacity. 
+
++ Out of line can be too high or too low.
++ Inflation if too high and unemployment if too low.
++ Principle #6 (Markets move toward equilibrium), says markets will fix themselves -- eventually.
+
+"But this long run is a misleading guide to current affairs. In the long run we are all dead. Economists set themselves too easy, too useless a task, if in tempestuous seasons they can only tell us, that when the storm is long past, the ocean is flat again." -- Keynes
+
+## Principle #12: Government policies can change spending. 
+
++ See:
+    + Principle #11: Overall spending sometimes gets out of line with the economy’s productive capacity.
+    + Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
+
+
+Economists are the most manipulative non-sociopaths you will meet.    
+
