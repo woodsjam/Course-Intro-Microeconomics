@@ -26,7 +26,7 @@ Some slides will also be on github. (https://github.com/woodsjam/Course-Intro-Mi
 
 A study of the choices individuals face as participants in the markets for goods, services and factors of production like labor; behavior of profit-maximizing firms operating in markets with varying degrees of competitive pressure; potential role of government in intervening to influence market outcomes using taxes and subsidies; reasons for international trade and economic inequality.
 
-## Intro Macro (Unofficial)
+## Intro Micro (Unofficial)
 
 + Talk many of you out of a business degree.
 + Convince you that economics is not **just** about money or markets
