@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC201 Winter 2019"
+title: "Syllabus EC201 Fall 2019"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -21,11 +21,11 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 ## Key Dates
 
-+ Final Exam: March 19th,	8:00AM - 9:50 
-+ Midterm 1: January 30th
-+ Midterm 2: February 25th
-+ Last Day to Withdraw or Change Grade Option: February 24th.
-+ Holiday: January 21st
++ Final Exam: December 10th,	8:00AM - 9:50 
++ Midterm 1: October 23rd
++ Midterm 2: November 20th
++ Last Day to Withdraw or Change Grade Option: November 17th.
++ Holiday: November 11th
 
 
 Exams will be given on those days and at those times only.  I do not give make up, early or late exams.  The final is required.  You will receive a failing grade if you don't take it.
@@ -34,9 +34,9 @@ If you have a DRC compensation and would normally schedule an exam in the testin
 
 ## Contact Information
 
-Communication will be handled through slack https://psuwinter2019ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://fall2019ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
-Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels. If you have a personal message that is not intended for others, send a direct message. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
+Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. The group has global do not disturb hours of 10pm - 8am.  If you would like something different, alter your personal settings.
 
 Please note that I am not online all the time, and when I am online I will prioritize well-phrased questions with sufficient detail.  I tend to ignore general complaints, questions that can be answered by reading the syllabus or using the search bar.  
 
@@ -45,7 +45,7 @@ I will not react to questions in the day prior to an exam under most circumstanc
 Office Hours:
 
 + My office is in CH 241-O.
-+ Drop in office hours are Monday 2:30-3:30  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ Drop in office hours are Monday 3:00PM-4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
 + If you can't attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
 
 My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  I will put something on slack if this is necessary.
@@ -93,7 +93,11 @@ Your grade in the class will be based on your performance on the midterms, final
 + Midterm 1 (20%)
 + Midterm 2 (20%)
 + In-class quizzes (20%)
-+ Homework (10%)
++ Homework (8%)
++ Math Pre-Test (1%) First Day of Class Only
++ Micro Post-Test (1%) Last Day of Class Only
+
+The pre and post test are new this term. The two pre and post are for course, rather than student, evaluation purposes and will be open response rather than multiple choice.
 
 ## Exams
 
@@ -126,9 +130,9 @@ A detailed reading schedule will be announced as we progress both in class and i
 
 + Supply and Demand (Ch 3):  What everyone knows.  This is a good simple model for many things, but not everything.
 
-+ Consumer and Producer Surplus and Price Controls (Ch 4 and 5): Looks at how well functioning markets work to make people as well off as possible and how sometimes interfering in markets makes people worse or better off.
++ Consumer and Producer Surplus and Price Controls (Ch 4 and 5): Looks at how well-functioning markets work to make people as well off as possible, and how sometimes interfering in markets makes people worse or better off.
 
-+ Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, include price and income changes.
++ Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, including price and income changes.
 
 + Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes  is less clear than you thought.
 
@@ -187,4 +191,4 @@ A detailed reading schedule will be announced as we progress both in class and i
 + There is no extra credit.
 
 
-Link to this syllabus https://github.com/woodsjam/Course-Intro-Microeconomics.  There is a branch for each term.  Be sure to choose the correct branch to see the current syllabus.  
+Link to this syllabus https://github.com/woodsjam/Course-Intro-Microeconomics.  There is a branch for each term with master being the current term.
