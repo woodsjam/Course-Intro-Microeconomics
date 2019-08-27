@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC201 Fall 2019"
+title: "Syllabus EC 201 Fall 2019"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -45,7 +45,7 @@ I will not react to questions in the day prior to an exam under most circumstanc
 Office Hours:
 
 + My office is in CH 241-O.
-+ Drop in office hours are Monday 3:00PM-4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
++ Drop in office hours are Monday 3:00 PM - 4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
 + If you can't attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points.  
 
 My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  I will put something on slack if this is necessary.
@@ -125,6 +125,8 @@ Do not write the assignments out by hand and then turn in a photo in pdf form.  
 # Topics
 
 A detailed reading schedule will be announced as we progress both in class and in slack.
+
++ Math:  You need Freshman High School Algebra for this class.
 
 + What is Economics (Ch 1 and 2):  It is bigger than you thought and even helps explain small behaviors.
 
