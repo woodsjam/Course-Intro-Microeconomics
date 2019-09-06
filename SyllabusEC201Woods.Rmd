@@ -21,7 +21,7 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 ## Key Dates
 
-+ Final Exam: December 10th,	8:00AM - 9:50 
++ Final Exam: December 10th,	8:00 AM - 9:50 
 + Midterm 1: October 23rd
 + Midterm 2: November 20th
 + Last Day to Withdraw or Change Grade Option: November 17th.
@@ -50,7 +50,7 @@ Office Hours:
 
 My in-person office hours may need to be moved to a different location because of construction in Cramer Hall.  I will put something on slack if this is necessary.
 
-There is also a Graduate Assistant for this course, ***NAME***, who will be available in CH 230 ***HOURS***.  There are other graduate assistants there and any one of them should be able to help you.  Please go here rather than the tutors in the library.
+There is also a Graduate Assistant for this course, ***NAME***, who will be available in CH 230 ***HOURS***.  There are other graduate assistants in the room and any one of them should be able to help you.  Please go here rather than the tutors in the library.
 
 # Textbook and Other Resources
 
@@ -72,15 +72,13 @@ what I do see.  Students are expected to be particularly trustworthy both in ter
 I will not tolerate profanity, obscenity, or remarks intended to
 discount or dismiss either a person or his or her point of view. If your inappropriate message is in the public forum, I will warn you
 once in that public space. If you continue with inappropriate conduct
-in the public spaces, your access to them will be denied for the rest
+in the public spaces, your access will be removed for the rest
 of the term. If your inappropriate conduct is in private, a student code of conduct violation complaint may be filed. 
 
  
 ## D2L
 
-You will turn in homework assignments in D2L. The homework will be a D2L "assignment" or "quiz", depending on the format of the homework. You can find both in the "activities" tab. 
-
-An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will typically be due Friday at noon and I will always give you at least a week between assignment of homework and the due date.
+You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will be due Friday at noon, more precisely 11:59 AM to avoid confusion, and I will always give you at least a week between assignment of homework and the due date -- with the exception of the first assignment about the syllabus.
 
 The course landing page will also have links to the course slack group and the slides I create for class.
 
@@ -93,9 +91,9 @@ Your grade in the class will be based on your performance on the midterms, final
 + Midterm 1 (20%)
 + Midterm 2 (20%)
 + In-class quizzes (20%)
-+ Homework (8%)
-+ Math Pre-Test (1%) First Day of Class Only
-+ Micro Post-Test (1%) Last Day of Class Only
+    + Math Pre-Test,  First Day of Class Only
+    + Micro Post-Test,  Last Day of Class Only
++ Homework (10%)
 
 The pre and post test are new this term. The two pre and post are for course, rather than student, evaluation purposes and will be open response rather than multiple choice.
 
@@ -112,15 +110,31 @@ There may be a pop quiz each class meeting. In-class quizzes are intended to be 
 
 While it may be tempting to avoid class because of the easy access to the lecture slides, this is typically a quick path to a low grade.
 
+## Limitations on non-attendance
+
+Students that don't attend class, don't do well.  The quiz incentive is strong -- they are cumulatively worth a midterm -- but attendance is typically less than 70%.  Students that miss more than 3 classes very rarely score more than 50% on the exams.
+
+You will only be allowed 4 missing quizzes before I stop giving you credit for work.  Once you miss 5 quizzes, more than 20% of the total class sessions, you will receive a zero for every assignment, quiz, and exam thereafter, including the final exam.  Please note that this means you will receive an F in the class.  This is enough leeway to allow you to have an short illness or transportation difficulty, but not enough to allow you to sabotage your education.
+
++ If you miss class five times, please drop the class and avoid having an F on your transcript.
++ If you have an extended illness or other difficulty that makes it very difficult to come to class, file a deadline appeal to have the course removed from your record and get your tuition returned.  Note that deadline appeals require documentation.
++ Do not attempt to use the allowed absences strategically, you may have a serious need later in the term.
++ I will not adjudicate the worthiness of absences.
++ If you decide to come to class only to take the quiz and leave, or do homework for other courses in class, congratulations, you have gamed the system.
++ "But what if I can do well without attending class?"  This is true for about one student in 300.
+
+
+
 ## Homework
 
-Homework will be due, at most, weekly and will turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function.  
+Homework will be due, at most, weekly and will turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function.  **They will always be due by noon (11:59 AM to avoid confusion) on Friday.**
 
 D2L quizzes are intended to be done online without the help of others.  
 
 If the homework is turned in through the assignment function they must be turned in as either word or pdf documents. Unreadable or corrupt files will be given a zero. 
 
 Do not write the assignments out by hand and then turn in a photo in pdf form.  D2L does not handle this well, often freezing the browser. We will simply give you a zero on the assignment if you do this.
+
 
 # Topics
 
@@ -140,7 +154,7 @@ A detailed reading schedule will be announced as we progress both in class and i
 
 + Decision Making (Ch 9 and 10) :  Economics has a formal and very flexible model of choice that even allows for altruistic behaviors. This is a key tool in later courses.
 
-+ Behind Supply Curves (Ch 11): Not all markets, choices or allocation mechanisms can be described by supply and demand.  Cost curves allow us to find out what happens in those circumstances.
++ Behind Supply Curves (Ch 11): Not all markets, choices, or allocation mechanisms can be described by supply and demand.  Cost curves allow us to find out what happens in those circumstances.
 
 + Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
 
@@ -148,7 +162,7 @@ A detailed reading schedule will be announced as we progress both in class and i
 
 + Public Policy (Ch 16-18) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic.  We study how we site parks and other shared resources.
 
-+ Factor Markets and Risk (Ch 19-20): How the goods markets, what firms produce, feed into the factor markets, like the labor market.   
++ Factor Markets and Risk (Ch 19-20): How the goods markets, what firms produce, interacts with factor markets, like the labor market.   
 
 # Other Rules
 
