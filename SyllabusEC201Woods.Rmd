@@ -91,11 +91,11 @@ Your grade in the class will be based on your performance on the midterms, final
 + Midterm 1 (20%)
 + Midterm 2 (20%)
 + In-class quizzes (20%)
-    + Math Pre-Test,  First Day of Class Only
+    + Math Pre-Test,  Second Day of Class Only
     + Micro Post-Test,  Last Day of Class Only
 + Homework (10%)
 
-The pre and post test are new this term. The two pre and post are for course, rather than student, evaluation purposes and will be open response rather than multiple choice.
+The pre and post test are new this term. They are for course, rather than student, evaluation purposes and will be open response rather than multiple choice.  They are intended to make some contribution to your grade, so that you take them seriously, but not enough to cause stress.
 
 ## Exams
 
