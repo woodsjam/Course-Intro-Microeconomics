@@ -14,14 +14,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 + Walk through the syllabus
 + Walk through tools and resources
++ Talk about how to do well in the course.
 
 ## Syllabus
 
-You can find the syllabus here. (https://github.com/woodsjam/Course-Intro-Microeconomics/blob/master/SyllabusEC201Woods.pdf)
++ You can find the syllabus here. (https://github.com/woodsjam/Course-Intro-Microeconomics/blob/master/SyllabusEC201Woods.pdf)
 
-**Some** slides will also be on github. (https://github.com/woodsjam/Course-Intro-Microeconomics)
++ **Some** slides will also be on github. (https://github.com/woodsjam/Course-Intro-Microeconomics)
 
-+ Download them before each class if you like, but they are not a substitute for coming to class.
++ The slides are a frame, often blank except for a title, and not a substitute for coming to class.
 
 
 ## Intro Micro (Official)
@@ -31,7 +32,7 @@ A study of the choices individuals face as participants in the markets for goods
 ## Intro Micro (Unofficial)
 
 + Talk many of you out of a business degree.
-+ Convince you that economics is not **just** about money or markets
++ Convince you that economics is not **just** about money or markets.
 + Make the news and politicians funnier.
 + Talk some of you into being econ majors.
 
@@ -55,55 +56,54 @@ A study of the choices individuals face as participants in the markets for goods
 + Hobbies: Painfully Stereotypical Portlander
 
     
-## Warnings
+## Warnings About Me
 
 + I'm Dyslexic.  If you see a slide without a typo -- be amazed.
-+ Don't think that you have to understand everything
-    + You should read everything.
-    + I usually read things over and over again and learn new things every time.
-    + If you understand half -- amazing.
-    + The more you read, the easier it is to learn more.  It really builds on itself.
++ I have a _very_ dark sense of humor.
++ I am very direct.
 
-## Warnings (Con't)
+## My Primary Motivation?
 
-+ Don't be afraid to Google a picture or an article to help you understand something in class.
-    + You need to learn how to help yourself.
-    + Learned helplessness is a pet peeve of  mine.
-+ Do not wait till the last minute  
-    + Don't make an optimistic, tightly scheduled plans.
-    + No plan survives contact with reality
-    + Start everything as early as possible.
++ I'm not getting between you, your degree, and a 100K job.
++ I'm getting between you and a pile of debt and no way to pay it off.
++ I'm getting between you and your worst habits.
 
 
 
 ## Key Dates
 
-+ Final Exam: December 10th,	8:00 AM - 9:50 
-+ Midterm 1: October 23rd
-+ Midterm 2: November 20th
-+ Last Day to Withdraw or Change Grade Option: November 17th.
-+ Holiday: November 11th
++ Final Exam: 	*Tuesday*,  March 17, 0800-0950
++ Midterm 1: January 29th
++ Midterm 2: February 19th
++ Last Day to Withdraw or Change Grade Option: February 23rd.
++ Holiday: January 20th
 
 
-Exams will be given on those days and at those times only.  I do not give make up, early or late exams. Get those on your calendars.  Make sure you are not scheduled to work or deciding to fly somewhere.
+Exams will be given on those days and at those times only.  Get those on your calendars.  Make sure you are not scheduled to work or deciding to fly somewhere.
 
 DRC People:  Schedule time slots in testing center so that you start at the same time as the rest of class.
 
 ## Contact Information
 
 + My office is in CH 241-O.
-+ Drop in office hours are Monday 3:00 PM - 4:00  through the last week of class. There is no need to make an appointment for these hours -- just come.
-+ If you can't attend regular office hours, please check my calendar https://woodsj.youcanbook.me/. I will make a limited number of 20 minute slots available each week. If you make an appointment and fail to show up without first canceling, I will penalize your final exam score two points. 
-
-Meetings can be via phone or even the hangout/meet function in your pdx.edu email.
++ Drop in office hours are Monday 3:00 PM - 4:30 and Tuesday 9:00 AM - 10:30 AM through the last week of class.
 
 I will also keep Slack up during office hours to answer questions.
+
+## Econ Graduate Assistants
+
++ Econ graduate students are in CH 230
++ 9ish - 5ish every day except for the seminar time on Fridays.
++ Any of them can help you but some are better than others.
++ Just tell them you are in Jamie's 201 class.  
+
+Just go... Don't put it off.
 
 ## Slack
 
 I avoid email since it is a trash heap and a constant distraction.
 
-+ The class will use slack https://fall2019ec201.slack.com
++ The class will use slack https://winter20ec201.slack.com
 + Handles direct messages, forum style responses.
 + You should be able to sign up with your pdx.edu account
 + Can access via webpage, apps in Android and iOS.
@@ -117,19 +117,23 @@ I avoid email since it is a trash heap and a constant distraction.
 + Prefer #general to direct messaging me.
     + Questions about course material is for #general
     + Questions about your grade or anything private is for @woodsj
-+ "I can't find it anywhere" is usually answered with:
-    + A link to a google search.
 + Don't start and end with, "I got 7 but the key shows 245.  What did I do wrong?"
     + Show your work.  The fix is often a single parameter.
+    + Give details about what you tried and how you are interpreting things.
+    + Asking for general help, generally results in little help.
+    + Get specific.
 + Provide full text of the question you are working on.
 
 In short, make it easy for someone to help you.
 
 ## More Slack Hints
 
-+ Rants and bellyaching put you at the bottom of the queue or off the queue.
-+ Night before the exam?  You are on your own.
-+ Set personal Do Not Disturb times.  It it defaults to 10pm -8am
++ Don't impute motivation.  
++ Night before the exam?
+    + I'm getting a good nights sleep -- you should too.
+    + I tend to respond up until 5pm.
++ Set personal Do Not Disturb times.  It it defaults to 10pm -8am.
+
 
 
 ## Textbook 
@@ -150,21 +154,31 @@ Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018
  
 ## In-class quizzes
 
-+ Could be one each class
-+ Check if you completed the reading
++ One each class but at random time.
++ Check if you completed the reading.
 + Check if you reviewed earlier classes.
 + Key provided via email to your @pdx.edu account.
++ Miss 5 and you are done.
 
 Do yourself a favor and review these questions during exam prep.
 
 
 ## Homework
 
-+ At most weekly.
++ At most weekly at 11:59 AM, i.e., Noon.
++ Assigned after we have done the material.
 + Turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function. 
-+ Do not write the assignments out by hand and then turn in a photo in pdf form.
++ _Do not_ write the assignments out by hand and then turn in a photo in pdf form.
 
 These tend to be harder questions that combine two or more ideas from lecture.  Except for the first one, don't expect to knock them out in 30min.  
+
+## Homework Hints
+
++ Look at the assignment as soon as it is posted.
++ You have 168 hrs (7 Days) till it is due. Don't wait till the last 3.
++ We already covered the material you need to do the material when it is posted.
+
+In other words, "I had to work on Friday when I planned on doing the homework. Can I have an extension.", is a non-starter.
 
 ## D2L
 
@@ -173,12 +187,13 @@ I will assume you know how  to work D2L.
 + Calendar on left
 + Links in the middle
 + Content, Quizzes and Grades up top
++ Except for turning in homework and displaying grades -- I don't make use of D2L.
 
 ## D2L Key Takeaways
 
 + Homework is either an "assignment" or a "quiz" depending on if the homework is written or multiple choice.
 + Both show in the calendar
-+ Due Friday at 11:59AM.
++ Due Friday at 11:59AM, i.e., noon.
 + At least a week notice
 
 ## Assessments and Grade Policy
@@ -193,7 +208,7 @@ I will assume you know how  to work D2L.
 
 ## Grades Based on Class Rank
 
-+ Course Grade Distribution: ~25% As, ~25% Bs, ~12% Cs
++ Course Grade Distribution: ~25% As, ~25% Bs
 + Based on class rank
     + Not 90% and above is an A...
     + Expect exams to use the full range.
@@ -202,37 +217,24 @@ Example: .84, .82, .77, .76, **.75**, .65, .64, .50, .44, .2, .1
 
 + Grade breaks are in the gaps.
 + The median, i.e., middle, student will earn a B.
++ I will update your rank in class weekly starting after the first midterm.
 
 ## Changes to Course From Student Feedback
 
-+ I don't pay much attention to teaching evaluations.  They self-select the bottom of the class.
-+ I do an end of term debrief with the class.
-    + I implemented many ideas from my end of term debrief relating to course mechanics.
-    + How the exam questions work.
-    + The sticks and carrots of the class.
-
-But, I am powerless in the face of your indifference.
++ Quizzes are at a random time in class.
++ Exams will have some open response questions.
++ Some questions will require algebra.
++ Updates on class rank.
 
 ##  Key Mechanics
 
-+ Homework is weekly at due at a fixed time.
++ Homework is weekly at due at a fixed time (11:59 AM Friday).
     + Encourages regular engagement with material and notes review.
     + No confusion
 + Daily Quizzes
     + Small grade cost of non-attendance
     + Commonly returned same day via email
     + Big hit for missing more than four classes, i.e., ~30% of non-exam days.
-
-## What Does This Do?    
-
-+ Big improvement in midterm scores.
-    + Primary effect was very low scoring students moved into the C/B range.
-    + No change in top end of class, they showed up already.
-    + No increase in students dropping class.
-+ Yes, there were some complaints
-    + Within a class, higher grades result in higher SET.
-    + Between classes, better student performance results in lower SET
-
 
 ## It is your effort, not mine
 
@@ -246,9 +248,28 @@ You paid a "small" dollar amount to take this class, but the biggest cost is you
 
 + The school of business has been concerned with students not learning in EC201/202 and gave a knowledge test to their students.
     + Students missed anything mathematical.
-    + Students only were able to answer Costa's Level 1 questions but little else.  For example, students could recognize a definition but could not an example that satisfies the definition.
+    + Students only were able to answer Costa's Level 1 questions, but little else.  For example, students could recognize a definition but could not an example that satisfies the definition.
 
 Which is why we are taking a math test the next class.
+
+## What Does the Math Test Cover?
+
++ Add fractions
++ Multiply Fractions
++ Graph a line
++ Percent Change
++ Solve something like $x = 4 (2 + x)$ for x.
++ Solve solve two equations with two unknowns 
+
+## Lets Look at Some Data From Last Term
+
+## Takeaways
+
++ Mathematical *Thinking* is important.  Those exams had little math.
++ Showing up to class matters.  Students that said they left class early, after the quiz, at least three times scored half as well.
++ Putting effort into the homework helps.
++ Putting effort into reviewing your notes helps.
+
 
 ## Econ Break
 
@@ -300,7 +321,7 @@ http://success.oregonstate.edu/learning/stop-procrastinating
 
 ## What am I trying to get you to do?
 
-+ Come to class.
++ Come to class and stay there.
 + Do your own work.
 + Work with the material regularly -- several times a week -- so you don't procrastinate.
 
@@ -340,7 +361,7 @@ The most expensive part of a meal is not always the best part. Price, the financ
 
 + Randy Bluffstone: Ethiopia and Nepal stoves.
 + Sahan Dissanayake: How to preserve forests REDD+
-+ John Gallup: Estimating income inequality when data is not great
++ John Gallup: How to tell when a survey changes when it is not documented.
 + John Hall: Heterodox
 + Hiro Ito: Trade imbalances and key currencies, and resiliency after natural disasters.
 
@@ -348,7 +369,7 @@ The most expensive part of a meal is not always the best part. Price, the financ
 
 + Arnab Mitra:  Lab experiments on dishonesty.
 + Cesar Rodriguez: Effects of financial openness on exchange rates
-+ Rajiv Sharma: Did Obama-care increase discrimination
++ Rajiv Sharma: Did Obama-care increase discrimination?
 + Sarah Tinkler: Rajiv and her are coauthors on many papers.
 
 ## More
@@ -381,7 +402,7 @@ How to Study: Hints from a successful student
     + If one lingers too long -- ask.
 + Criticism
     + If something doesn't sound right, note it.
-    + All models are limited and can handle everything.
+    + All models are limited and can't handle everything.
 + Emotional reaction
     + My notes have a lot of swearing in them.
     + It's like Morse code

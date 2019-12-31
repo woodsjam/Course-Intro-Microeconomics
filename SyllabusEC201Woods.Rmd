@@ -78,7 +78,7 @@ The pre and post test are are for course, rather than student, evaluation purpos
 
 Grades in the course are based on your rank in the course and not the usual "90% and above is an A" scale you may be accustom to. Approximately 25% of the class will receive As, and approximately 25% will receive Bs.
 
-Every week I will update your approximate rank in the class in D2L as a grade called, "ApproxRank".  Look for a detailed interpretation of what this means for you after the first midterm.
+After the first midterm I will update your approximate rank in the class weekly in grade called, "ApproxRank". 
 
 ## Exams
 
