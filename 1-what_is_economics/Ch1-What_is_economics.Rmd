@@ -85,7 +85,7 @@ This is what allows us to predict future events.
 
 ## Principle #7: Resources should be used efficiently to achieve society's goals
 
-**Efficently**: Has many different meanings.
+**Efficiently**: Has many different meanings.
 
 + Can't get more with same resources.
 + Can't make someone better off without making someone worse off.
@@ -103,7 +103,7 @@ This is what allows us to predict future events.
     + Sometimes markets don't work.
     + Sometimes governments need in modify market rules to make them work better. See Principle 4
     
-"In Republican administrations, it is the economists job to explain that sometimes markets don't work.  In Democratic, that sometimes markets do work"  -- Severin Borenstein, Economist
+"In Republican administrations, it is the economist's job to explain that sometimes markets don't work.  In Democratic, that sometimes markets do work"  -- Severin Borenstein, Economist
 
 
 ## Macro Principles 
@@ -139,3 +139,5 @@ This should remind you of a food chain.  Every species is food for another.
 
 Economists are the most manipulative non-sociopaths you will meet.    
 
+
+## Time to Take a Math Test
