@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC 201 Winter 2020"
+title: "Syllabus EC 201 Spring 2020"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -18,34 +18,43 @@ The official description of the course is:
 
 It is my intent to give you a basket of tools that you can use after the final exam to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices we make.
 
+## COVID-19
+
+This will be a very unusual term.  While this is listed as an in-person class, we will not be meeting in a classroom.  We will be meeting online via Google Meet at the usual course time.  Should Google Meet fail us, we will switch to Zoom. If that fails, I will sort something out until we are left standing in a circle, in a field, separated from each other by at least three meters, where we will discuss microeconomics and barter for toilet paper.
+
+I will keep a link to our Meet space updated in D2L so there is as little confusion as possible and also post any new links in slack.
+
+All homework will be turned in through the assignment function in D2L and the quizzes we have each class session be conducted as quizzes in D2L.
+
+As of today, I am unclear how DRC accomodations will be managed, or if we will be meeting in-person at all this term.
+
 
 ## Key Dates
 
-+ Final Exam: 	*Tuesday*,  March 17, 0800-0950
++ Final Exam: 	*Tuesday*, June 9,	1015-1205
 + Midterm 1: January 29th
-+ Midterm 2: February 19th
-+ Last Day to Withdraw or Change Grade Option: February 23rd.
-+ Holiday: January 20th
++ Midterm 2: April 23rd
++ Last Day to Withdraw or Change Grade Option: May 17th.
 
 
-Exams will be given on those days and at those times only.  The final is required.  
 
-If you have a DRC compensation and would normally schedule an exam in the testing center, please schedule your exam so that it starts at the same time as the class.
+Exams will be given on those days and at those times only.  They will be implemented as a quiz in D2L, open only for the 1:50 of class time and subject to proctoring.  The final is required.  
+
+If you have a DRC compensation and would normally have extra time on an exam, I will set up your exam for that extra time.
 
 ## Contact Information
 
-Communication will be handled through slack https://winter20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
 Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
 
 
 Office Hours:
 
-+ My office is in CH 241-O.
-+ Drop in office hours are Monday 3:00 PM - 4:30 and Tuesday 9:00 AM - 10:30 AM through the last week of class. There is no need to make an appointment for these hours -- just come.
++ There are no in-person office hours this term.  We will use the same google meet function described above.
++ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a google meet up during this time.  Always keep in mind you can ask questions on slack. 
 
-
-There is also a Graduate Assistant for this course, Ashlyn Cenicola, who will be available in CH 230.  She will announce her specific hours later, but  there are other graduate assistants in the room and any one of them should be able to help you.  Please go here rather than the tutors in the library.
+I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
 
 # Textbook and Other Resources
 
@@ -53,13 +62,11 @@ I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth 
 
 The 3rd edition can be found at a more reasonable price and can even be rented for less than \$20. Just remember that you are responsible for keeping track of the differences in chapter numbering and the differences between editions. You can find the table of contents for the 5th edition here (https://www.macmillanlearning.com/college/us/product/Microeconomics/p/1319098789?selected_tab=Contents).
 
-
-
 ## D2L
 
 You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will be due Friday at noon, more precisely 11:59 AM to avoid confusion, and I will always give you at least a week between assignment of homework and the due date -- with the exception of the first assignment about the syllabus.
 
-The course landing page will also have links to the course slack group and the slides I create for class.
+The course landing page will also have links to the course slack group and the slides I create for class.  Slides will mostly be  rough frames at the start of class, some titles and bullet points, but I will at text and diagrams as we go.  
 
 
 # Assessments and Grade Policy
@@ -69,14 +76,13 @@ Your grade in the class will be based on your performance on the midterms, final
 + Final Exam (30%)
 + Midterm 1 (20%)
 + Midterm 2 (20%)
-+ In-class quizzes (20%)
-    + Math Pre-Test,  Second Day of Class Only
-    + Micro Post-Test,  Last Day of Class Only
++ Class Session quizzes (20%)
 + Homework (10%)
 
-The pre and post test are are for course, rather than student, evaluation purposes and will be open response rather than multiple choice.  They are intended to make some contribution to your grade, so that you take them seriously, but not enough to cause stress.
 
-Grades in the course are based on your rank in the course and not the usual "90% and above is an A" scale you may be accustom to. Approximately 25% of the class will receive As, and approximately 25% will receive Bs.
+Grades in the course are based on your rank in the course and not the usual "90% and above is an A" scale you may be accustom to. Approximately 25% of the class will receive As, and approximately 25% will receive Bs.  The exact numbers change depending on overall student performance.
+
+Rank based grades, while not common in the US, have been shown to increase student performance, particularly for high performing students, while not harming lower performing students.
 
 After the first midterm I will update your approximate rank in the class weekly in grade called, "ApproxRank". 
 
@@ -84,20 +90,23 @@ After the first midterm I will update your approximate rank in the class weekly 
 
 Exams will be closed note and closed book.  Problems will be both multiple choice and open response.
 
-A photo ID will be required for all exams. You will only be allowed a writing implement and a calculator.  No headphones, phones, smart watches, internet connected devices, or other material will be allowed.  All backpacks will be stored at the front or side of the classroom.  
+Normally these are conducted in class, but because we are having an odd term, will be conducted in D2L as a quiz.
 
-## In-class quizzes
 
-There may be a pop quiz each class meeting. In-class quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meeting's material. 
+## Class Session quizzes
+
+There may/will be a quiz each class meeting. The quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meeting's material. 
+
+While there will not be proctoring for these quizzes, you are expected to finish them on your own without reference to notes or other outside material.
 
 ## Limitations on non-attendance
 
 Students that don't attend class, don't do well. 
 
-You will only be allowed 4 missing quizzes before I stop giving you credit for work. This is enough leeway to allow you to have an short illness or transportation difficulty, but not enough to allow you to sabotage your education.
+You will only be allowed 4 missing class session quizzes before I stop giving you credit for work. This is enough leeway to allow you to have an short illness or transportation difficulty, but not enough to allow you to sabotage your education.
 
-+ If you miss class five times, please drop the class.
-+ If you have an extended illness or other difficulty that makes it very difficult to come to class, file a deadline appeal to have the course removed from your record and get your tuition returned.  Note that deadline appeals require documentation.
++ If you miss five quizzes, please drop the class.
++ If you have an extended illness or other difficulty that makes it very difficult to join the class online, file a deadline appeal to have the course removed from your record and get your tuition returned. 
 
 
 ## Homework
