@@ -1,5 +1,5 @@
 ---
-title: "Syllabus EC 201 Winter 2020"
+title: "Syllabus EC 201 Spring 2020"
 author: "James Woods"
 date: ""
 output: pdf_document
@@ -18,14 +18,24 @@ The official description of the course is:
 
 It is my intent to give you a basket of tools that you can use after the final exam to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices we make.
 
+## COVID-19
+
+This will be a very unusual term.  While this is listed as an in-person class, we will not be meeting in a classroom.  We will be meeting online via Google Meet at the usual course time.  Should Google Meet fail us, we will switch to Zoom. If that fails, I will sort something out until we are left standing in a circle, separated by at least three meters where we will discuss microeconomics and barter for toilet paper.
+
+I will keep a link to our Meet space updated in D2L so there is as little confusion as possible and also post any new links in slack.
+
+All work product will be turned in through the assignment function in D2L and the quizzes we have each class session be conducted as quizzes in D2L.
+
+As of today, I am unclear how DRC accomodations will be managed.
+
 
 ## Key Dates
 
-+ Final Exam: 	*Tuesday*,  March 17, 0800-0950
++ Final Exam: 	*Tuesday*, June 9,	1015-1205
 + Midterm 1: January 29th
-+ Midterm 2: February 19th
-+ Last Day to Withdraw or Change Grade Option: February 23rd.
-+ Holiday: January 20th
++ Midterm 2: April 23rd
++ Last Day to Withdraw or Change Grade Option: May 17th.
+
 
 
 Exams will be given on those days and at those times only.  The final is required.  
@@ -34,26 +44,23 @@ If you have a DRC compensation and would normally schedule an exam in the testin
 
 ## Contact Information
 
-Communication will be handled through slack https://winter20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
 Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
 
 
 Office Hours:
 
-+ My office is in CH 241-O.
-+ Drop in office hours are Monday 3:00 PM - 4:30 and Tuesday 9:00 AM - 10:30 AM through the last week of class. There is no need to make an appointment for these hours -- just come.
++ There are no in-person office hours this term.  We will use the same google meet function described above.
++ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a google meet up during this time.  Always keep in mind you can ask questions on slack. 
 
 
-There is also a Graduate Assistant for this course, Ashlyn Cenicola, who will be available in CH 230.  She will announce her specific hours later, but  there are other graduate assistants in the room and any one of them should be able to help you.  Please go here rather than the tutors in the library.
 
 # Textbook and Other Resources
 
 I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09878-9).  This textbook is amazingly overpriced.  I will not be assigning questions from the chapters, so feel free to purchase one of the earlier editions of the book.
 
 The 3rd edition can be found at a more reasonable price and can even be rented for less than \$20. Just remember that you are responsible for keeping track of the differences in chapter numbering and the differences between editions. You can find the table of contents for the 5th edition here (https://www.macmillanlearning.com/college/us/product/Microeconomics/p/1319098789?selected_tab=Contents).
-
-
 
 ## D2L
 
@@ -69,7 +76,7 @@ Your grade in the class will be based on your performance on the midterms, final
 + Final Exam (30%)
 + Midterm 1 (20%)
 + Midterm 2 (20%)
-+ In-class quizzes (20%)
++ Class Session quizzes (20%)
     + Math Pre-Test,  Second Day of Class Only
     + Micro Post-Test,  Last Day of Class Only
 + Homework (10%)
