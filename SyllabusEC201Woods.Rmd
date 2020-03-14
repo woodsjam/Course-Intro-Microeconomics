@@ -20,9 +20,9 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 ## COVID-19
 
-This will be a very unusual term.  While this is listed as an in-person class, we will not be meeting in a classroom.  We will be meeting online via Google Meet at the usual course time.  Should Google Meet fail us, we will switch to Zoom. If that fails, I will sort something out until we are left standing in a circle, in a field, separated from each other by at least three meters, where we will discuss microeconomics and barter for toilet paper.
+This will be a very unusual term.  While this is listed as an in-person class, we will not be meeting in a classroom.  We will be meeting online via zoom, which is built in to D2L, at the usual course time.  Should Zoom fail us, we will switch to Google Meet. If that fails, I will sort something out until we are left standing in a circle, in a field, separated from each other by at least three meters, where we will discuss microeconomics and barter for toilet paper.
 
-I will keep a link to our Meet space updated in D2L so there is as little confusion as possible and also post any new links in slack.
+I will keep a link to our Zoom meeting space updated in D2L so there is as little confusion as possible and also post any new links in slack.
 
 All homework will be turned in through the assignment function in D2L and the quizzes we have each class session be conducted as quizzes in D2L.
 
@@ -51,8 +51,8 @@ Slack will be used for IM, email and forum style communication.  It even handles
 
 Office Hours:
 
-+ There are no in-person office hours this term.  We will use the same Google meet function described above.
-+ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Google meet up during this time.  Always keep in mind you can ask questions on slack. 
++ There are no in-person office hours this term.  We will use the same Zoom meeting function described above.
++ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
 
 I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
 
