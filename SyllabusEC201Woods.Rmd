@@ -22,36 +22,35 @@ It is my intent to give you a basket of tools that you can use after the final e
 
 This will be a very unusual term.  While this is listed as an in-person class, we will not be meeting in a classroom.  We will be meeting online via zoom, which is built in to D2L, at the usual course time.  Should Zoom fail us, we will switch to Google Meet. If that fails, I will sort something out until we are left standing in a circle, in a field, separated from each other by at least three meters, where we will discuss microeconomics and barter for toilet paper.
 
-I will keep a link to our Zoom meeting space updated in D2L so there is as little confusion as possible and also post any new links in slack.
+I will keep any changes in our Zoom meeting spaces updated in D2L so there is as little confusion as possible and also post any new links in slack.
 
-All homework will be turned in through the assignment function in D2L and the quizzes we have each class session be conducted as quizzes in D2L.
+All homework will be turned in through the "assignment" or "quiz" function in D2L.  Watch the calendar tool for due dates. The quizzes we have each class session be conducted as a "quiz" in D2L.
 
-As of today, I am unclear how DRC accommodations will be managed, or if we will be meeting in-person at all this term.
+As of today, I am unclear how DRC accommodations will be managed.
 
 
 ## Key Dates
 
 + Final Exam: 	*Tuesday*, June 9,	1015-1205
-+ Midterm 1: January 29th
-+ Midterm 2: April 23rd
++ Midterm 1: April 23th
++ Midterm 2: May 14th
 + Last Day to Withdraw or Change Grade Option: May 17th.
 
 
-
-Exams will be given on those days and at those times only.  They will be implemented as a quiz in D2L, open only for the 1:50 of class time and subject to proctoring.  The final is required.  
+Exams will be given on those days and at those times only.  They will be implemented as a quiz in D2L, open only for the 1:50 of class time and may be subject to proctoring.  The final is required.  
 
 If you have a DRC compensation and would normally have extra time on an exam, I will set up your exam for that extra time.
 
 ## Contact Information
 
-Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/spring20ec201/signup) and your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
 
-Slack will be used for IM, email and forum style communication.  It even handles phone calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
 
 
 Office Hours:
 
-+ There are no in-person office hours this term.  We will use the same Zoom meeting function described above.
++ There are no in-person office hours this term.  We will use the same Zoom meeting function described above. 
 + Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
 
 I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
@@ -64,14 +63,16 @@ The 3rd edition can be found at a more reasonable price and can even be rented f
 
 ## D2L
 
-You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  Homework will be due Friday at noon, more precisely 11:59 AM to avoid confusion, and I will always give you at least a week between assignment of homework and the due date -- with the exception of the first assignment about the syllabus.
+You will turn in homework assignments, either "assignment" or "quizzes" depending on the format of the homework, both of which you will find under activities. An up to date calendar of homework assignments can be found in the left-hand side of the landing page.  
+
+Homework will be due Friday at noon, more precisely 11:59 AM to avoid confusion, and I will always give you at least a week between assignment of homework and the due date -- with the exception of the first assignment about the syllabus.
 
 The course landing page will also have links to the course slack group and the slides I create for class.  Slides will mostly be  rough frames at the start of class, some titles and bullet points, but I will at text and diagrams as we go.  
 
 
 # Assessments and Grade Policy
 
-Your grade in the class will be based on your performance on the midterms, final exam, homework assignments and in-class quizzes.  
+Your grade in the class will be based on your performance on the midterms, final exam, homework assignments and class session quizzes.  
 
 + Final Exam (30%)
 + Midterm 1 (20%)
@@ -98,15 +99,6 @@ Normally these are conducted in class, but because we are having an odd term, wi
 There may/will be a quiz each class meeting. The quizzes are intended to be a check on if you completed the required reading and if you have reviewed the previous meeting's material. 
 
 While there will not be proctoring for these quizzes, you are expected to finish them on your own without reference to notes or other outside material.
-
-## Limitations on non-attendance
-
-Students that don't attend class, don't do well. 
-
-You will only be allowed 4 missing class session quizzes before I stop giving you credit for work. This is enough leeway to allow you to have an short illness or transportation difficulty, but not enough to allow you to sabotage your education.
-
-+ If you miss five quizzes, please drop the class.
-+ If you have an extended illness or other difficulty that makes it very difficult to join the class online, file a deadline appeal to have the course removed from your record and get your tuition returned. 
 
 
 ## Homework
