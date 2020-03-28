@@ -3,18 +3,39 @@ title: "Syllabus and The Class"
 theme: Berlin
 output:
   beamer_presentation: default
+  theme: "Berkeley"
 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width=12, fig.height=8) 
 ```
 
 ## Plan for the Day
 
++ Play with Zoom
 + Walk through the syllabus
 + Walk through tools and resources
 + Talk about how to do well in the course.
+
+## Zoom
+
++ Unmute and mute mic
++ Change your views
++ Show participants
+    + Raise hand
+    + Speed up
++ Show Chat Window
++ Write on my screen
+
+## Business Major Can Take the Class P/NP
+
+This statement is directly from the School of Business
+
+> Given the unprecedented situation with COVID-19 our students are currently experiencing, the School of Business has agreed to allow pass (P) grades rather than letter grades for ECON 201 and 202 taken during the period of time the university was offering remote instruction.
+
+In other words, if you intend to major in business and you want to drop your stress level, change your grading option to P/NP.
 
 ## Syllabus
 
@@ -22,7 +43,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 + **Some** slides will also be on github. (https://github.com/woodsjam/Course-Intro-Microeconomics)
 
-+ The slides are a frame, often blank except for a title, and not a substitute for coming to class.
++ The slides are a frame and often blank except for a title.
+    + Online > Watch Video > Look at slides
+  
 
 
 ## Intro Micro (Official)
@@ -72,39 +95,37 @@ A study of the choices individuals face as participants in the markets for goods
 
 ## Key Dates
 
-+ Final Exam: 	*Tuesday*,  March 17, 0800-0950
-+ Midterm 1: January 29th
-+ Midterm 2: February 19th
-+ Last Day to Withdraw or Change Grade Option: February 23rd.
-+ Holiday: January 20th
++ Final Exam: 	*Tuesday*, June 9,	1015-1205
++ Midterm 1: April 23th
++ Midterm 2: May 14th
++ Last Day to Withdraw or Change Grade Option: May 17th.
 
 
 Exams will be given on those days and at those times only.  Get those on your calendars.  Make sure you are not scheduled to work or deciding to fly somewhere.
 
-DRC People:  Schedule time slots in testing center so that you start at the same time as the rest of class.
 
 ## Contact Information
 
-+ My office is in CH 241-O.
-+ Drop in office hours are Monday 3:00 PM - 4:30 and Tuesday 9:00 AM - 10:30 AM through the last week of class.
++ There are no in-person office hours this term.  We will use the same Zoom meeting function described above. 
++ The link to the office hours zoom meeting is on course landing page.
++ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. 
 
 I will also keep Slack up during office hours to answer questions.
 
 ## Econ Graduate Assistants
 
-+ Econ graduate students are in CH 230
-+ 9ish - 5ish every day except for the seminar time on Fridays.
-+ Any of them can help you but some are better than others.
-+ Just tell them you are in Jamie's 201 class.  
++ Wave
++ GA is online with us for traffic control
++ Still working on good method to make tutoring appointments.
 
-Just go... Don't put it off.
 
 ## Slack
 
 I avoid email since it is a trash heap and a constant distraction.
 
-+ The class will use slack https://winter20ec201.slack.com
++ The class will use slack https://spring20ec201.slack.com
 + Handles direct messages, forum style responses.
++ Phone and video
 + You should be able to sign up with your pdx.edu account
 + Can access via webpage, apps in Android and iOS.
 + Linked in d2l.
@@ -146,19 +167,16 @@ Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018
 
 ## Exams
 
-+ Closed book, notes, internet, friend, etc.
-+ Multiple choice but not, "what is the definition of .." style.
-+ ID check
-+ Bags, phones, smart watches at the side or front of room.
-+ Many versions of the exam.
++ D2L quiz
++ Will include a mix of multiple choice, calculation and short answer questions.
++ Massive randomization
  
-## In-class quizzes
+## Class Session quizzes
 
-+ One each class but at random time.
++ Will be open from start of class till 2 hours afterwards
 + Check if you completed the reading.
 + Check if you reviewed earlier classes.
-+ Key provided via email to your @pdx.edu account.
-+ Miss 5 and you are done.
+
 
 Do yourself a favor and review these questions during exam prep.
 
@@ -178,7 +196,7 @@ These tend to be harder questions that combine two or more ideas from lecture.  
 + You have 168 hrs (7 Days) till it is due. Don't wait till the last 3.
 + We already covered the material you need to do the material when it is posted.
 
-In other words, "I had to work on Friday when I planned on doing the homework. Can I have an extension?", is a non-starter.
+
 
 ## D2L
 
@@ -201,9 +219,7 @@ I will assume you know how  to work D2L.
 + Final Exam (30%)
 + Midterm 1 (20%)
 + Midterm 2 (20%)
-+ In-class quizzes (20%)
-    + Math Pre-Test,  Second Day of Class Only
-    + Micro Post-Test,  Last Day of Class Only
++ Class Session quizzes (20%)
 + Homework (10%)
 
 ## Grades Based on Class Rank
@@ -219,23 +235,6 @@ Example: .84, .82, .77, .76, **.75**, .65, .64, .50, .44, .2, .1
 + The median, i.e., middle, student will earn a B.
 + I will update your rank in class weekly starting after the first midterm.
 
-## Changes to Course From Student Feedback
-
-+ Quizzes are at a random time in class.
-+ Exams will have some open response questions.
-+ Some questions will require algebra.
-+ Updates on class rank.
-
-##  Key Mechanics
-
-+ Homework is weekly at due at a fixed time (11:59 AM Friday).
-    + Encourages regular engagement with material and notes review.
-    + No confusion
-+ Daily Quizzes
-    + Small grade cost of non-attendance
-    + Commonly returned same day via email
-    + Big hit for missing more than four classes, i.e., ~30% of non-exam days.
-
 ## It is your effort, not mine
 
 + I can give you exercises that use the tools discussed in class -- but if you don't do them ...
@@ -250,9 +249,9 @@ You paid a "small" dollar amount to take this class, but the biggest cost is you
     + Students missed anything mathematical.
     + Students only were able to answer Costa's Level 1 questions, but little else.  For example, students could recognize a definition but could not an example that satisfies the definition.
 
-Which is why we are taking a math test the next class.
+Which is why we will be working on math and having it in some assignments and quizzes.
 
-## What Does the Math Test Cover?
+## What  Math?
 
 + Add fractions
 + Multiply Fractions
@@ -260,51 +259,6 @@ Which is why we are taking a math test the next class.
 + Percent Change
 + Solve something like $x = 4 (2 + x)$ for x.
 + Solve solve two equations with two unknowns 
-
-## Lets Look at Some Data From Last Term
-
-## Takeaways
-
-+ Mathematical *Thinking* is important.  Those exams had little math.
-+ Showing up to class matters.  Students that said they left class early, after the quiz, at least three times scored half as well.
-+ Putting effort into the homework helps.
-+ Putting effort into reviewing your notes helps.
-
-
-## Econ Break
-
-We will look at these in greater detail later.
-
-+ Principle #1: Choices are necessary because resources are scarce. 
-+ Principle #2: The true cost of something is its opportunity cost. 
-+ Principle #3: How much is a decision at the margin. 
-+ Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
-
-Why did I allocate grades the way I did?
-
-## Why from My POV?
-
-+ Principle #1: Choices are necessary because resources are scarce. 
-    + Had to add up to 100%
-    + Only so much time I can grade.
-+ Principle #2: The true cost of something is its opportunity cost. 
-    + Focus on higher quality, in-class, information.
-    + Making sure I am giving **you** the grade and not someone else.
-
-    
-## Why from My POV? (Con't)
-
-+ Principle #3: How much is a decision at the margin. 
-    + More on homework would mean less on exams or quizzes.
-    + Balanced to achieve my objective -- you knowing things and being able to do things.
-+ Principle #4: People usually respond to incentives, exploiting opportunities to make themselves better off. 
-    + I am manipulating you.
-    + What am I trying to get you to do?    
-    
-
-## Show up
-
-Duh!
 
 ## Do your Own Work
 
@@ -318,37 +272,6 @@ Duh!
 + Regular interaction, to create habit, is supposed to help.
 
 http://success.oregonstate.edu/learning/stop-procrastinating
-
-## What am I trying to get you to do?
-
-+ Come to class and stay there.
-+ Do your own work.
-+ Work with the material regularly -- several times a week -- so you don't procrastinate.
-
-## Bonus Question
-
-Principle #2: The true cost of something is its opportunity cost.
-
-+ Final Exam (30%)
-+ Midterm 1 (20%)
-+ Midterm 2 (20%)
-+ In-class quizzes (20%)
-+ Homework (10%)
-
-So ...
-
-+ What is most important?
-+ Do the 'points' fully describe the opportunity cost?
-
-## Looks like the Final but it isn't
-
-+ What is the opportunity cost of not coming to class?
-    + Can't take the quiz
-    + You only get the slide version of the lecture, not the full version.
-    + Do you think you can do well on the homework and exams without attending class?
-  
-  
-The most expensive part of a meal is not always the best part. Price, the financial part, does not always indicate quality or importance.
 
 ## So about you business majors
 
