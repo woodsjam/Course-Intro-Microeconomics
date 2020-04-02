@@ -101,7 +101,7 @@ A study of the choices individuals face as participants in the markets for goods
 + Last Day to Withdraw or Change Grade Option: May 17th.
 
 
-Exams will be given on those days and at those times only.  Get those on your calendars.  Make sure you are not scheduled to work or deciding to fly somewhere.
+Exams will be given on those days and at those times only.  Get those on your calendars.  
 
 
 ## Contact Information
@@ -183,12 +183,12 @@ Do yourself a favor and review these questions during exam prep.
 
 ## Homework
 
-+ At most weekly at 11:59 AM, i.e., Noon.
++ At most weekly at 11:59 AM, i.e., Noon, Friday
 + Assigned after we have done the material.
 + Turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function. 
 + _Do not_ write the assignments out by hand and then turn in a photo in pdf form.
 
-These tend to be harder questions that combine two or more ideas from lecture.  Except for the first one, don't expect to knock them out in 30min.  
+These tend to be harder questions that combine two or more ideas from lecture.  Don't expect to knock them out in 30min.  
 
 ## Homework Hints
 
@@ -200,12 +200,14 @@ These tend to be harder questions that combine two or more ideas from lecture.  
 
 ## D2L
 
-I will assume you know how  to work D2L. 
+I will assume you know how  to work D2L, but lets peek anyway.
 
 + Calendar on left
 + Links in the middle
 + Content, Quizzes and Grades up top
-+ Except for turning in homework and displaying grades -- I don't make use of D2L.
++ Zoom meetings in People.
+
+All this is in the watch me first video.
 
 ## D2L Key Takeaways
 
