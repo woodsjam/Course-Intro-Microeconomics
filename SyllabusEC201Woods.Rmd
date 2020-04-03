@@ -58,7 +58,7 @@ Slack will be used for IM, email and forum style communication.  It even handles
 Office Hours:
 
 + There are no in-person office hours this term.  We will use the same Zoom meeting function described above. 
-+ Drop in office hours are Tuesday 2:30-3:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
++ Drop in office hours are Wednesday 12:00-1:30pm and Thursday 8am-9am through the last week of class. I will keep a Zoom meeting up during this time.  Always keep in mind you can ask questions on slack. 
 
 I will generally be up and online during regular working hours. Don't expect instant responses.  I have another class, research and administration responsibilities too.
 
