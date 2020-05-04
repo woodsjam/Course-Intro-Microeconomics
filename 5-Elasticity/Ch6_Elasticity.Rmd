@@ -1,0 +1,167 @@
+---
+title: "Elasticity"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Goals
+
++ Develop a measure of sensitivity that is not unit dependent.
++ Get intuition on what goods are price sensitive and which are not.
++ Extend to:
+    + Normal vs Inferior
+    + Complement vs Substitute
+    
+## Link to Taxes
+
+We talked about sensitivity to prices when addressing burden of a tax.
+
++ The greater tax burden falls on the party least willing to change behavior when prices change.
++ Goods with high price sensitivity tend to have high excess burden when taxed.
+
+## The Problem
+
+The natural measure of price sensitivity is the slope of supply or demand
+
+$$\frac{Dollars/lb}{lb}$$
+
+Units are still in there.  Makes it hard to compare two goods without the same measure, i.e., gallons and pounds.
+
+## Elasticity
+
+$$\frac{\% \Delta Effect}{\% \Delta Cause}$$
+
++ Percent change comes without units $\% \Delta = \frac{End \$ - Begin \$}{Begin \$} = \frac{End - Begin}{Begin}$.
++ Elasticity is unit free
++ Credit to engineers; economics stole it.
+
+
+## Demand Elasticity
+
+$$\frac{\% \Delta D_q}{\% \Delta P}$$
+
++  Percent change in quantity demanded over percent change in price.
++ Is negative for demand function, but some old folks talk as positive.
++ Kind of like slope but:
+    + A linear demand has different elasticity at every point.
+    + A demand with constant elasticity is shaped like a hyperbola $P = \frac{a}{q^{elasticity}}$
+    + No units so can compare feet to gallons.
+    
+## Definition of Terms for Demand
+
++ $\xi_{good}$, Greek xi, $EL_{good}$, $E_{good}$, $\eta_{good}$, Greek eta, are all common.
++ $E{good}< -1$: Elastic.  Sensitive to price changes.
++  $E{good}> -1$: Inelastic.  Insensitive to price changes.
++  $E{good}=1$: Unit elastic.  
+
+## Elasticity and Expenditures
+
++ When a good has an elastic demand
+    + Desired purchases increases/decreases quickly when prices change.
+    + Price decreases cause an increase in total expenditures on the good.
+    + Price increases cause a decrease in total expenditures on the good.
+    
+## Demo Expenditures
+
+
+## What Goods are More Elastic than Others?
+
++ Narrower definition, e.g., beans vs all food
++ Longer time scale, e.g., this year vs today
++ Many close substitutes
++ "Luxury" vs "Necessity", e.g., high-end sports cars 
+
+## Examples
+
++ Green beans vs blue lake green beans
++ Gas the week vs gas this year
++ Any one of 100 IPAs in Portland
+
+## Real Life
+
+Soft drinks:
+
++ -0.8 to -1.0 (general)
++ -3.8 (Coca-Cola)
++ -4.4 (Mountain Dew)
+
+Car fuel:
+
++ -0.09 (Short run)
++ -0.31 (Long run)
+
+## Supply elasticity is similar
+
+Just positive sign
+
+## Expanded Concept 
+
+
+$$\frac{\% \Delta Effect}{\% \Delta Cause}$$
+
+
++ Income Elasticity, $E_{good, income}=\frac{\% \Delta D}{\% \Delta I}$
++ Cross Price, $E_{good_1, good_2}=\frac{\% \Delta D_1}{\% \Delta P_2}$
+
+Both are about the location of demand and they quantify things we already know.
+
+
+## Income Elasticity
+
+Tells us how normal or inferior a good is:
+
++ $E_{good, income} > 0$ Normal
+    + $E_{good, income} > 1$ Luxury or income elastic
+    + $0 <E_{good, income} < 1$ Necessity or income inelastic
++ $E_{good, income} <0$ Inferior    
+
+## How to Tell Luxury from Necessity
+
+If your income doubles and your purchases more than double when the price does not change, then luxury.
+
+## Real Life
+
+Tobacco 0.42
+Margarine -0.20
+Books 1.44
+
+## Cross-Price Elasticity
+
+Tells us how substitutable goods are:
+
++ $E_{good_1, good_2}>0$ Substitutes
++ $E_{good_1, good_2}<0$ Complements
+
+## Calculation
+
+Elasticities allow back of the envelop calculation -- if you know the right elasticity.
+
++ If you know the price change, you can calculate the change in purchases.
++ If you know the income change, you can calculate the change in demand, assuming prices remain the same.
+
+## Why?  Cancellation
+
+$$\% \Delta P \frac{\% \Delta D_q}{\% \Delta P}= \% \Delta D_q$$
+
+So, if you see a 10% drop in the price of Mountain Dew  with $E_p =-4.4$ then you should see a $-10 \% (-4.4) = 40.4\% $ increase in the sales of Mountain Dew.
+
++ Watch the negative signs
++ Works with other elasticities too
+
+
+## Look at some real life
+
+https://www.ers.usda.gov/data-products/commodity-and-food-elasticities/
+
+## Next Up
+
++ Heading to production and costs
++ We will actually find where the supply curve comes from
++ Duplicate our perfect competition results
++ Show long-term changes
++ Then extend to monopolies.
+
