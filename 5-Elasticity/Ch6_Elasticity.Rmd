@@ -125,9 +125,9 @@ If your income doubles and your purchases more than double when the price does n
 
 ## Real Life
 
-Tobacco 0.42
-Margarine -0.20
-Books 1.44
++ Tobacco 0.42
++ Margarine -0.20
++ Books 1.44
 
 ## Cross-Price Elasticity
 
@@ -147,7 +147,7 @@ Elasticities allow back of the envelop calculation -- if you know the right elas
 
 $$\% \Delta P \frac{\% \Delta D_q}{\% \Delta P}= \% \Delta D_q$$
 
-So, if you see a 10% drop in the price of Mountain Dew  with $E_p =-4.4$ then you should see a $-10 \% (-4.4) = 40.4\% $ increase in the sales of Mountain Dew.
+So, if you see a 10% drop in the price of Mountain Dew  with $E_p =-4.4$ then you should see a $-10 \% (-4.4) = 44\%$ increase in the sales of Mountain Dew.
 
 + Watch the negative signs
 + Works with other elasticities too

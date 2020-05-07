@@ -1,0 +1,133 @@
+---
+title: "Production"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Goals
+
++ Create a taxonomy, i.e., a categorization, of productive inputs
++ Show a general pattern of production and why those patterns happen.
++ Use a production function to derive common cost functions: AC, MC, AVC, AFC, etc.
+
+
+Warning: Things will be getting mathy and graphy.
+
+## The Hot dog Stand
+
++ Actual hot dog stand on the Santa Cruz Boardwalk in the 70s.
++ Really small
++ Very experimental person running it.
+
+
+## The Stand and Things in it
+
+
+## Inputs
+
++ All the things, tongs, bottles, buns, kimchi, are *inputs*.
++ Those divide into two groups:
+
+    + *Fixed inputs*, Capital (K): Don't change when output changes.  Are uncorrelated with output. (The building, tongs, steam trays, ...)
+    + *Variable inputs*, Labor (L): Change when output changes.  Are correlated with output.(The buns, kimchi, mustard, people working,...)
+    
+We will bundle the variable inputs into one and call it labor minutes.  "Labor" and "Capital" are convention.
+
+## Add People and Plot What is Made
+
+
+## Observe
+
++ No variable inputs, no outputs.
++ Add variable inputs and output goes up, but eventually falls.
++ Each worker add more to output than the previous for a while.
+    + Increasing *marginal product of labor*
+    + For calc people $\frac{\partial^2}{\partial x^2} > 0$
++ Each worker then adds more to output, but the increase of each new worker is less than the last.
+    + Decreasing *marginal product of labor*
+    + For calc people $\frac{\partial^2}{\partial x^2} < 0$
++ Ignore the part where we make output go down.  It is silly.
+
+## Why Increasing and Decreasing $MP_L$?
+
++ Increasing $MP_L$, output increaseses and last added adds **more** than the previously added.
+    + Less idle capital but labor in constant motion.
+    + More specialization.
+    + Learning by doing (Slightly off)
+
++ Decreasing $MP_L$, output increases and last added adds **less** than the previously added.
+    + No idle capital but labor not in constant motion.
+    + No more gains from specialization on this scale.
+  
+## Our Clean Idealized Production Function
+
+
+## Lets Turn this Into Costs
+
++ Invert production function, $f(input) = output$ to get **inverse production** function, $f^{-1}(output) = input$.
++ Multiply inverse production function by price of variable input, wages, $w$ to produce **variable cost function**, $wf^{-1}(output) = w input = VC(output)$.
++ Add cost of fixed inputs, $r$, to produce **total costs**, $VC(inputs) + rK = VC(output) + rK = VC(output) + FC = TC(Output)$
+
+## Inverting with Mirrors and Pipe cleaners
+
+
+## Multiply by Stretchering
+
+## Add by Sliding
+
+
+## Great, but We Need More
+
++ Eventually we will find the output that maximizes profit.  
++ Calc people know that means take a derivative.
++ Will do this graphically but we need more cost functions.
+
+## The Average Family
+
+$$\frac{g(x)}{x} = Average~G~Function$$
+
++ Will put a variety of costs in for $G$.
++ AFC: Average fixed cost
++ AVC: Average variable cost
++ AC or ATC: Average Cost or Average Total Cost
+
+## The Marginal
+
++ For calc people, $\frac{\partial TC}{\partial q} = \frac{\partial TC}{\partial q} = MC(q)$
++ For non-calc, the **additional** costs required to produce one more.
+
+
+## Cord from Origin Trick on AFC
+
+
+## Construct AVC
+
+
+## Construct AC
+
+## Construct MC
+
+## All the Average/Marginal at Once
+
+## Key Features
+
++ AC generally like a smile but can have other shapes IRL
++ Mark the min of AC
++ MC looks like a Nike swoosh/fish hook that cuts min of AC.
++ AVC is less than AC, is cut at min by MC, and gets closer and closer to AC as output increases. ***THIS IS THE HARD PART***
++ Note hidden AFC, the vertical distance between AC and AVC.
+
+## A Few Rules
+
++ FC is fixed
++ $TC = VC + FC$
++ $VC(0) = 0$
++ $AC = AVC + AC = \frac{TC}{Q} = \frac{VC}{Q} + \frac{FC}{Q}$
++ $MC(Q) = TC(Q+1) - TC(Q) = VC(Q+1) - VC(Q)$ The non-calc definition varies by textbook.  Caution.
+
+
+## Try a Table
