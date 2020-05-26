@@ -1,0 +1,163 @@
+---
+title: "Perfect Competition in the Long-Run"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Warnings and Goals
+
+Long-run, long enough for all inputs to be variable or long enough for entry and exit to take place.
+
+Two approaches:
+
++ Individual firms changing size, the intensive margin, which involves long-run average cost, is done in EC 311/415 at PSU.
++ Firms entering and exiting, the extensive margin, is what we will do here.
+
+Yes, we will do some small group practice on drawing the cost curves.
+
+
+##  How Long is Long-Run
+
+Long-Run : Long enough for all inputs to be variable or long enough for entry and exit to take place.
+
++ Could be a week  -- think how fast you can move a food cart from one pod to another.
++ Could be 10 years -- The aluminum industry saw no entry for 10 years in the lead up to WWII.
+
+There is never a specific  time, but if a firm can enter and exit faster and change scale faster -- they have an advantage (OODA Loop argument)
+
+
+## Long-Run Equilibrium Defined
+
++ The market is in short-run equilibrium.  Supply = Demand.
++ Firms earn zero economic profit.
+
+
+Off to breakout rooms to make cost curves where the firm earns zero economic profit.
+
+## Hints
+
+Price should be equal to the minimum of average cost
+
+
++ Find $q^*$ where $MC = MR$
++ Start at $q^*$ go to AC and hang a left.  
+    + That is $AC^*$.
+    + Box is Total Cost, $TC^* = AC^* q^*$
++ Start at Start at $q^*$ go to $AR=P=MR=D_{firm}$ and hang a left.  
+    + That is $AR^*$.
+    + Box is Total Revenue, $TR^* = AR^* q^*$
++ Little box on top is profit. (But has zero area)
+
+
+## Long-Run Equilibrium Graphically
+
+
+
+##  Now change something
+
+Increase the demand for the good.
+
++ Demand increases and therefore price and market transactions increase.
++ As price increases the individual firms:
+    + Increase output
+    + Increase profits
++ Then in the long-run
+    + Positive profits induce entry.
+    + Entry causes an increase in supply (Increase in # of firms)
+    + That reduces price and increases market transactions
+    
+    
+## And Then
+
++ Individual firms then
+    + Decrease output as the price falls
+    + See decreased profit.
++ Until a New Long-run equilibrium is established
+    + Supply = Demand
+    + Profits are zero
+
+
+Now, you go do it.
+
+## Graphically    
+
+
+## Summary of price and quantity changes
+
++ Markets:
+    + SR: Price increase and transactions increase.
+    + LR: Supply increases which causes prices to fall and market transactions to increase.
++ Individual Firms:
+    + SR: Production and profits increase.
+    + LR: Both production and profits decrease to original
+    
+In the end, there are more firms to serve the increased demand.    
+
+## In Graphs
+
+
+## Now Lets Change the Rental Rate
+
+Think of this as what happens to restaurants when the building rents increase.
+        
++ The AC function shifts up
++ Individual Firms:
+    + Don't change output, MC did not change.
+    + Profits fall/become negative
++ Then in the long-run
+    + Negative profits induce exit.
+    + Exit causes an decrease in supply (Decrease in # of firms)
+    + That increases price and decreases market transactions
+    
+    
+## And Then
+
++ Individual firms then
+    + Increase output as the price increases
+    + Profits improve.
++ Until a New Long-run equilibrium is established
+    + Supply = Demand
+    + Profits are zero
+
+## Graphically    
+
+
+## Summary of price and quantity changes
+
++ Markets:
+    + SR: Price increase and transactions increase.
+    + LR: Supply increases which causes prices to fall and market transactions to increase.
++ Individual Firms:
+    + SR: Production and profits increase.
+    + LR: Both production and profits decrease to original
+    
+In the end, there are more firms to serve the increased demand.    
+
+
+Now, you go do it.
+
+## Graphically    
+
+
+## Summary of price and quantity changes
+
++ Individual Firms:
+    + SR: Production unchanged but profits decrease.
++ Markets:
+    + LR: Profit decrease causes firms to exit. Supply decreases which causes prices to rise and market transactions to decrease.
++ Individual Firms:
+    + Prices increase until profit is again zero.
+    + As the prices increase, individual firms increase output.
+    
+In the end, there are fewer firms that serve more customers individually, but less collectively.  The rent increase is directly reflected in price.    
+
+## In Graphs
+
+## Next Up
+
+Monopoly
+        
