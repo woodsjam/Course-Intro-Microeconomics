@@ -1,0 +1,283 @@
+---
+title: "Public Goods and Friends"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## IRL
+
+Economists spend most of their time studying where markets don't work because not all goods are like a cup of coffee.
+
++ Rival -- only one person at a time can enjoy the good.
++ Non-rival -- many people can enjoy the good at the same time.
++ Excludable -- I can stop you from enjoying the good.
++ Non-excludable -- I can't stop you.
+
+
+## The Usual Taxonomy
+
+|       | Rival  | Non-Rival |
+|---    |---     |---        |
+|Excludable | Private Goods | Artificially Scarce|
+|Non-excludable| Common Resource|  Public Goods|
+
+## Private Goods
+
+What we have been looking at all term
+
+## Common Resource
+
+Non-excludable and Rival:  I can't keep you out but when you enjoy the good, I enjoy it less.
+
++ Roads:  Can't keep you off and you cause traffic.
++ The air:  Can't keep you from using the atmosphere as a trash dump.
+
+We look at this in Resource Economics (EC 430), Urban Economics (EC 431) and Public Economics(EC 435)
+
+## Artificially Scarce
+
+Excludable but non-rival:  I can keep you out but your enjoyment has no effect on me.
+
++ Movies/Pay Per View
++ Things that require memberships (But there are limits)
+
+We look at this in Public Utility Economics (EC 437) and Industrial Organization (EC 425) and Regulation (EC 426)
+
+## Public Goods
+
+Non-excludable and Non-Rival:  I can't keep you out but your enjoyment has no effect on me.
+
++ Over air TV
++ Fireworks
++ National Defense
+
+We study this in Public Economics (EC 435) and Labor Economics (EC 465)
+
+
+## Details?
+
+For each problem:
+
++ Give a diagrammatic description using supply and demand or cost curve style reasoning.
++ One kind of solution to the problem.  
+    + It tends to be the low cost solution but not always.
+    + Every solutions comes with limitations.
+    + Some will never get political traction.
+    
+## Common Resource
+
++ Use supply, marginal private cost and marginal social cost, and demand, marginal private benefit, reasoning.
++ There is a socially optimal amount, but we overuse.
++ Classic solutions
+    + Convert to individual property rights
+    + Publically manage the commons
+    + Tax the use of the commons
+    + Make it excludable in some way.
+
+## Marginal Benefits and Costs
+
++ The cost of producing one more unit of the good.
+    + MC and Supply are both Marginal Cost functions.
+    + The marginal cost to you may not be the marginal cost to society.  It could be free to you.
+
+
++ The benefit of consuming one more unit of the good.
+    + Demand is a marginal benefit function.
+    
+    
+## Finding Socially Optimal
+
+
+## Summary
+
+When marginal benefit is equal marginal cost, net benefits are maximized.
+
++ This is the first-order condition from calc 1.
++ Note, I did not say private or social.
++ Yes, it does make sense to pollute a little if we share costs and benefits.
+
+
+## Change the Assumption
+
+There is no cost to you.  Using the resource as zero marginal private cost.
+
+## Socially Optimal vs Private Optimal
+
+
+## Summary
+
+When you have free access, you overuse the resource.
+
+## How do We Fix?
+
++ Create individual property rights
+
+These are variations on a theme:
+
++ Manage for Public Benefit
++ Tax use of the commons
++ Make excludable in some way
+
+
+## Create Individual Property Rights
+
+Individuals buy all existing rights or government declares it.
+
++  The Enclosure Movement in UK between 15th and 19th Centuries.
++ Tradeable Fishing Rights.
++ Cap and Trade generally
+
+## Manage For Public Benefit
+
+Examples:
+
++ Bureau of Land Management: Grazing mining, recreation, timber
++ Oregon Common School Fund
+
+But:
+
++ We fight over how this is done.
++ Government charges a price to use, called a royalty.
+
+## Tax or Charge Royalty Diagram
+
+
+## Observations
+
+Tricky to get the right price.  
+
++ $10 for a truckload of wood.  
++ \$1.35 per animal unit month (AUM)
+
+## Make Commons Excludable By Law
+
++ Fishing seasons
++ HOV lanes
+
+
+## Artificially Scarce
+
++ Think of something like a movie.  
+    + Large up-front cost
+    + Cost per view is just some electricity.
+    + You can keep people from seeing it.
++ Costs are different
+    + Fixed cost
+    + Constant $MC=AVC$
+
+
+## How Do they Choose Output
+
+
+## They are a Monopolist
+
++ They do monopolist things, raise price, lower quantity.
++ Transfer surplus from consumers to producers.
++ Produce less than the socially optimal amount.
+
+
+## Problem
+
++ If they produce the socially optimal amount, they earn negative economic profits.
++  Firms don't want to do it.
+
+## Diagram
+
+
+## We Regulate This
+
+Many ways to do this but most try to get prices such that profits are zero.
+
+This is what public utility commissions do with natural gas and electricity.
+
+## Public Goods
+
++ With private, rival, goods, add quantities at known prices to get market demand.
+
++ With public, non-rival, goods, add willingness to pay at known quantities.
+
+
+## Algebraic Example
+
+$$MB_{Alice} = 20 - \frac{20}{80}q$$
+$$MB_{Bob} = 40 - \frac{40}{80} q$$
+
+With $MC = 15$
+
+## Private Goods
+
++ Solve MB, which is willingness to pay, in terms of quantity and then add.
++ This gives market demand.
++ Set equal to MC and solve for equilibrium.
+
+## How Much Should be Produced?
+
+$$
+\begin{split}
+15 = MB_{Alice} = 20 - \frac{20}{80} q_{Alice}\\
+15 = MB_{Bob} = 40 - \frac{40}{80} q_{Bob}
+\end{split}
+$$
+
+You should get 70.  This is also socially optimal.
+
+
+## What is Socially Optimal for Public Good?
+
+$$15 = SMC = SMB =20 - \frac{20}{80} q + 40 - \frac{40}{80} q$$
+
+You should get 60.  We need less because we can enjoy at the same time.
+
+## How much would people voluntarily Contribute?
+
++ Look at the Private Demands
++ At a price of 15
+    + Alice would contribute enough for 50
+    + Bob would contribute enough for 20.
++ Bob knows Alice contributes enough for 50.
++ Bob does not contribute.
+    + There is already more than he wants.
+    + Why is the gubmit wasting money?
+
+## Voluntary Contribution Under provisions
+
+Unless people take into account the benefits that go to others.
+
++ They will only contribute so that it maximizes personal benefit.
++ This is what Forrest Williams studies
+
+## Normally What We Do
+
+We vote on things like this.
+
++ We do a cost benefit analysis
++ Pick a number and let people vote
++ Cost benefit analysis of things like this is what Bluffstone studies.
+
+
+## Theoretical Trick
+
+Lyndahl Tax:
+
++ Find the socially optimal quantity of the good.
+    + Know everyone's MB function
+    + Everyone tells you the truth
++ Find for each person the marginal benefit and charge them for it.
+
+
+## In Our Example
+
+Socially optimal was 60 so:
+
+$$
+\begin{split}
+MB_{Alice} = 20 - \frac{20}{80} 60 = 5\\
+MB_{Bob} = 40 - \frac{40}{80} 60 = 10\\
+\end{split}
+$$
+
+Note it adds to the marginal cost.

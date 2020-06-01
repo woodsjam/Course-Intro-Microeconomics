@@ -1,0 +1,174 @@
+---
+title: "Monopolistic Competition"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+##  Monopolistic Competition
+
+Old model from the 1930s and before game theory.  Probably the most common market.
+
+
+If you can remember a brand, it is probably monopolistic competition.
+
++ smartphones
++ toothpaste
++ The cereal aisle in the grocery store (if you ignore they are made by the same company)
+
+
+## Assumptions
+
++ Many buyers and sellers
++ Heterogeneous goods.  There are non-price differences.
++ Firms have price setting behavior.
++ Free entry and exit
++ All firms effect all other firms.  Nothing is local.
+
+The model is used a lot of macroeconomics but only at the EC312 and higher level.
+
+## Good Things About Monopolistic Competition
+
++ Good at small innovation
++ More personalized, while still mass produced
++ Preserves historical variety
+
+## Small Innovation
+
+Technical Rain jackets
+
++ Napoleon  pockets
++ Pit zips
++ Low cut in back
+
+American Hefeweizen
+
+## More Personalized
+
++ Shoes and foot models
++ Cut of pants
+
+## Preserve Historical Variety
+
++ Tomatoes
++ The Porter
++ Modelo Negra
+
+## The Graphs are the same as Monopoly
+
+## The Bad Things
+
++ Price and quantity effects
+    + Price is higher
+    + Less is sold
++ Welfare Effects
+    + DWL
+    + Reduction in CS
+
+The long-run effects are a little different.
+
+
+## What is Different? 
+
+
++ Entry and exit, yes but how they enter and exit.
++ Entry and exit means that profits are competed down to zero.
+
+
+Try drawing a monopoly graph with zero economic profit.  
+
+
+## MC in Long-Run
+
+
+## Why and How Does That Happen?
+
+Every time a firm leaves or enters, all the other firms' demand functions change.
+
++ Entry and exit cause decreases and increases in demand.
++ It also changes the elasticity depending on how similar.
+
+
+## Lets Talk Beer
+
+Imagine I own the only brewery in a small town.  People can either drink the one beer I make, a pilsner, here or they can sit at home and drink water (moist county).
+
++ If I increase the price of beer -- more people stay home.
++ If I decrease the price of beer -- more people come in
+
+In other words it is a demand curve but pretty inelastic.
+
+## A New Brewery Comes to Town
+
+They make a stout.
+
+Now people have three choices:
+
++ Drink pilsner here.
++ Drink stout there.
++ Drink water at home.
+
+##  Pretend people have strong beer tastes
+
++ They either like pilsner or stout
++ Some are willing to switch sides because -- beer.
+
+
+You lose some customers, decreasing demand.
+
+## Decrease Demand
+
+## What if ...
+
+They make a pilsner too?
+
+We make the same beer.  They are perfect substitutes.
+
++ If my price is higher -- no customers
++ If my price is lower -- all the customers
+
+We are now perfect competitors and take price as given.  $P=AR=MR=D_{firm}$ Again
+
+## Now Perfect Competitors
+
+
+## What if ...
+
+They made and IPA?
+
+Similar to, but not the same, and people that like pilsners also like IPAs
+
+Customers become more sensitive to price: 
+
++ If I raise price, some go home and drink water, others leave to drink IPA.
++ If I lower price, some water drinkers come back, and some IPA drinkers come back.
+
+The more similar the new product, the more your demand curve rotates, becomes more elastic.
+
+## How Entrant Changes Your Demand
+
+## Now Pretend You are the Entrant
+
+What kind of beer do you make?
+
++ Similar enough to steal customers
++ Not so similar so that you have market power
+
+## Beerspace
+
+## Each New Entrant
+
++ Picks a spot where there is profit.
++ Lowers everyone's profit
++ Sooner or later there are no more profitable spots -- everyone has zero economic profit.
+
+This is an evolutionary equilibrium
+
+## In the Long-Run
+
++ Profits are zero, same as PC.
++ Costs are higher than the minimum of average cost, different than PC.
++ The produce less than quantity at min of AC.  They have excess capacity
