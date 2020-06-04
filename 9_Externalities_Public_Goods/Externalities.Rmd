@@ -1,0 +1,441 @@
+---
+title: "Externalities"
+author: "James Woods"
+date: ""
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+## What is an Externality?
+
++ A cost or benefit to an agent not involved in a transaction.
++ Please note:
+    + It could be because of production (Example: The colored glass factories in Portland)
+    + Or because of consumption (Example: Cigarette butts)
+
+It means that we are missing a property right or that the right is hard to enforce.
+
+## The Missing Market
+
++ We often frame externalities as a missing market or property right.
+    + The right to quiet after 10pm
+    + The right to dump $CO_{2e}$ into the air
++ We then analyze the goods market with the externality internalized and not.
++ And the hypothetical market with the externality.
+    + What would it look like with property rights
+    + What does it look like without.
+
+
+## Externalities Cause Over and Underproduction
+
+When you analyze the goods market:
+
++ You include Supply and Demand but only the _private_ costs and benefits
++ You also show the externality cost/benefit as a shift to supply or demand
+    + You can model it either way
+    + Supply decrease with an additional, privatized cost, is more common.
+
+## A Positive Externality
+
+This is intended to be a positive effect on others that the buyer or seller can not capture.
+
+In this case:
+
++ We model it as a benefit caused by the consumption of others.
++ Consumption causes a benefit to others that the individual can not capture.
++ Having a nice yard is an example.  It helps surrounding property values.
+
+## Welfare Effects of Positive Externalities
+
+![](UnderuseMarket.png){ height=85% }
+
+## Summary
+
++ If you could capture the benefits to others -- demand would be higher.
++ Socially optimal consumption is higher than when you can't capture the benefits.
++ There is a social loss.
+
+
+## Negative Externality
+
+This is a cost imposed by others that the buyer or seller does not have to pay for.
+
+In this case:
+
++ We model it as a cost, caused by the production, that is imposed on others.
++ Production causes a cost to others that the firm avoids.
++ Remember those glass factories with the heavy metals.
+
+
+## Welfare Effects of Negative Externalities
+
+
+![](NegativeGoodsMarket.png){ height=85% }
+
+## Summary
+
++ If someone could charge for the cost -- supply would be lower.
++ Socially optimal consumption is lower than when you can't charge for the costs.
++ There is a social loss.
+
+
+## Yes, somethings should not be produced but are ...
+
+![](DontProduce.png){ height=85% }
+
+
+## You can also look at the Externality Market
+
+This is a theoretical market where a price exists for the externality
+
++ It often assumes a property right.
++ There is a socially optimal level of the externality
+    + Yes, even pollution
+    + If nature can process some of the toxins over time, then yes
++ The current law price of the externality is often zero.
+
+
+## When There are No Property Rights
+
+![](OveruseExternalityMarket.png){ height=85% }
+
+
+## The Major Approaches
+
++ Command and Control
+    + In equipment
+    + In levels
++ Pigouvian Taxes
++ Cap and Trade
+
+There are also hybrids, cap and trade with price ceilings and floors.
+
+## A word on costs
+
+There are a few interesting issues about costs
+
++ Value of a statistical life
+    + $9.1 million (Environmental Protection Agency, 2010)
+    + $7.9 million (Food and Drug Administration, 2010)
+    + $9.6 million (Department of Transportation, Aug. 2016)
++ Perceived vs Actual risk
+    + The driving vs flying phenomena
++ Different Costs
+    + Damage Cost -- What happens if you don't clean it up
+    + Abatement Cost -- What it costs to clean up
+    + Prevention Cost -- What it cost to not put it out.
+    
+## Command and Control
+
++ Two cases, required equipment and individual limits
++ Required equipment
+    + This often slows down innovation
+    + No advantage to do anything different
+    + No advantage to develop new control strategies
++ Individual limitations
+    + Usually the most expensive way to achieve a reduction
+    + Different firms have different cost to reduce externalities
+    + Those that find it cheap to reduce should do more
+
+## Individual Limits    
+
++ Everyone has the same limit
++ Different costs to reduce the externality
++ We can get to the same level cheaper by:
+    + Having the high cost  firm do less and the low cost firm do more.
+    + Transfer money from one to the other.
+  
+    
+## CC Graph    
+
+![](CC.png){ height=85% }
+    
+    
+## Tax It
+
+Another classic solution is the Pigovian tax/subsidy.
+
++ Figure out the cost of the externality
++ Set up a measuring system
++ Charge per usual
+
+## Tax It Diagram
+
+![](CarbonTax.png){ height=85% }
+
+## Comments on Carbon Tax
+
++ Really hard to estimate the right number
++ Harder to get it implemented (It is almost always, "too expensive" or "costs jobs")
++ Price is very stable -- business likes
++ Quantity is highly variable -- environmentalists hate
++ What WA tried to get in 2018
+
+## Cap and Trade
+
+Another classic solution is cap and trade.
+
++ Allocate the rights to pollute, called _allowances_
+    + Gov't takes all or gives away often doesn't matter.
++ Create a market 
+    + Those with low cost to reduce or low need to pollute, sell.
+    + Those with high cost to reduce or high need to pollute, buy.
+    
+## Classic Cap and Trade
+
++ Create a market 
++ Those with low cost to reduce or low need to pollute, sell.
++ Those with high cost to reduce or high need to pollute, buy.
+
+    
+## Cap and Trade Diagram
+
+![](SimpleCapTrade.png){ height=85% }
+
+## Comments Cap and Trade 
+
++ Slightly easier to get the right number
++ Often not everyone is 'covered' since sometimes hard to measure
+    + Land use and agriculture often excluded in $CO_{2e}$ cap and trade.
++ Price is very unstable -- business hates
+    + Mostly because off very inelastic supply and demand
++ Quantity is very stable  -- environmentalists like
++ What OR tried to get in 2018.
+
+## Compromise 
+
++ Have cap and trade but put a max and min on the price
++ Better than a tax for environmentalists
++ Better than pure cap and trade for business 
++ Diagram has a few features
+    + Supply is not vertical -- allow some offsets and banking
+    + Banking -- save allowances for later and use or sell
+    + Offsets -- make extra reductions in uncovered areas, like Ag, and sell those on the market.
+
+## Cap and Trade with Ceilings and Floors
+
+![](CapWCollar.png){ height=85% }
+
+## Complications
+
++ How do you impose the floors and ceilings?
++ Can I save the allowance from one year to the next
++ What about those offsets?
+
+## Shortage and Surpluses
+
++ At the ceiling, people want more allocations than exist.
++ At the floor, people want fewer allocations than are for sale.
+
+You need a mechanism to allocate when you can't user price. BTW, the slow increase in the price floor makes this much less prominent.
+
+## Ignore it
+
+Just ignore it:
+
++ At the ceiling, some people will be able to buy allowances and others will not.
++ At the floor, some people will be able to sell and others will not.
+
+The floor is rough if you counted on selling the allowances for revenue.  The ceiling it rough if you need an allowance and can't buy.
+
+## Market Maker Approach
+
+Someone (Government) stands ready to buy and sell allocations at all times:
+
++ They buy when prices hit the floor
+    + Hope you don't run  out of money before you get to sell.
++ They sell when the prices hit the ceiling.
+    + Hope you bought enough when you were at the floor.
++ CA does this with the Price Containment Reserve (https://www.arb.ca.gov/cc/capandtrade/reservesale/reservesale.htm)
+
+No guarantee of revenue neutrality.  History shows that these spend a lot of time at the floor value.
+
+## Why so much time on the floor?
+
++ Plenty of direct regulation, e.g., RPS, coal bans, to reduce GHG emissions.
++ The annual limitations, supply, must make sense given the price floor.
++ The annual allocations have been far too large given the floors.
+
+Allocation prices on the floor are not evidence that direct regulation is all we need, it indicates we picked the wrong floor/annual allocation  combination.
+
+## Why being on the floor is bad
+
+Besides allowances there are also "offsets"
+
+Offsets are new reductions in GHG:
+
++ Geologic sequestration of existing.
++ Methane capture
++ Agricultural land management that reduces emissions.
+
+If the price is low, you don't invest to make these reductions.
+
+## Current State of Affairs
+
++ Started as a placeholder bill from the 2017 session SB 1070 "Cap and Invest" (https://olis.leg.state.or.us/liz/2017R1/Measures/Overview/SB1070)
++ They held work groups to explore the ideas and get feedback (https://www.oregonlegislature.gov/helm/Pages/clean-energy.aspx)
+    + Meeting material and video online.
+    + If you have the time watch the videos
+        + "Steakholder" group with a few experts thrown in
+        + Sen Beyer used to be on PUC and was the executive director.
+        + Carl Fink is very good 
++ 2018, HB 4001 Bill Failed (https://olis.leg.state.or.us/liz/2018R1/Measures/Overview/HB4001)
+    + Clause for referral to Oregon Supreme Court about the "revenue bill" decision.
+    + No R support 
+    + No majority D.   --  Roblan (Coos Bay) was a notable holdout.
+    
+## Continues
+
++ 2019 Walkout
++ 2020 Walkout and Timber Unity
++ Executive order 20-04, March 10 https://www.oregon.gov/gov/Documents/executive_orders/eo_20-04.pdf
+    + Wait for the court cases.  This does things about carbon but PUC needs legislation.
+    + Have not analyzed.
+
+## Degree of Magnitude Costs
+
+Assuming \$10/Ton
+
++ \$0.10 per gallon of gasoline
+    + Cost ~\$2.70/Gal
+    + Person 50 gal per month
+    + ~ \$5 month
++ \$0.007 per kWh
+    + Cost ~\$0.098 per kWh
+    + HH ~1,000 kWh per month
+    + ~ \$7 month
++ $0.05 per therm
+    + Cost ~\$0.05 per therm
+    + HH ~ 50 therms per month
+    + ~ \$2.50 month
+    
+## Current Prices
+
++ EU: 25-30 EUR/tonne
++ CA: ~15 \$/ton
+
+## What is covered.
+
+The intent is to require allowances for:
+
++ Natural Gas
++ Electricity
++ Motor Vehicle Fuel
++ Point  sources more than 20kT $CO_2$
+
+Note that agriculture and Forestry are not connected to this system. A firm level list is on p. 69 (http://www.oregon.gov/deq/FilterDocs/ghgmarketstudy.pdf)  
+
+## Why Not Everything?
+
++ Somethings are easy (cheap) to meter
+    + These are the covered entities
+    + Use the stick (force to buy allowances)
++ Some are hard (expensive) to meter
+    + Ag and others
+    + Use the carrot (Offsets)
+    + They pay for monitoring
+
+
+## Point of Regulation
+
+"Point of Regulation" where do you put the meter and who pays.
+
+Key Needs:
+
++ Easy to meter at that point.
++ Hard to avoid
++ Makes sure nobody pays twice.
+
+## Point of Regulation: Electricity
+
++ Must cover in-state merchant generators
++ Must cover out of purchases
++ Must cover in-state IOU generation
+
+Complications:
+
++ Some generation is gas fired (Avoid double counting)
++ Out of state purchases must not run afoul of the commerce clause (Interstate trade is Federal)
++ Co-gen?
++ Bonneville Power Administration (Federal) is a balancing authority
++ Wheeling (Generated out of state, passing through but to elsewhere.)
+
+## Point of Regulation: Natural Gas
+
++ Interstate pipelines
++ LNG terminals
++ Marketers
+
+Complications:
+
++ Ontario has  seen marketers split to avoid 20kT limit.
++ Mix of inter and intra state pipelines
+
+## Point of Regulation: Motor Fuel
+
++ Pipelines (https://www.eia.gov/state/maps.php?v=Petroleum) 
++ Trucking -- We move a lot of motor fuel by truck.
+
+Complications:
+
++ Dyed (untaxed diesel)
++ Oregon Constitution requires use of "Fuel taxes" on highways.
+
+## Point of Regulation Other
+
+Mish mash of:
+
++ Concrete
++ Chemicals
++ Landfill
+
+This is hard
+
+## Consignment, Free Allocations, Direct Expenditures
+
+There are a few ways to allocate ownership of "allocations" (Sorry about allocate being used two ways)
+
++ Free allocations: Given to those intended  to use the proceeds for their self interest.
+    + Current intent is for EITE industries
++ Sale by the state:  Used to generate revenue for the state
+    + Current for  majority of allowances.
++ Consignment: Given to a party so that the proceeds of the sale can be used to benefit others.
+    + Current for IOUs and LDCs for the benefit of  low-income household transition.
+
+## What the Markets Look Like
+
++ Western Climate Initiative (http://www.westernclimateinitiative.org)
+    + Multi-state/province set of rules
+    + Trading platform
+    + Oregon has an on and off relationship with this.
++ California (http://calcarbondash.org/)
++ Futures Market (https://www.theice.com/products/31687042/California-Carbon-Allowance-Vintage-2017-Future/specs)
+    + California is big enough.
+    + Futures markets are where most price discovery takes place
+    + Way more transactions.
+
+## Offsets
+
++ Offsets protocols https://www.arb.ca.gov/cc/capandtrade/offsets/offsets.htm#protocols
++ Offset verification (https://www.arb.ca.gov/cc/capandtrade/offsets/verification/verification.htm)
++ Note that:
+    + These can be clawed back for overstating even 5%.
+    + Trade at a discount because of this.
+    + Don't cheat
+    
+CA limited this. 
+
+8% total now 4% with 2% in state.
+
+Little action because the price of allowances are not high.  On the floor.
+
+
+
+
+
