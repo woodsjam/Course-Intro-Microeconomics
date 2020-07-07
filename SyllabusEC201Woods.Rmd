@@ -29,10 +29,10 @@ The homework assignments and quizzes for each module will only be available for 
 
 Each module will include:
 
-+ A series of readings and videos for you to review.  The readings will be from the textbook and the videos will be a combination of videos that I have created and external videos.  This is intended to replace the one-to-many, sage on stage lectures, where there is little student interaction. 
++ A series of readings and videos for you to review.  The readings will be from the textbook and the videos will be a combination of videos that I have created and external videos.  This is intended to replace the one-to-many, sage-on-stage lectures, where there is little student interaction. 
 
     + If you attend the Monday course meeting please read the text and watch the videos before class.
-    + The Monday meeting will be devoted to the current module.
+    + The Monday meeting will be devoted to the current module(s).
 
 + After you review the material you will complete a written homework assignment. If that assignment is acceptable -- you may take the quiz on that module. 
 
@@ -43,46 +43,50 @@ Each module will include:
 + Each module quiz will be available during the the Wednesday course period only. If your module quiz score is above a certain level -- you have completed the module.
 
     + These quizzes are timed and intended to take 20 to 30 minutes.
-    + If your quiz score is unacceptable, you will be able to take a similar quiz the next week.  There is no need to complete a another homework assignment in this module.  
-    + If you pass the quiz on the last date it is available, you must meet with the instructor for a one on one meeting where you will be asked to explain in detail some of your quiz and homework answers.  If your explainations are acceptable, you will recived credit for passing the module.  If, not there will be no more opportunities to pass the module.
+    + If your quiz score is unacceptable, you will be able to take a similar quiz the next week.  *There is no need to complete a another homework assignment in this module.*    
+    + If you pass the quiz on the last date it is available, you must meet with the instructor for a one-on-one meeting where you will be asked to explain in detail some of your quiz and homework answers.  If your explainations are acceptable, you will recived credit for passing the module.  If, not there will be no more opportunities to pass the module.
+    + One-on-one meeting can be scheduled through https://woodsj.youcanbook.me/
 
 
 The regularly scheduled course time will be interactive and problem solving, focusing on getting you to use and understand the course material on a less superficial level. The Monday meeting will be devoted to the new module and the Wednesday meeting will be a mix of the new module and the last two modules.
 
 ## How This Provides Flexibility
 
-If you don't pass the module's homework and quiz the week the topic is introduced, you can take it the next week but there will also be a new module with its own homework assignment and quiz to complete too.  In fact, if you don't pass it twice you can still redo the work in the third week.
+If you don't pass the module's homework and quiz the week the topic is introduced, you can take it the next week but there will also be a new module(s) with its own homework assignment and quiz to complete too.  In fact, if you don't pass it twice you can still redo the work in the third week.
 
-This means that if you homework and quiz performance is acceptable, you will turn in one homework on Monday and take a 30 minute quiz on Wednesday during the class meeting and that is it.  If you get a week or two behind you need to double or triple the workload and will have to complete three quizzes during the Wednesday meeting.
+This means that if your homework and quiz performance is acceptable, for each module you will turn in one homework on Monday and take a 30 minute quiz on Wednesday during the class meeting and that is it.  If you get a week or two behind, you need to double or triple the your workload and will have to complete three quizzes during the Wednesday meeting.
 
 Passing the quiz at the last possible attempt brings an extra cost, you have not passed the quiz and don't get credit for the module until you meet one on one with me to discuss your answers. You need to make the case that you understand the material or the quiz does not count.
 
+You must must schedule the one-on-one meeting within two weeks of the quiz or you will not recieve credit for the module.
+
 ## Use of Final Exam Period
 
-Since a new module will be introduced in the last two weeks, it will not be possible to follow the three week cycle established above.  
+Since new modules will be introduced in the last two weeks, it will not be possible to follow the three-week cycle established above.  The final exam period will be used to compress two weeks of quizzes and homework into one.
 
-There will be an additional homework assignment for each of the last three modules made available on the last week of class and due on that Friday at 11:59 PM.  If you complete and pass any of those homework assignments you will be allowed to take the associated twenty to thirty minute quiz during the final exam period.
+There will be an  homework assignment available for each of the last three modules due that Friday at 11:59 PM.  If you have not completed these modules, i.e., passed the homeowkr and quiz, you can complete these homework assignments. 
 
-## P/NP Grades 
+If you complete and pass any of those homework assignments you will be allowed to take the associated twenty to thirty minute quiz during the final exam period. Please note that you may be taking more than one quiz during that period.
 
-PSU's policy on how P/NP grades will be used during the COVID-19 pandemic is in flux.  For Spring and Summer terms P/NP grades would count as letter grades for satisfying major and degree requirements.  
+## What Ifs
 
-Most faculty expect there to be an asterisk on pandemic period grades, but we can't guarantee how they will be perceived outside PSU.
-
-Please consult your funder for potential financial implications of switching to P/NP.  Not all scholarships will fund P/NP courses, and the VA may ask for a return of tuition, fees and associated BAH payments if the student does not pass the course.
-
++ Q: What if I pass the homework but can't pass the quiz after three attempts?  A: Then you didn't pass the module.  There is no partial module credit for turning an acceptable homework assignment.
++ Q: I passed the quiz on the third attempt but did not schedule a one-on-one meeting to discuss answers.  What happens? A: Again, this you did not pass the module.
++ Q: What if I get sick? A: It depends on how severe it is.  If it is something mild, less than two weeks, you can catch up on the material in the third week.  If it is severe, longer than two weeks, you can make a deadline appeal https://www.pdx.edu/registration/DAC.  You must send documentation but it removes the course from your transcript and gets you your money back.
 
 ## Contact Information
 
-Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/spring20ec201/signup) and your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users
+<!-- Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/spring20ec201/signup) and your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users -->
 
-Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+<!-- Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. -->
 
 
 Office Hours:
 
-+ There are no in-person office hours this term.  We will use Zoom to meet. 
++ There are no in-person office hours this term.  We will use Zoom to meet face to face. 
 + Drop in office hours are Monday 3-4pm and Tuesday 10am-11am through the last week of class. I will keep a Zoom meeting up during this time.
++ You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
+
 
 
 # Textbook and Other Resources
@@ -94,6 +98,26 @@ The 3rd edition can be found at a more reasonable price and can even be rented f
 ## Learning Managment System
 
 # Assessments and Grade Policy
+
+Your grade in the class is determined by the number of modules you acceptably complete.  To acceptably complete a module you must turn in an acceptable homework assignment and complete a quiz at an acceptable level.  Furthermore, if you pass the quiz on the last possible date, you must meet one-on-one with me to discuss your answers and give acceptable responses.
+
+Here are the required number of successfully completed modules required for each grade:
+
++ A:
++ B:
++ C:
++ P:
++ D:
+
+## P/NP Grades 
+
+PSU's policy on how P/NP grades will be used during the COVID-19 pandemic is in flux.  We are currently learning a term at a time how they will be used.  For Fall term P/NP grades would count as letter grades for satisfying major and degree requirements.  
+
+Most faculty expect there to be an asterisk on pandemic period grades, but we can't guarantee how they will be perceived outside PSU.
+
+Please consult your funder for potential financial implications of switching to P/NP.  Not all scholarships will fund P/NP courses, and the VA may ask for a return of tuition, fees and associated BAH payments if the student does not pass the course.
+
+
 
 # Topics
 
