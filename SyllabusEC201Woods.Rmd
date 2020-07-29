@@ -20,7 +20,7 @@ It is my intent to give you a basket of tools that you can use to better underst
 
 # Proficiency-Based Course
 
-Given the uncertainties about how courses are going to be delivered, uncertainties about student and faculty health, I have made some changes to the structure of the class that will allow for more time flexibility.
+Given the uncertainties about how courses are going to be delivered and uncertainties about student and faculty health, I have made some changes to the structure of the class that will allow for more time flexibility.
 
 Your grade in the class will be determined by the number of modules you complete at an acceptable level.  The more modules you complete, the higher your grade.
 
@@ -31,47 +31,48 @@ Each module will include:
 
 + A series of readings and videos for you to review.  The readings will be from the textbook and the videos will be a combination of videos that I have created and external videos.  This is intended to replace the one-to-many, sage-on-stage lectures, where there is little student interaction. 
 
-    + If you attend the Monday course meeting please read the text and watch the videos before class.
+    + If you attend the Monday course meeting, please read the text and watch the videos before class.
     + The Monday meeting will be devoted to the current module(s).
 
 + After you review the material you will complete a written homework assignment. If that assignment is acceptable -- you may take the quiz on that module. 
 
     + You may take as much time as you like on homework assignments.
-    + The homework assignments will be due Monday at 11:59 pm.  This allows us to grade the assignment before the regularly scheduled quiz time on Wednesday.
+    + The **homework assignments will be due Monday at 11:59 pm**.  This allows us to grade the assignment before the regularly scheduled quiz time on Wednesday.
     + If your homework is not of acceptable quality, you will be able to complete another assignment the next week and if that is acceptable, you may take the quiz then.
 
 + Each module quiz will be available during the the Wednesday course period only. If your module quiz score is above a certain level -- you have completed the module.
 
     + These quizzes are timed and intended to take 20 to 30 minutes.
+    + **Module quizzes must be completed by 1pm Wednesday**.
     + If your quiz score is unacceptable, you will be able to take a similar quiz the next week.  *There is no need to complete a another homework assignment in this module.*    
-    + If you pass the quiz on the last date it is available, you must meet with the instructor for a one-on-one meeting where you will be asked to explain in detail some of your quiz and homework answers.  If your explainations are acceptable, you will recived credit for passing the module.  If, not there will be no more opportunities to pass the module.
-    + One-on-one meeting can be scheduled through https://woodsj.youcanbook.me/
+    + If you pass the quiz on the last date it is available, you must meet with the instructor for a one-on-one meeting where you will be asked to explain in detail some of your quiz and homework answers.  If your explainations are acceptable, you will recived credit for passing the module.  If not, there will be no more opportunities to pass the module.
+    + The One-on-one meetings must be _completed_, not scheduled, within two weeks of the quiz. You can schedule through https://woodsj.youcanbook.me/.  It is your responsibility to schedule this meeting.
 
 
 The regularly scheduled course time will be interactive and problem solving, focusing on getting you to use and understand the course material on a less superficial level. The Monday meeting will be devoted to the new module and the Wednesday meeting will be a mix of the new module and the last two modules.
 
 ## How This Provides Flexibility
 
-If you don't pass the module's homework and quiz the week the topic is introduced, you can take it the next week but there will also be a new module(s) with its own homework assignment and quiz to complete too.  In fact, if you don't pass it twice you can still redo the work in the third week.
+If you don't pass the module's homework and quiz the week the topic is introduced, you can take it the next week but there will also be a new module(s) with their own homework assignments and quizzes to complete too.  In fact, if you don't pass it twice you can still redo the work in the third week.
 
 This means that if your homework and quiz performance is acceptable, for each module you will turn in one homework on Monday and take a 30 minute quiz on Wednesday during the class meeting and that is it.  If you get a week or two behind, you need to double or triple the your workload and will have to complete three quizzes during the Wednesday meeting.
 
-Passing the quiz at the last possible attempt brings an extra cost, you have not passed the quiz and don't get credit for the module until you meet one on one with me to discuss your answers. You need to make the case that you understand the material or the quiz does not count.
+Passing the quiz at the last possible attempt brings an extra cost, you have not passed the quiz and don't get credit for the module until you meet one-on-one with me to discuss your answers. You need to make the case that you understand the material or the quiz does not count.
 
-You must must schedule the one-on-one meeting within two weeks of the quiz or you will not recieve credit for the module.
+You must must schedule the one-on-one meeting within two weeks of the quiz or you will not receive credit for the module. You will receive an email notification after you pass the quiz but no other reminders.  Scheduling this appointment is the students' responsibility.
 
 ## Use of Final Exam Period
 
 Since new modules will be introduced in the last two weeks, it will not be possible to follow the three-week cycle established above.  The final exam period will be used to compress two weeks of quizzes and homework into one.
 
-There will be an  homework assignment available for each of the last three modules due that Friday at 11:59 PM.  If you have not completed these modules, i.e., passed the homeowkr and quiz, you can complete these homework assignments. 
+There will be an  homework assignment available for each of the last three modules due that Friday at 11:59 PM.  If you have not completed these modules, i.e., passed the homework and quiz, you can complete these homework assignments. 
 
 If you complete and pass any of those homework assignments you will be allowed to take the associated twenty to thirty minute quiz during the final exam period. Please note that you may be taking more than one quiz during that period.
 
 ## What Ifs
 
 + Q: What if I pass the homework but can't pass the quiz after three attempts?  A: Then you didn't pass the module.  There is no partial module credit for turning an acceptable homework assignment.
-+ Q: I passed the quiz on the third attempt but did not schedule a one-on-one meeting to discuss answers.  What happens? A: Again, this you did not pass the module.
++ Q: I passed the quiz on the third attempt but did not schedule a one-on-one meeting to discuss answers.  What happens? A: Again, this you did not pass the module. It is your responsibility to schedule the meeting.
 + Q: What if I get sick? A: It depends on how severe it is.  If it is something mild, less than two weeks, you can catch up on the material in the third week.  If it is severe, longer than two weeks, you can make a deadline appeal https://www.pdx.edu/registration/DAC.  You must send documentation but it removes the course from your transcript and gets you your money back.
 
 ## Contact Information
@@ -88,7 +89,6 @@ Office Hours:
 + You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
 
 
-
 # Textbook and Other Resources
 
 I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09878-9).  This textbook is amazingly overpriced.  I will not be assigning questions from the chapters, so feel free to purchase one of the earlier editions of the book.
@@ -99,54 +99,58 @@ The 3rd edition can be found at a more reasonable price and can even be rented f
 
 # Assessments and Grade Policy
 
-Your grade in the class is determined by the number of modules you acceptably complete.  To acceptably complete a module you must turn in an acceptable homework assignment and complete a quiz at an acceptable level.  Furthermore, if you pass the quiz on the last possible date, you must meet one-on-one with me to discuss your answers and give acceptable responses.
+Your grade in the class is determined by the number of modules you acceptably complete. Each module roughly corresponds to a chapter and there are a total of 14 modules.
+
+To acceptably complete a module you must turn in an acceptable homework assignment and complete a quiz at an acceptable level.  Furthermore, if you pass the quiz on the last possible date, you must meet one-on-one with me to discuss your answers and give acceptable responses.
 
 Here are the required number of successfully completed modules required for each grade:
 
-+ A:
-+ B:
-+ C:
-+ P:
-+ D:
++ A: 12 Modules 
++ B: 10 Modules
++ C: 8 Modules
++ P: 8 Modules
++ D: 6 Modules
 
 ## P/NP Grades 
 
-PSU's policy on how P/NP grades will be used during the COVID-19 pandemic is in flux.  We are currently learning a term at a time how they will be used.  For Fall term P/NP grades would count as letter grades for satisfying major and degree requirements.  
+PSU's policy on how P/NP grades will be used during the COVID-19 pandemic is in flux.  We are currently learning a term at a time how they will be used.  For Fall term, P/NP grades will count as letter grades for satisfying major and degree requirements.  
 
 Most faculty expect there to be an asterisk on pandemic period grades, but we can't guarantee how they will be perceived outside PSU.
 
 Please consult your funder for potential financial implications of switching to P/NP.  Not all scholarships will fund P/NP courses, and the VA may ask for a return of tuition, fees and associated BAH payments if the student does not pass the course.
 
 
+# Modules
 
-# Topics
 
-Each of these topics includes one or more modules.  Note that we may not get to all the modules. 
+1. Math:  You need Freshman High School Algebra for this class. This is one of the biggest stumbling blocks.
 
-+ Math:  You need Freshman High School Algebra for this class.
+1. What is Economics (Ch 1):  It is bigger than you thought and even helps explain small behaviors.
 
-+ What is Economics (Ch 1 and 2):  It is bigger than you thought and even helps explain small behaviors.
+1. The Basis for Trade and PPFs (Ch 2):  There are very good reasons make somethings yourself and to buy others.  
 
-+ Supply and Demand (Ch 3):  What everyone knows.  This is a good simple model for many things, but not everything.
+1. Supply and Demand (Ch 3):  What everyone knows.  This is a good simple model for many things, but not everything.
 
-+ Consumer and Producer Surplus and Price Controls (Ch 4 and 5): Looks at how well-functioning markets work to make people as well off as possible, and how sometimes interfering in markets makes people worse or better off.
+1. Consumer and Producer Surplus  (Ch 4): This is one of the ways economists measure welfare, how well off people are not free money.
 
-+ Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, including price and income changes.
+1. Price and Quantity Controls (Ch 5):  Sometimes you can make people better off by constraining price and sometimes you make people worse off,
 
-+ Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes  is less clear than you thought.
+1. Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, including price and income changes.
 
-+ Decision Making (Ch 9 and 10) :  Economics has a formal and very flexible model of choice that even allows for altruistic behaviors. This is a key tool in later courses.
+1. Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes  is less clear than you thought.
 
-+ Behind Supply Curves (Ch 11): Not all markets, choices, or allocation mechanisms can be described by supply and demand.  Cost curves allow us to find out what happens in those circumstances.
+1. Behind Supply Curves (Ch 11): Not all markets, choices, or allocation mechanisms can be described by supply and demand.  Cost curves allow us to find out what happens in those circumstances.
 
-+ Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
+1. Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
 
-+ Monopoly, Oligopoly and Monopolistic Competition (Ch 13-15): Uses cost curves and game theory to describe the costs to society of market power.
+1. Monopoly (Ch 13): Uses cost curves to describe the costs to society of market power.
 
-+ Public Policy (Ch 16-18) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic.  We study how we site parks and other shared resources.
+1. Monopolistic Competition (Ch 15):  The most common market structure you interact with.  If it has a prominent brand -- its monopolistic competition.
 
-+ Factor Markets and Risk (Ch 19-20): How the goods markets, what firms produce, interacts with factor markets, like the labor market.   
+1. Externalities (Ch 16) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic to were the benefits to society are as large as possible.  
 
+1. Public Goods (Ch 17):  There are some goods we share -- like parks, roads, national defense. Deciding how much of these shared goods around is more complex that figuring out how many cups of coffee to drink.
+  
 # Other Rules
 
 + Please be aware that federal, state, and PSU policies require faculty members to report any instances of sexual harassment, sexual violence and/or other forms of prohibited discrimination. Similarly, PSU faculty are required to file a report if they have reasonable cause to believe that a child with whom they come into contact has suffered abuse, or that any person with whom they come into contact has abused a child. If you would rather share information about these experiences with an employee who does not have these reporting responsibilities and can keep the information confidential, please contact one of the following campus resources (or visit https://www.pdx.edu/sexual-assault/get-help):
