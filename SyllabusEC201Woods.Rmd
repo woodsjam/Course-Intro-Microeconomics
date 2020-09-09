@@ -44,7 +44,7 @@ Each module will include:
 
     + These quizzes are timed and intended to take 20 to 30 minutes.
     + **Module quizzes must be completed by 1pm Wednesday**.
-    + If your quiz score is unacceptable, you will be able to take a similar quiz the next week.  *There is no need to complete a another homework assignment in this module.*    
+    + If your quiz score is unacceptable, you will be able to take a similar quiz the next week.  *There is no need to complete a another homework assignment in this module.*
     + If you pass the quiz on the last date it is available, you must meet with the instructor for a one-on-one meeting where you will be asked to explain in detail some of your quiz and homework answers.  If your explainations are acceptable, you will recived credit for passing the module.  If not, there will be no more opportunities to pass the module.
     + The One-on-one meetings must be _completed_, not scheduled, within two weeks of the quiz. You can schedule through https://woodsj.youcanbook.me/.  It is your responsibility to schedule this meeting.
 
