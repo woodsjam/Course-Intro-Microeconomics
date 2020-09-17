@@ -77,15 +77,15 @@ If you complete and pass any of those homework assignments you will be allowed t
 
 ## Contact Information
 
-<!-- Communication will be handled through slack https://spring20ec201.slack.com. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/spring20ec201/signup) and your @pdx.edu email to sign up. There are reasonable help documents to get you started. https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users -->
+Communication will be handled through slack http://fall20ec201.slack.com/. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/pdx-jwk2529/shared_invite/zt-hjweabht-PCxpqeCw_fRgtNAJqNXQXg) and your @pdx.edu email to sign up. There are reasonable help documents to get you started (https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
-<!-- Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj. -->
+Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
 
 
 Office Hours:
 
 + There are no in-person office hours this term.  We will use Zoom to meet face to face. 
-+ Drop in office hours are Monday 3-4pm and Tuesday 10am-11am through the last week of class. I will keep a Zoom meeting up during this time.
++ Drop in office hours are Monday 3-4pm and Tuesday 10am-Noon through the last week of class. I will keep a Zoom meeting up during this time.
 + You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
 
 
@@ -96,6 +96,10 @@ I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth 
 The 3rd edition can be found at a more reasonable price and can even be rented for less than \$20. Just remember that you are responsible for keeping track of the differences in chapter numbering and the differences between editions. You can find the table of contents for the 5th edition here (https://www.macmillanlearning.com/college/us/product/Microeconomics/p/1319098789?selected_tab=Contents).
 
 ## Learning Managment System
+
+Just about everything you need will be in D2L.  The readings and videos for each module are in the contents section.  The homework assignments, the things you do in a separate document and upload, can be found under Activities:Assignments, or on the calendar you see on the front page.  The quizzes, which are timed things that you do directly in d2l, are fund under Activities:Quizzes.
+
+There are some useful links, e.g., the syllabus, on the landing page.  The rest is kept as simple and 'stock' as possible.
 
 # Assessments and Grade Policy
 
