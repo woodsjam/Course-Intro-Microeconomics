@@ -24,7 +24,7 @@ Given the uncertainties about how courses are going to be delivered and uncertai
 
 Your grade in the class will be determined by the number of modules you complete at an acceptable level.  The more modules you complete, the higher your grade.
 
-The homework assignments and quizzes for each module will only be available for three weeks, but will be different in each of those three weeks.  If you don't acceptably complete a homework assignment and a quiz, you can not complete that module.
+The homework assignments and quizzes for each module will be available for three weeks, but will be different in each of those three weeks.  If you don't acceptably complete a homework assignment and a quiz, you can not complete that module.
 
 
 Each module will include:
@@ -36,14 +36,19 @@ Each module will include:
 
 + After you review the material you will complete a written homework assignment. If that assignment is acceptable -- you may take the quiz on that module. 
 
+    + Homework assignements will generally be available by the Wednesday before the Monday they are due but may be up earlier.
     + You may take as much time as you like on homework assignments.
     + The **homework assignments will be due Monday at 11:59 pm**.  This allows us to grade the assignment before the regularly scheduled quiz time on Wednesday.
     + If your homework is not of acceptable quality, you will be able to complete another assignment the next week and if that is acceptable, you may take the quiz then.
+    + Acceptable performance is not point based but will be identical for all students.
+    + Feedback on your answers will be given in D2L and will constitute the key.
 
-+ Each module quiz will be available during the the Wednesday course period only. If your module quiz score is above a certain level -- you have completed the module.
++ Each module quiz will be available during the the Wednesday course period only. If your module quiz score is above a certain level -- you have completed the module (with one exception).
 
-    + These quizzes are timed and intended to take 20 to 30 minutes.
+    + These quizzes are timed and intended to take 20 to 30 minutes but will stop you from continuing after 60 minutes.
+    + They will, most commonly, consist of 35 multiple choice questions shown to you two at a time in a way that does not allow you to go backwards.
     + **Module quizzes must be completed by 1pm Wednesday**.
+    + The acceptable score will vary by quiz, but will be the same for all students.
     + If your quiz score is unacceptable, you will be able to take a similar quiz the next week.  *There is no need to complete a another homework assignment in this module.*
     + If you pass the quiz on the last date it is available, you must meet with the instructor for a one-on-one meeting where you will be asked to explain in detail some of your quiz and homework answers.  If your explainations are acceptable, you will recived credit for passing the module.  If not, there will be no more opportunities to pass the module.
     + The One-on-one meetings must be _completed_, not scheduled, within two weeks of the quiz. You can schedule through https://woodsj.youcanbook.me/.  It is your responsibility to schedule this meeting.
@@ -53,9 +58,9 @@ The regularly scheduled course time will be interactive and problem solving, foc
 
 ## How This Provides Flexibility
 
-If you don't pass the module's homework and quiz the week the topic is introduced, you can take it the next week but there will also be a new module(s) with their own homework assignments and quizzes to complete too.  In fact, if you don't pass it twice you can still redo the work in the third week.
+If you don't pass the module's homework and quiz the week the topic is introduced, you can take it the next week but there will also be new modules, or module, with their own homework assignments and quizzes to complete.  In fact, if you don't pass it twice, you can still redo the work in the third week.
 
-This means that if your homework and quiz performance is acceptable, for each module you will turn in one homework on Monday and take a 30 minute quiz on Wednesday during the class meeting and that is it.  If you get a week or two behind, you need to double or triple the your workload and will have to complete three quizzes during the Wednesday meeting.
+This means that if your homework and quiz performance is acceptable, for each module you will turn in one homework on Monday and take a 30 minute quiz on Wednesday during, or soon after, the class meeting and that is it.  If you get a week or two behind, you need to double or triple the your workload and will have to complete three quizzes during the Wednesday meeting.
 
 Passing the quiz at the last possible attempt brings an extra cost, you have not passed the quiz and don't get credit for the module until you meet one-on-one with me to discuss your answers. You need to make the case that you understand the material or the quiz does not count.
 
@@ -65,21 +70,21 @@ You must must schedule the one-on-one meeting within two weeks of the quiz or yo
 
 Since new modules will be introduced in the last two weeks, it will not be possible to follow the three-week cycle established above.  The final exam period will be used to compress two weeks of quizzes and homework into one.
 
-There will be an  homework assignment available for each of the last three modules due that Friday at 11:59 PM.  If you have not completed these modules, i.e., passed the homework and quiz, you can complete these homework assignments. 
+There will be  homework assignment available for each of the last three modules due that Friday at 11:59 PM.  If you have not completed these modules, i.e., passed the homework and quiz, you can complete these homework assignments. 
 
-If you complete and pass any of those homework assignments you will be allowed to take the associated twenty to thirty minute quiz during the final exam period. Please note that you may be taking more than one quiz during that period.
+If you complete and pass any of those homework assignments, you will be allowed to take the associated twenty to thirty minute quiz during the final exam period. Please note that you may be taking more than one quiz during that period.
 
 ## What Ifs
 
 + Q: What if I pass the homework but can't pass the quiz after three attempts?  A: Then you didn't pass the module.  There is no partial module credit for turning an acceptable homework assignment.
-+ Q: I passed the quiz on the third attempt but did not schedule a one-on-one meeting to discuss answers.  What happens? A: Again, this you did not pass the module. It is your responsibility to schedule the meeting.
-+ Q: What if I get sick? A: It depends on how severe it is.  If it is something mild, less than two weeks, you can catch up on the material in the third week.  If it is severe, longer than two weeks, you can make a deadline appeal https://www.pdx.edu/registration/DAC.  You must send documentation but it removes the course from your transcript and gets you your money back.
++ Q: I passed the quiz on the third attempt but did not schedule a one-on-one meeting to discuss answers.  What happens? A: Again, this you did not pass the module. It is your responsibility to schedule the meeting. That meeting should be scheduled through https://woodsj.youcanbook.me/.
++ Q: What if I get sick? A: It depends on how severe it is.  If it is something mild, less than two weeks, you can catch up on the material in the third week.  If it is severe, longer than two weeks, you can make a deadline appeal https://www.pdx.edu/registration/DAC.  You must send documentation, but it removes the course from your transcript and gets you your money back.
 
 ## Contact Information
 
 Communication will be handled through slack http://fall20ec201.slack.com/. You should have received an invitation, if not, just go to that URL and use this link (https://join.slack.com/t/pdx-jwk2529/shared_invite/zt-hjweabht-PCxpqeCw_fRgtNAJqNXQXg) and your @pdx.edu email to sign up. There are reasonable help documents to get you started (https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users)
 
-Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+Slack will be used for IM, email and forum style communication.  It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., #general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.  
 
 
 Office Hours:
@@ -91,13 +96,15 @@ Office Hours:
 
 # Textbook and Other Resources
 
-I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09878-9).  This textbook is amazingly overpriced.  I will not be assigning questions from the chapters, so feel free to purchase one of the earlier editions of the book.
+I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09878-9).  This textbook is amazingly overpriced, but the price will fall as the 6th edition has been issued.  I will not be assigning questions from the chapters, so feel free to purchase one of the earlier editions of the book.
 
-The 3rd edition can be found at a more reasonable price and can even be rented for less than \$20. Just remember that you are responsible for keeping track of the differences in chapter numbering and the differences between editions. You can find the table of contents for the 5th edition here (https://www.macmillanlearning.com/college/us/product/Microeconomics/p/1319098789?selected_tab=Contents).
+The earlier editions can be found at a more reasonable price and can even be rented for less than \$20. Just remember that you are responsible for keeping track of the differences in chapter numbering and the differences between editions. You can find the table of contents for the 5th edition here (https://www.macmillanlearning.com/college/us/product/Microeconomics/p/1319098789?selected_tab=Contents).
 
 ## Learning Managment System
 
-Just about everything you need will be in D2L.  The readings and videos for each module are in the contents section.  The homework assignments, the things you do in a separate document and upload, can be found under Activities:Assignments, or on the calendar you see on the front page.  The quizzes, which are timed things that you do directly in d2l, are fund under Activities:Quizzes.
+Just about everything you need will be in D2L.  The readings and videos for each module are in the contents section.  The homework assignments, the things you do in a separate document and upload, can be found under Activities:Assignments, or on the calendar you see on the front page.  The quizzes, which are timed things that you do directly in d2l, are fund under Activities:Quizzes as well as the calendar.
+
+If there is a homework or quiz that you think you should be able to take but can't, message, i.e., @woodsj, me on slack and I will look into it.  If it is a problem, its a problem for everyone and needs to be fixed quickly.  Please don't message me about quizzes being unavailable if you have not checked your homework grade and verified that your homework is acceptable and you passed.
 
 There are some useful links, e.g., the syllabus, on the landing page.  The rest is kept as simple and 'stock' as possible.
 
@@ -114,6 +121,7 @@ Here are the required number of successfully completed modules required for each
 + C: 8 Modules
 + P: 8 Modules
 + D: 6 Modules
+
 
 ## P/NP Grades 
 
