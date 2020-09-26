@@ -34,10 +34,19 @@ This is all from 9th grade or earlier.
 + The computer does that for me.
     + Yes it does until you get to a certain level
     + Then you don't know enough to make the next step or find the software that will do it for you.
+
+## In short
+
++ We often ask you to do things that computers can do.
++ It is to build up skills, i.e., train, so that you can do things computers can't.
++ If you rely on the crutch while training, you will not be able to do those things that computers can't.
+
+Driving your car 4 mph for 10 miles every day will not help you train for a marathon.
     
     
-    
-    
+## Multiply Fractions
+
+$$\frac{2}{3} ~ \frac{3}{5}= $$
     
     
 ## Add some fractions
@@ -49,9 +58,6 @@ $$\frac{1}{2} + \frac{1}{4} = $$
 
 $$\frac{2}{3} + \frac{3}{4} = $$
 
-## Multiply Fractions
-
-$$\frac{2}{3} ~ \frac{3}{5}= $$
 
 ## Area of a rectangle
 

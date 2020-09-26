@@ -36,7 +36,7 @@ Each module will include:
 
 + After you review the material you will complete a written homework assignment. If that assignment is acceptable -- you may take the quiz on that module. 
 
-    + Homework assignements will generally be available by the Wednesday before the Monday they are due but may be up earlier.
+    + Homework assignments will generally be available by the Wednesday before the Monday they are due but may be up earlier.
     + You may take as much time as you like on homework assignments.
     + The **homework assignments will be due Monday at 11:59 pm**.  This allows us to grade the assignment before the regularly scheduled quiz time on Wednesday.
     + If your homework is not of acceptable quality, you will be able to complete another assignment the next week and if that is acceptable, you may take the quiz then.
