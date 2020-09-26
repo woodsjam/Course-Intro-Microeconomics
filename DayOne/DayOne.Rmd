@@ -29,23 +29,18 @@ knitr::opts_chunk$set(fig.width=12, fig.height=8)
 + Show Chat Window
 + Write on my screen
 
-## Business Major Can Take the Class P/NP
+## You Can Take the Class P/NP
 
-This statement is directly from the School of Business
+If you  want to drop your stress level, change your grading option to P/NP.
 
-> Given the unprecedented situation with COVID-19 our students are currently experiencing, the School of Business has agreed to allow pass (P) grades rather than letter grades for ECON 201 and 202 taken during the period of time the university was offering remote instruction.
-
-In other words, if you intend to major in business and you want to drop your stress level, change your grading option to P/NP.
++ Nobody will look at your 200 level grades.
++ Check with your funder and visa if it is an issue for you.
 
 ## Syllabus
 
 + You can find the syllabus here. (https://github.com/woodsjam/Course-Intro-Microeconomics/blob/master/SyllabusEC201Woods.pdf)
 
 + **Some** slides will also be on github. (https://github.com/woodsjam/Course-Intro-Microeconomics)
-
-+ The slides are a frame and often blank except for a title.
-    + Online > Watch Video > Look at slides
-  
 
 
 ## Intro Micro (Official)
@@ -92,38 +87,19 @@ A study of the choices individuals face as participants in the markets for goods
 + I'm getting between you and your worst habits.
 
 
-
-## Key Dates
-
-+ Final Exam: 	*Tuesday*, June 9,	1015-1205
-+ Midterm 1: April 23th
-+ Midterm 2: May 14th
-+ Last Day to Withdraw or Change Grade Option: May 17th.
-
-
-Exams will be given on those days and at those times only.  Get those on your calendars.  
-
-
 ## Contact Information
 
-+ There are no in-person office hours this term.  We will use the same Zoom meeting function described above. 
-+ The link to the office hours zoom meeting is on course landing page.
-+ Drop in office hours are Wednesday 12:00-1:30pm and Thursday 8am-9am through the last week of class. 
++ There are no in-person office hours this term.  We will use Zoom to meet face to face. 
++ Drop in office hours are Monday 3-4pm and Tuesday 10am-Noon through the last week of class. I will keep a Zoom meeting up during this time.
++ You can schedule one-on-one meetings at https://woodsj.youcanbook.me/.
 
 I will also keep Slack up during office hours to answer questions.
-
-## Econ Graduate Assistants
-
-+ Wave
-+ GA is online with us for traffic control
-+ Still working on good method to make tutoring appointments.
-
 
 ## Slack
 
 I avoid email since it is a trash heap and a constant distraction.
 
-+ The class will use slack https://spring20ec201.slack.com
++ The class will use slack https://fall20ec201.slack.com
 + Handles direct messages, forum style responses.
 + Phone and video
 + You should be able to sign up with your pdx.edu account
@@ -156,7 +132,6 @@ In short, make it easy for someone to help you.
 + Set personal Do Not Disturb times.  It it defaults to 10pm -8am.
 
 
-
 ## Textbook 
 
 Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018.(ISBN-10: 1-319-09878-9).  
@@ -165,77 +140,59 @@ Krugman, Paul R., and Robin Wells. Microeconomics ed. 5., Worth Publishers, 2018
 + Will not be assigning questions out of the book.
 + Hint: You can rent an earlier edition for  under $20 just make it line up with the 5th edition readings.
 
-## Exams
-
-+ D2L quiz
-+ Will include a mix of multiple choice, calculation and short answer questions.
-+ Massive randomization
- 
-## Class Session quizzes
-
-+ Will be open from start of class till 2 hours afterwards
-+ Check if you completed the reading.
-+ Check if you reviewed earlier classes.
-
-
-Do yourself a favor and review these questions during exam prep.
-
-
-## Homework
-
-+ At most weekly at 11:59 AM, i.e., Noon, Friday
-+ Assigned after we have done the material.
-+ Turned in via D2L either as a D2L "quiz", or as a pdf or word document through D2L "assignment" function. 
-+ _Do not_ write the assignments out by hand and then turn in a photo in pdf form.
-
-These tend to be harder questions that combine two or more ideas from lecture.  Don't expect to knock them out in 30min.  
-
-## Homework Hints
-
-+ Look at the assignment as soon as it is posted.
-+ You have 168 hrs (7 Days) till it is due. Don't wait till the last 3.
-+ We already covered the material you need to do the material when it is posted.
-
-
-
 ## D2L
 
 I will assume you know how  to work D2L, but lets peek anyway.
 
 + Calendar on left
-+ Links in the middle
++ Links on the right
 + Content, Quizzes and Grades up top
 + Zoom meetings in People.
 
-All this is in the watch me first video.
+## General Course Structure
 
-## D2L Key Takeaways
 
-+ Homework is either an "assignment" or a "quiz" depending on if the homework is written or multiple choice.
-+ Both show in the calendar
-+ Due Friday at 11:59AM, i.e., noon.
-+ At least a week notice
++ 14 Modules and your grade is based on how many you complete.
++ Modules are available for three weeks.
++ Pass a homework and you cant take a quiz
++ Pass a quiz and you passed the module unless you pass in week 3.
+  + You need to schedule and pass a one-on-one conference within two weeks to pass.
+
+## Flow Chart
+
+![](FlowChartt.png)
+
+## Times
+
++ HW is due Monday Midnight.
++ HW graded Tuesday
++ Quizzes are open Wednesday 10am-1pm
+
+
+## Homework
+
++ Due Monday at 11:59 PM, i.e., midnight
++ Turned in via D2L as or as a pdf or word document through D2L "assignment" function. 
++ _Do not_ write the assignments out by hand and then turn in a photo in pdf form. It tends to crash out the browser.
++ The photo technique works for individual diagrams, just not whole documents.
+
+
+## Quizzes
+
++ A quiz in D2L will only be open if you pass a homework.
++ Open from 10am - 1pm Wednesday
++ You may have more than one open.
++ 35 multiple choice questions in each quiz.
+
 
 ## Assessments and Grade Policy
 
-+ Final Exam (30%)
-+ Midterm 1 (20%)
-+ Midterm 2 (20%)
-+ Class Session quizzes (20%)
-+ Homework (10%)
++ A: 12 Modules 
++ B: 10 Modules
++ C: 8 Modules
++ P: 8 Modules
++ D: 6 Modules
 
-## Grades Based on Class Rank
-
-+ Course Grade Distribution: ~25% As, ~25% Bs
-+ Based on class rank
-    + Not 90% and above is an A...
-    + Expect exams to use the full range.
-
-Example: .84, .82, .77, .76, **.75**, .65, .64, .50, .44, .2, .1   
-
-+ Grade breaks are in the gaps.
-+ The median, i.e., middle, student will earn a B.
-+ I will update your rank in class weekly starting after the first midterm.
 
 ## It is your effort, not mine
 
@@ -251,7 +208,7 @@ You paid a "small" dollar amount to take this class, but the biggest cost is you
     + Students missed anything mathematical.
     + Students only were able to answer Costa's Level 1 questions, but little else.  For example, students could recognize a definition but could not an example that satisfies the definition.
 
-Which is why we will be working on math and having it in some assignments and quizzes.
+Which is why we  have a math module.
 
 ## What  Math?
 
@@ -261,6 +218,8 @@ Which is why we will be working on math and having it in some assignments and qu
 + Percent Change
 + Solve something like $x = 4 (2 + x)$ for x.
 + Solve solve two equations with two unknowns 
+
+This is what we will be doing on Wednesday.
 
 ## Do your Own Work
 
@@ -305,153 +264,3 @@ http://success.oregonstate.edu/learning/stop-procrastinating
 + Riju Joshi: The econometrician!  
 
 
-##  
-
-How to Study: Hints from a successful student
-
-## Class Notes
-
-+ If you only write down what I write or what is on the slides -- you are not taking notes.
-+ The things I say are important too
-    + If it wasn't, why come to class?
-    + I could post the slides
-    + Better, put them up and set a 1 min slide advance
-
-## What Should be in Your Class Notes
-
-+ The usual, facts, diagrams, definitions, quotes
-
-+ Questions as they occur to you. 
-    + My notes have a lot of questions
-    + Cross them off as they get answered
-    + If one lingers too long -- ask.
-+ Criticism
-    + If something doesn't sound right, note it.
-    + All models are limited and can't handle everything.
-+ Emotional reaction
-    + My notes have a lot of swearing in them.
-    + It's like Morse code
-
-## Strange But True
-
-+ Volume of notes matters.  
-+ The pen is greater than the keyboard.
-+ You have to review the notes if they are going to help.
-
-
-## Class Notes are Not Course Notes
-
-+ Use the notes you take in class to build notes for the course
-+ I often took notes on the paper towels from the bathroom.
-+ Notes should be recopied and reorganized before you go to bed, or at least when you get up the next morning.
-
-They should include:
-
-+ Clarifications from the text
-+ Worked examples
-+ Organized how you think of them.  It could be different than mine.
-+ Highlights of key concepts, equations, figure
-+ References to earlier notes
-
-## Course Notes
-
-I can, and do still do, read mine more than 25 years latter.
-
-Can your read yours from last term?
-
-Hint: Everyone in my graduate cohort created course notes from class notes. 
-
-+ Those are, by definition, very successful students
-+ Was done even when the weekly homework for a single class takes 20 hrs.
-+ You always have time to save time.
-
-## Course Notes are Not Study Notes
-
-+ Don't study by turning pages.
-+ Start early.
-    + The weekend before the exam is not early, that is late
-    + Review for exam is continuous.
-+ Study notes contain:
-    + What you don't understand yet
-    + What you definitely need to know
-+ You revise them down as you learn things
-    + My goal was always to get them down to one side of a note card the day of the exam.
-    + One good exam I had, "Nachos", on the card.  Nothing  to do with the class, but I was well prepared.
-
-## Come to Office Hours
-
-Early 90s I had two classes of 20
-
-+ At *least* 30 would come to each office hour.
-+ Two hours a week, Ten weeks
-+ 30 * 2 * 10 = 600 student contacts
-
-NOW
-
-+ Two or three students two or three times
-+ 10 student contacts
-
-##  Observation 
-
-+ I give pre-tests in my other courses to see how much students remember about prerequisites.
-+ Younger student that took prerequisites a year ago, remember almost nothing.
-+ Older students that took prerequisites more than 30 years ago, remember a lot more.
-
-
-## Get a Group
-
-Clarification: Get a *good* group
-
-How to tell that you have a good group:
-
-+ Everyone is sure they are the idiot of the group.
-+ They call you out when you are not doing your work
-+ Someone can explain everything, but it isn't the same someone every time.
-+ Those pose course  questions that you didn't think of -- and can explain the answers.
-+ When you fall, and you will, the group will pick you up.
-
-## Group Hints
-
-+ This is the 21st century, you don't have to gather in the library.
-+ If people can study together for the Master Sommelier exam through Skype, you can study econ.
-+ If someone is not pulling their weight -- ditch them.
-+ Groups are for mutual benefit.
-
-## Study Every Day
-
-You have a marathon in March.  How do you train?
-
-+ Run for 60 hrs straight in the four days before
-+ Run every day, with break days, building up to a good performance.
-
-Just schedule an hour a day for this class.  Make it a habit.
-
-## Learn How to Read
-
-It is a multipass system.
-
-+ Read the Title and abstract (Papers)
-+ Read the section headings
-+ Read the introduction
-+ Read the conclusion
-+ Look at the figures
-+ Look at the equations
-+ Skim the whole thing
-+ Read it but don't freak out if you don't get everything.
-    + Keep notes on your reactions, how the topic connects back and questions 
-    + Repeat as time allows.
-
-You, and the author, will never fully understand the paper/chapter.
-
-## The Summary of Hints
-
-+ Class notes should be way more than  what is on the board or slides.
-+ High volume with a pen, not a keyboard.
-+ Class notes are not course notes.
-+ Make course notes THAT day.
-+ Make study notes from course notes.  
-+ Study notes get shorter the closer you get to the exam.
-+ EVERY DAY and don't skip leg day.
-+ Come to office hours, but come with purpose.  Don't show up and say you came because I told you.
-+ Get a *good* group
-+ Learn to multipass read and read a lot.
