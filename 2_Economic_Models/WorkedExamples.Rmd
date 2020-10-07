@@ -192,6 +192,7 @@ $$Rooms = 2 - Meals$$
 + Show how you can distribute the extra so that everyone is at least as well as when they didn't trade.
 
 
+
 ## Consumption without Trade
 
 Agents  |Rooms    | Meals |
@@ -204,6 +205,8 @@ Clearly, Bree does not like clean rooms.
 + Find production for each that is feasible and that produces more of at least one good without reducing the production of the other good.
     + At least 2 Rooms
     + At least 5 Meals
+
+
     
 ## My Solution for Production
 
@@ -242,6 +245,12 @@ Breeze  |0        |2      |
 Jamie   |4        |6      |
 
 Try to create a production plan that creates at least as many rooms and meals.
+
+## Hints
+
++ Note that while one agent fully specializes, but the other needs to make both goods so you can have enough.
++ You need to use the PPF equation to figure out how much the other player can make.
+
 
 ## My Solution
 
