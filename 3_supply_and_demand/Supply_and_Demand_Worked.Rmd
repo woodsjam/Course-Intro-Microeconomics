@@ -30,16 +30,36 @@ Things that increase suppliers' likelihood of selling a good:
 + Increase transactions
 + Observed traces out a demand function
 
-# Example Tracing Demand
+# Steps from Shock to New Equilibrium
 
+1. Categorize the shock, e.g., increase in price of complement.
+1. Give supply or demand implication, e.g., demand decreases
+1. Tell if shortage or surplus at original price, $Q_d<Q_s$ therefore surplus.
+1. Shortage or surplus drives a price change, e.g., $\downarrow P$.
+1. Summarize new equilibrium, $P^{**}, Q^{**}$ with $\downarrow P$ and $\downarrow Q$
 
+# Lets Move One Thing At a Time and See What Happens
+
+![](StartComparativeStatic.png)
+
+# Try Again I
+
+![](StartComparativeStatic.png)
+
+# Try Again II
+
+![](StartComparativeStatic.png)
+
+# Try Again III
+
+![](StartComparativeStatic.png)
 
 # Sample Stories and News
 
 Some prices, e.g., electricity,  are fixed by regulation and set years ahead of time.  
 
 + Show a supply function that shows a single price no matter how much electricity is purchased.
-+ Show what happens in this market (Not really perfect competition but still work) when you started zooming to class.
++ Show what happens in this market (Not really perfect competition but still works) when you started zooming to class.
 + Does this make sense given your electric bill?
 
 
@@ -50,7 +70,7 @@ This is about eggs and meat. https://www.businessinsider.com/grocery-prices-reco
 + These are separated into restaurant and grocery store products early
 + Restaurants closed and people ate at home more.
 + Try supply and demand for grocery store meats.
-+ Two interpretations of what happened to demand.
+
 
 
 # How about a trade war (2019)
@@ -120,7 +140,7 @@ Supply is easy $q_s= \frac{1}{3}p$
 
 Firms will now supply 2 extra units no matter what the price.  This is an increase in supply, a shift to the right.
 
-+ This changes supply to $q_s = \frac{1}{3} +2$
++ This changes supply to $q_s = \frac{1}{3} P +2$
 + Demand remains the same.
 + Resolve for the new equilibrium
 

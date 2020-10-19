@@ -1,0 +1,138 @@
+---
+title: "Consumer and Producer Surplus Worked Problems"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# I assume
+
+... you read the chapter and know a few definitions.
+
+We will play with some examples that get at principles.
+
+# Willingnes to Pay
+
++ Another guise of the demand function.  
++ The demand function tells the highest price someone is willing to pay for one more of the good.
++ Alternately, how much the person with the highest valuation is willing to pay for the good.
+
+# A Few Kinds of Surplus
+
+Has the dragon-dragonfly problem.
+
++ Total, or gross, surplus (Note book gives the other common definition of total): The value to consumer of consuming goods.  The sum of what they would have been willing to pay.
++ Consumer surplus:  The benefits of consuming the good less what was paid.  Can be thought of as net surplus.
+
+# Example
+
+|Agent            | WTP   |
+|---              |---    |
+|Alice            | 4  |
+|Bob              | 8  |
+|Charlie          |  6 |
+|David            | 10  |
+
+# Questions
+
++ What is the total gross benefits possible from consuming this good?
++ At a price, cost to society, of 5, who wants to buy?
++ What is the what is consumer surplus?
+
+# What did you find?
+
++  What is the total gross benefits possible from consuming this good?
+  + 28
++ At a price, cost to society, of 5, who wants to buy? Bob, Charlie and David.
++ What is the what is consumer surplus? (24-15 = 9)
+
+
+# Work a few margins?
+
++ If the price drops to 4 1/2 who chooses to purchase the good and what happens to consumer surplus?
++ What is the consumer surplus if everyone is given the good?  Remember that the good must be produced so subtract the cost.
+
+|Agent            | WTP   |
+|---              |---    |
+|Alice            | 4  |
+|Bob              | 8  |
+|Charlie          |  6 |
+|David            | 10  |
+
+# Another Margin
+
+Three people individually wanted the good when the price was 5, Bob, Charlie and David, can you take the good from one of them and make consumer produce increase?
+
+|Agent            | WTP   |
+|---              |---    |
+|Alice            | 4  |
+|Bob              | 8  |
+|Charlie          |  6 |
+|David            | 10  | 
+
+# What you know so far
+
++ Individual purchase/no purchase decisions results in the same result.
++ Lower cost of good means more consumer surplus.
+
+If the prices are not right (market power maybe) or consumption has an effect on others (externalities) this is not true.
+
+# Willingness to Accept
+ 
++ Another guise of the supply function.  
++ The supply function tells the lowest price someone is willing to accept for one more of the good.
++ Alternately, how much the person with the lowest valuation is willing to accept for the good.
+
+Does not matter if good is produced, just that there is an opportunity cost.
+
+# Supply Side
+
++ Gross surplus is equivalent to revenue.
++ Consumer surplus is equivalent to revenue less cost (actually variable cost) or profit plus fixed cost, i.e., producer surplus.  
+  + Those two costs come later.
+
+# Individual and Collective
+
+|Agent            | WTA   |
+|---              |---    |
+|Larry            | 1  |
+|Curly            | 3  |
+|Moe              |  7 |
+|Shemp            | 5  | 
+
++ You need three, who should produce? 
++ At a price of 5 who would produce?
++ What is the producer surplus when the price is 5?
+
+# Now Put Them Together
+
+|Buyer           | WTP  |Seller            | WTA   |
+|---              |---  |---              |---    |
+|Alice            | 4   |Larry            | 1  |
+|Bob              | 8   |Curly            | 3  |
+|Charlie          |  6  |Moe              |  7 |
+|David            | 10  |Shemp            | 5  |  
+
++ How many would be produced and purchased in a competitive market?
++ What is a reasonable range of prices (There is more than one price that works)?
+
+
+# Given that
+
+|Buyer           | WTP  |Seller            | WTA   |
+|---              |---  |---              |---    |
+|Alice            | 4   |Larry            | 1  |
+|Bob              | 8   |Curly            | 3  |
+|Charlie          |  6  |Moe              |  7 |
+|David            | 10  |Shemp            | 5  |  
+
++ What is CS+PS in equilibrium (Hint: you don't need to know the specific price to find this.)
++ What is CS+PS if everybody produces and consumes? Is this better or worse?
+
+# What you know now   
+
++ Low cost sellers are more likely to produce.
++ Competitive markets maximize total surplus.
