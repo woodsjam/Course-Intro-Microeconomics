@@ -1,0 +1,82 @@
+---
+title: "Floors and Ceilings"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Goals
+
++ Play with consumer and producer surplus in the context of price controls.
++ Get intuition on DWL, what it looks like in real life and where you expect to see a lot of it.
+
+#  When We Divide up
+
++ Odd number breakout rooms have Supply and Demand very sensitive to price.
++ Even number breakout rooms have Supply and Demand very insensitive to price
+
+# Odd Rooms
+
+# Even Rooms
+
+# Task 1
+
+Show your market with a price ceiling.
+
++ Changes in CS and PS from unconstrained
++ DWL
++ Any transfers between buyers and sellers
+
+
+# What Did You Find?
+
+
+# Summary
+
++ PS $\downarrow$
++ Transfer from sellers to buyers
++ DWL
+
+# Task 2
+
+Lower the price ceiling.
+
++ How PS changes as price ceiling decreases.
++ How CS changes as price ceiling decreases
++ How DWL changes as price ceiling decreases.
++ How Transfers change as price ceiling decreases.
+
+
+Hint:  CS can increase or decrease depending on diagram.  True in Real life too.
+
+# What Did You Find?
+
+
+# Summary
+
++ PS could increase or decrease.  There is a range where price ceiling decreases help and a range where it hurts.
+    + It has to do with the relative size of the transfer vs the consumer share of DWL.
++ CS $\downarrow$
++ DWL $\uparrow$
+
+# Now Lets Switch to Floors
+
+Keep your same supply and demand functions.
+
+Show your market with a price floor.
+
++ Changes in CS and PS from unconstrained
++ DWL
++ Any transfers between buyers and sellers
+
+# What Did you Find?
+
+
+# Discussion about Sensitivity to Price Changes
+
++ Slope is one measure, but we will learn about elasticity later.
++ With Floor, highly sensitive demand yields high DWL
++ With Ceiling, highly sensitive supply yields high DWL.

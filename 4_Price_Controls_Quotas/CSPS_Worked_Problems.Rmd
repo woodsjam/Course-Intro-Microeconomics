@@ -38,6 +38,14 @@ Has the dragon-dragonfly problem.
 
 # Questions
 
+|Agent            | WTP   |
+|---              |---    |
+|Alice            | 4  |
+|Bob              | 8  |
+|Charlie          |  6 |
+|David            | 10  |
+
+
 + What is the total gross benefits possible from consuming this good?
 + At a price, cost to society, of 5, who wants to buy?
 + What is the what is consumer surplus?
