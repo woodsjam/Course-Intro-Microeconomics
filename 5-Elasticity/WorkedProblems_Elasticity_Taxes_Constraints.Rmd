@@ -1,0 +1,165 @@
+---
+title: "Elasticity, Taxes, and Welfare: Worked Problems"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Plan For the Day
+
+- Figure out when you can get benefits (CS or PS) with minimal loss to society (DWL) with a price ceiling or floor.
+- Build examples and intuition on what makes goods demand and supply elastic.
+- Do some elasticity calculations with real numbers.
+- Who pays for a tax, i.e., the burden, and how it is different than who writes the check.
+- What goods to tax if you only care about excess burden, i.e., DWL
+- What about fairness?
+
+# Two Kinds of Supply and Demand
+
+- Odd number groups have a **steep supply and a shallow demand**.
+- Even number groups have a **steep demand and a shallow supply**.
+
+# Tasks
+
+- Impose both a price ceiling and a price floor.  Two diagrams.
+- Questions for each diagram:
+  - Did the floor or ceiling have a higher DWL?
+  - Did CS or PS increase?
+  
+# The Figures
+
+
+# What matters
+
+- If you have a price ceiling and a steep supply
+  - The DWL is small
+  - The change in transactions is small
+  - CS _likely_ increases a lot.
+  - Backwards if you have a shallow supply
+  
+- If you have a price floor and a steep demand
+  - The DWL is small
+  - The change in transactions is small
+  - PS _likely_ increases a lot.
+  - Backwards if you have a shallow demand
+
+
+# A Little on Elasticity
+
+- First we will create some examples of the kinds of goods that are both demand and supply elastic.
+- Second we will do some calculations related to elasticity.
+
+# The Tasks
+
+
+- Give a pair of goods such that one is more demand elastic than the other? Why? 
+- Give a pair of good such that one is more supply elastic than the other? Why? 
+
+The Why is the important part.
+
+# What Did you Find?
+
+
+# Some Notes On Calculating
+
+- Economists don't really do things the way the book says.
+  - We do estimate elasticities but they come out of regression models.
+  - Not all Supply or Demand functions have constant elasticity.
+- Very nice for back of the envelope, meaning quick degree of magnitude estimation.
+
+# Why Easy?
+
+$$\frac{\% \Delta Effect}{\% \Delta Cause}$$
+
++ Percent change comes without units $\% \Delta = \frac{End \$ - Begin \$}{Begin \$} = \frac{End - Begin}{Begin}$.
++ Elasticity is unit free
++ Credit to engineers; economics stole it.
+
+
+# Demand Elasticity
+
+$$\frac{\% \Delta D_q}{\% \Delta P}$$
+
++  Percent change in quantity demanded over percent change in price.
++ Is negative for demand function, but some old folks talk as positive.
++ Kind of like slope but:
+    + A linear demand has different elasticity at every point.
+    + A demand with constant elasticity is shaped like a hyperbola $P = \frac{a}{q^{elasticity}}$
+    + No units so can compare feet to gallons.
+
+# Calculation
+
+Elasticities allow back of the envelop calculation -- if you know the right elasticity.
+
++ If you know the price change, you can calculate the change in purchases.
++ If you know the income change, you can calculate the change in demand, assuming prices remain the same.
+
+# Why?  Cancellation
+
+$$\% \Delta P (El_{p})= \% \Delta P \frac{\% \Delta D_q}{\% \Delta P}= \% \Delta D_q$$
+
+So, if you see a 10% drop in the price of Mountain Dew  with $E_p =-4.4$ then you should see a $-10 \% (-4.4) = 44\%$ increase in the sales of Mountain Dew.
+
++ Watch the negative signs
++ Works with other elasticities too
+
+# Look at some real life
+
+https://www.ers.usda.gov/data-products/commodity-and-food-elasticities/
+
+Try Poultry in the US.
+
+# Suppose 
+
+The price of poultry increases by 10% what happens to sales?
+
+The price of eggs increases by 10%, what happens to sales of poultry?
+
+# What Did you Find?
+$$\% \Delta Cause (El)= \% \Delta Cause \frac{\% \Delta Effect}{\% \Delta Cause}= \% \Delta Effect$$
+
+# On to Taxes
+
+- Odd number groups have a **steep supply and a shallow demand**.
+- Even number groups have a **steep demand and a shallow supply**.
+
+
+# Show
+
+- Tax Revenue
+- Excess Burden.  That is the name of DWL when we talk taxes.
+- The tax burdens for both buyers and sellers.
+
+# What Did You Find?
+
+
+# Summary
+
+- The more inelastic side, buyers or sellers, has a larger burden of the tax.
+
+Big Take Away:  Nothing to do with who writes the check. If you can't change behavior you pay.
+
+# Slight Change
+
+- Odd number groups have **inelastic** supply and demand
+- Even number groups have a **elastic** supply and demand.
+
+Show the excess burden
+
+
+# What Did you Find?
+
+# Key
+
+- The least elastic function determines the decrease in sales.
+- Excess burden increases as the least elastic function, supply or demand, increases in elasticity.
+- The least elastic function has a larger burden of the tax.
+
+# So Wait
+
+- If I want a low excess burden, I just tax things you need to survive, insulin, or things you are addicted to, cigarettes, and I can minimize social harm?
+- If I want to be fair, in the ability to pay sense, I just tax luxury items.  Those usually have high elasticity and therefore high excess burden.
