@@ -1,0 +1,102 @@
+---
+title: "Worked Production and Cost"
+output: beamer_presentation
+theme: "Berlin"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Half Week?
+
++ Why we have only one module this week.  There will be two next week.
++ The next modules on perfect competition trough monopoly are the hard ones in the class.
++ We are currently about two weeks behind the usual for in-person courses.
+
+# Exercise 1 (Groups)
+
+Give three examples, with context, of:
++ Fixed input/cost
++ Variable input/cost
+
+Give the reason why you think the input/cost is variable or fixed.
+
+Nominate a speaker.
+
+# A few Rules on costs
+
++ FC is fixed
++ $TC = VC + FC$
++ $VC(0) = 0$
++ $AC = AVC + AC = \frac{TC}{Q} = \frac{VC}{Q} + \frac{FC}{Q}$
++ $MC(Q) = TC(Q+1) - TC(Q) = VC(Q+1) - VC(Q)$ The non-calc definition varies by textbook.  Caution.
+
+# Exercise 2 (Whole Class)
+
+Fill in the blank and say why.
+
+Q    | TC      | VC    | FC   | AC   | AFC   | AVC | MC  |
+---  |---      |---    |---   |---   |---    |---  |---  |
+0    |  2      |       |      |      |       |     |  3  |
+1    |  5      |       |      |      |       |     |     |
+3    |  12     |       |      |      |       |     |     |
+
+
+# Exercise 3 (Groups)
+
+Q    | TC      | VC    | FC   | AC   | AFC   | AVC | MC  |
+---  |---      |---    |---   |---   |---    |---  |---  |
+0    |         |       |      |      |       |     |    |
+1    |         |  2     |  5   |      |       |    |     |
+**4**|  20     |       |      |      |       |     |  x  |
+
+
+# About the diagrams
+
+You tend to see two kinds in the book:
+
+1.  Linear Marginal Cost ($MC = \alpha q$): 
+  + $AVC = \frac{\alpha}{2} q$
+  + Profit maximizing is just where lines cross.
+1. Parabolic Average variable cost ($AVC  = \alpha (q - m)^2 + b$)
+  + Shows the increasing marginal product of labor, declining marginal cost range.
+  + Infinities for low q.
+  
+# Getting Diagrams Right is Key   
+
+You need to be able to see the relationships.
+
++ The steps and graphical hints are mostly to help you see the basic relationships.
++ There are a few mathematical requirements, e.g., MC cuts AC at the min of AC, but otherwise the hints are to give you enough space to see areas.
++ The order is different depending if you are drawing linear marginal cost or parabolic AVC.
+
+
+# Steps: Linear Marginal
+
++ Axis with labels.  $ or costs list, AC, MC, etc and q/t is fine.
++ Draw in MC as a line with zero intercept
++ AVC line half as steep as MC with intercept at zero.
++ AC is hard:
+  + AC = AFC + AVC
+  + Starts far above AVC since AFC is large for small q.
+  + Gets closer to AVC as q increases
+  + Is cut by MC at the minimum.
+  + Looks like a skewed parabola
+  
+# Try it.  Four people at a time in groups.
+
+
+# Steps: Parabolic AVC
+
++ Axis with labels.  $ or costs list, AC, MC, etc and q/t is fine.
++ Draw AC as a smile that covers about 2/3 of your graph. 
++ MC looks like a fish hook or Nike Swoosh that cuts AC at the minimum.
++ AVC is hard:
+  + AC = AFC + AVC
+  + Starts far below AC since AFC is large for small q.
+  + Gets closer to AC as q increases
+  + Is cut by MC at the minimum.
+  + Looks like a skewed parabola
+
+# Try it.  Four people at a time in groups
