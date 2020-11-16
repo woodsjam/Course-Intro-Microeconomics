@@ -100,3 +100,101 @@ You need to be able to see the relationships.
   + Looks like a skewed parabola
 
 # Try it.  Four people at a time in groups
+
+#  So now what?
+
+At this level, economics has a specific modus operandi 
+
++ Figure out what the actor wants, the objective function.
++ Figure out the constraints, costs, income, ...
++ Maximize (or minimize) the objective function subject to those constraints.
+
+We will assume that the goal of the firm is profits, $\Pi$, which we define as revenue less costs.
+
+# Warning
+
++ Costs are more expansive to an economist.
+    + We include opportunity cost.
+    + Imputed salary of owner that takes no salary.
+    + Impute rent when firm owns property, even things like desks
++ Because Costs are Different -- Profits are different.
+    + Net Income, profit to an accountant, is always more than economic profit.
+    + We include costs they don't
+    
+# Implication
+
+$$Accounting~Profit - Opportunity~Costs = Economic~Profit$$
+
+Just because you have positive accounting profits, net income, does not mean you have positive economic profits
+
+# Profit
+
+$$\Pi = Rev(q) - Cost(q)$$
+
++ Positive profit 
+    + Greater than can be achieved elsewhere in the economy for the same risk.
+    + Expect net entry soon
++ Zero or Normal Profit
+    + Equal to what can be achieved elsewhere for the same risk.
+    + No net entry or exit
++ Negative: Less
+    + Net exit
+
+Note that risk is built in.  The higher the risk the more profit needed.
+
+
+# Example
+
++ A very safe 2% return may be positive economic profits.
++ A very risky 15% return may be negative economic profits.
+
+
+# So what Does the Firm do?
+
+Competitive firms observe a price and choose output to maximize profit.
+
++ They can't control price and can only react.
++ Profit, not maximum per unit.
++ Calc people will see this as an optimization problem.
+
+# Forget this formula
+
+$$\max_q R(q) - C(q)$$
+
+# Profit Max Q with Marginal Revenue and Marginal Costs
+
+# Steps
+
++ Find $q^*$ where $MC = MR$
++ Start at $q^*$ go to AC and hang a left.  
+    + That is $AC^*$.
+    + Box is Total Cost, $TC^* = AC^* q^*$
++ Start at Start at $q^*$ go to $AR=P=MR=D_{firm}$ and hang a left.  
+    + That is $AR^*$.
+    + Box is Total Revenue, $TR^* = AR^* q^*$
++ Little box on top is profit.
+
+# Positive Economic Profits (AR > Min AC)
+Weird sunglasses shows up when there is positive economic profits.
+
+
+# Negative Economic Profits (AR < Min AC)
+
+# Negative Profits
+
++ No Weird sunglasses thing but a funny triangle.
++ Does not mean you go out of business or exit.
+    + But you could make more in another industry.
++ There is a shut-down condition
+    + If AVC > AR, shut down
+    + Not out of business.
++ Why all stores are not 24/7.
+    + The revenue from staying open (AR) is less than the costs of lights and labor (AVC).
+    + Exit and Entry is a long term topic which we handle elsewhere.
+    
+# Why Shutdown?
+
+$$\Pi = TR - FC - VC$$
+When TR<VC you are better off just paying FC and let $TR=0$ and $VC=0$.
+
+$$\Pi = (TR - VC) - FC < -FC$$
