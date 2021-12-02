@@ -74,7 +74,7 @@ For each problem:
 + There is a socially optimal amount, but we overuse.
 + Classic solutions
     + Convert to individual property rights
-    + Publically manage the commons
+    + Publicly manage the commons
     + Tax the use of the commons
     + Make it excludable in some way.
 

@@ -3,6 +3,7 @@ title: "Syllabus EC 201 Fall 2020"
 author: "James Woods"
 date: ""
 output: pdf_document
+fontsize: 12pt
 ---
 
 ```{r setup, include=FALSE}

@@ -256,6 +256,12 @@ Someone (Government) stands ready to buy and sell allocations at all times:
 
 No guarantee of revenue neutrality.  History shows that these spend a lot of time at the floor value.
 
+## The EU's KILL, BILL, TAX Approaches
+
++ KILL price goes below floor, retire allowance forever
++ BILL increase requirements for everyone till price gets to floor.
++ TAX tax allowance enough to get to price floor if below.
+
 ## Why so much time on the floor?
 
 + Plenty of direct regulation, e.g., RPS, coal bans, to reduce GHG emissions.
@@ -317,8 +323,8 @@ Assuming \$10/Ton
     
 ## Current Prices
 
-+ EU: 25-30 EUR/tonne
-+ CA: ~15 \$/ton
++ EU: 20-30 EUR/tonne
++ CA: 15-20 \$/ton
 
 ## What is covered.
 
