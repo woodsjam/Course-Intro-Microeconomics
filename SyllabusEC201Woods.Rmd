@@ -19,13 +19,6 @@ The official description of the course is:
 
 It is my intent to give you a basket of tools that you can use to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices we make.
 
-students approach the course, and college, a few different ways and we provide a few different ways you can approach the course.
-
-You can take this as a *proficiency based course* with a top grade of C+ (B- with extraordinary effort), or as a *written exam based course* with a full A to F grading scale. Full details on both are given below and will be described in class.
-
-The intent is that if you are only taking the class because you need it for a degree requirement, true for business students, and are not interested in the material, you can take the proficiency based version, which *can be, but should not be, done online without attending class*.
-
-If you are more interested and are willing to learn the material beyond recognition stage, if you intend on majoring in economics, or are really looking for an A in the course, go for the exam-based version of the course.
 
 ## Technology Requirements
 
@@ -46,23 +39,8 @@ Office Hours:
 
 # Basis for Grade
 
-I provide two ways to take this course:
 
--   **Proficiency based**: No written exams and a maximum grade of C+ (or a B- with extraordinary effort.) based on modules completed at an acceptable level.  Acceptable is generally 70% depending on the module.  This is not a high bar.
-
--   **Exam based**: Four written exams.
-
-The proficiency based system is intended for non-majors or those that have limited time to devote to this course given their other commitments. Please understand that the maximum grade you can earn is a C+ (or a B- with some extraordinary effort). This keeps you in good academic standing and the overall effect on your GPA is negligible.
-
-The exam based system is more difficult, but you will have a solid understanding of the material for later courses and life.
-
-Your choice will probably depend on the time you have available for the course and your study habits.
-
-The modules and quizzes will be open for both groups and you will see the results of the auto-graded quizzes and hand-graded questions.
-
-**The module based quizzes only count for those in the proficiency based track.**
-
-## Basis for Grade: Proficiency Based
+## Basis for Grade
 
 Your grade in the class will be determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade.
 
@@ -78,50 +56,7 @@ Acceptable adaptive and fixed quiz scores may be determined either before or aft
 -   P: 7 Modules
 -   D: 5 Modules
 
-## Basis for Grade: Exam Based
 
-This is intended to give students the kind of experience you would get at a liberal arts college and better prepare students that intend on majoring in economics.
-
-Your grade is determined completely based on your performance on the in-class written exams and periodic homework.
-
-The quizzes used by those on the proficiency track are just for practice and are not part of your grade. You will still see those scores, and we will still give you feedback on your work, but it won't count for your grade.
-
-There are three midterms and a final exam. We will sit these in class.
-
-We can adapt this to a remote exam, but expect to have your camera on and have a useful pen or stylus interface through tablet or other touch screen device sufficient to use jamboard (<https://jamboard.google.com>).
-
-The exams will be a mix of problem solving, math type questions, and some essays. You will have some of the material for these exams ahead of time, mostly some question possibilities for the essays, and some short news readings to interpret. 
-
-I will pin a current list of questions in slack.
-
-The first midterm is purposefully weighted low so you don't walk out of thinking you have ruined your grade -- you have not. The intent is to give you an easy introduction, or reintroduction, to this kind of approach to learning.
-
--   Midterm 1 (Week 3, Jan 19): 10%
--   Midterm 2 (Week 6, Feb 9): 30%
--   Midterm 3 (Week 8, Feb 23): 30%
--   Final Exam (Final Exam Week, March 15 8:00-9:50): 30%
-
-You must take all exams for a passing grade.
-
-## Which Path, Proficiency Based or Exam?
-
-From my point of view it is easy. If you turn in Midterm 1, you are on the exam path. If you don't, then you are on the proficiency based path.
-
-You can't change back to proficiency based after you turn in an exam, and you can't switch to exam based after you skipped the first midterm.
-
-My recommendation is to start the class planning to do all the modules, which if you are on the exam path you should do anyway, and then show up on exam day and make the decision after you see the exam.
-
-If you turn in the exam -- you are on the exam path. The modules no longer count for your grade, but keep doing them because they are really helpful.
-
-## What Ifs
-
--   Q: What is the worst thing you see a student doing with this system? A: I see students not doing the modules, for whatever reason, tempted by only having to do four exams on four days, and then being able to do nothing on the exam.
-
--   Q: What if I change my mind about the grade option later in the term? Can I make up the exams or go back and do extra modules? A: No. It is a one-way door.
-
--   Q: What if I am on the *proficiency based* system and I get sick? A: It depends on how severe it is. If it is something mild, less than two weeks, you can catch up on the material in the third week. If it is severe, longer than two weeks, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back.
-
--   Q: What if I am on the *exam based* system and I get sick on exam day? A: It depends on how severe. If you can work, but should not be on campus, take the exam remotely. If it is more severe than that, you can do one, and only one, *make-up exam on DATE NEAR END OF TERM*. If you are sick on make-up exam day and have a passing grade, we can give you an incomplete, if not, you can make a deadline appeal <https://www.pdx.edu/registration/DAC>. You must send documentation, but it removes the course from your transcript and gets you your money back.
 
 # The In-class Experience
 
@@ -141,17 +76,6 @@ Stay alert. Stay engaged.  And I will send feedback via email on what you did in
 
 There are no participation points.  You don't get credit for showing up, or logging onto zoom.  Showing up to class is just about the most important thing you can do to be successful. I'm just not gamifying it with points.
 
-## Exam Days
-
-You have had a copy of some of the questions or possible questions for a few days.  You should have outline and sketch answers for these as part of your preparation.  That is just advice; I don't recommend walking into the exam blind.
-
-On exam day you are feeling pretty good and show up to class.  You get your personal copy of the exam, which could be different from the others.
-
-The exams will be diagram heavy and there will not be any multiple choice questions.  The exams will be scaled, so don't get alarmed about scores.  Three out of five on a question may be a great score.
-
-The exams are designed to be take anywhere.
-
-You will be on zoom with your camera and microphone on and you will receive a Google doc when the exam starts with your questions, which could be different from the others. You can type your answers and open the linked jamboard for figures, diagrams and math answers.
 
 # Textbook and Other Resources
 
