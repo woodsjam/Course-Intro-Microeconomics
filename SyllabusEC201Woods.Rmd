@@ -1,8 +1,10 @@
 ---
-title: "Syllabus EC 201 Fall 2022"
+title: "Syllabus EC 201 Winter 2022"
 author: "James Woods"
-date: ""
-output: pdf_document
+date: ''
+output:
+  word_document: default
+  pdf_document: default
 fontsize: 12pt
 ---
 
@@ -22,49 +24,31 @@ It is my intent to give you a basket of tools that you can use to better underst
 
 ## Technology Requirements
 
-It is assumed that you can access the class via zoom and have a functioning web browser that can access google docs when you are logged in on your @pdx.edu account.  The slides are interactive and assume you have some kind of touch or pseudo-pen interface. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
+It is assumed that you can access the class via zoom and have a functioning web browser that can access your  @pdx.edu account.  The slides are interactive and assume you have some kind of touch or pseudo-pen interface. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
 
 The technology requirements are your responsibility. 
 
 # Contact Information
 
-Communication will be handled through slack <http://woodseconomics.slack.com/>. You should have received an invitation, if not, just go to that URL and use this link (**JOIN LINK HERW**) and your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
+Communication will be handled through slack <http://woodseconomics.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
 
-Slack will be used for IM, email and forum style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#macro_general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+Slack will be used for IM, email and forum style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#micro_general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
 
 Office Hours:
 
--   Zoom office hours are Monday 3:30-5:30pm and Tuesday 10:00-11:30. There are no office hours final exam week.  
--   You can schedule one-on-one meetings at <https://woodsj.youcanbook.me/>. These will be online meetings through zoom.
+Office hours, where I or the GA, Roy, will be active on Slack to answer questions via text, voice, or video, are scattered in the attempt to make at least one convenient for you.   I will respond on Slack at other times, but I will not respond immediately.
 
-# Basis for Grade
++ Monday 4-5 pm
++ Tuesday 11am- 1pm
++ Thursday 1-2 pm
 
+# The In-Class Experience
 
-## Basis for Grade
-
-Your grade in the class will be determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade.
-
-Quizzes for each module will be available for three weeks. There will generally be an adaptive quiz, which you can take at any time once it is available. You need a minimum score on the adaptive quiz before the fixed quiz opens. **The adaptive quizzes can take anywhere from 15 minutes to forever.**  
-
-You can take the fixed quiz once per week in each of the three weeks it is open. This does not mean that you get three tries. If your first attempt is on the last available week -- you get one attempt. **The fixed quizzes should take between 30 minutes to an hour to complete but you will be given 1:30.**
-
-Acceptable adaptive and fixed quiz scores may be determined either before or after students take the quizzes.
-
--   B-: 12 Modules
--   C+: 9 Modules
--   C: 7 Modules
--   P: 7 Modules
--   D: 5 Modules
-
-
-
-# The In-class Experience
-
-I am anticipating that some of the class will be joining our meeting in-person and some remotely. This class is built to be fully remote if things get odd.
+This class is remote, which means it is just like regular class.  We talk. Ask questions.  Draw things on the whiteboard/jamboard.
 
 ## Regular Lecture Days
 
-I'll have zoom up on my laptop, but I'll just have the microphone on. The the in-class material will be a combination of Google slides, which I will share with you and perhaps a jamboard for problem solving. This should work a lot better for those with with slower computer processors and less memory. Zoom video eats cpu cycles.  
+I'll have zoom up, but I'll just have the microphone on. The the in-class material will be a combination of Google slides, which I will share with you and a jamboard for problem solving. This should work a lot better for those with with slower computer processors and less memory. Zoom video eats cpu cycles.  
 
 The slides will be shared with you and will stay synced with where we are in class. I won't be screen sharing; it will just automatically sync.  This makes it much easier to join by phone without running zoom in the background.
 
@@ -72,15 +56,63 @@ There will also be a lot of collaborative elements to these slides. I may ask yo
 
 [^2]: Pear Deck (<https://www.peardeck.com>) is driving this if you are curious.
 
-Stay alert. Stay engaged.  And I will send feedback via email on what you did in class the next day.
+Stay alert. Stay engaged.  Roy and I will send feedback via email on what you did in class.
 
-There are no participation points.  You don't get credit for showing up, or logging onto zoom.  Showing up to class is just about the most important thing you can do to be successful. I'm just not gamifying it with points.
+There is a participation component to this.  We will actually put your **anonymous** work up for others to see.  We will also look at how well you did on those in-class exercises, either getting things generally right or showing some progress towards doing well. This will show up in the grade book as a quick assessment:
 
++ 0: Absent, not or minimally active.
++ 1: Somewhere in the middle.
++ 2: Active student that is making progress towards learning the material.
+
+We will focus on the actual written work so the extroverts don't get all the credit.
+
+There are no actual `points` for this but your participation determines the standard that we use on the modules, described next, for determining if you pass at an acceptable level.  Active students don't need to show as much on the Achieve quizzes because they have shown it in class.  The others needs to score higher on the modules in Achieve.
+
+# Basis for Grade
+
+Your grade in the class will be determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade.
+
+The acceptable level, a weighted average of the exercises in the module, is determined by your participation in-class.  The minimum weighted average to pass the module for each participation level is:
+
++ Participation 0: 85%
++ Participation 1: 80%
++ Participation 2: 70%
+
+Quizzes for each module are available now.  You can start if you like.  The due dates are generally about three weeks after we introduce the topic in class. There will be an `LearningCurve` quiz, which can take anywhere from 15 minutes to forever.  You only get one try at these so reserve some time.  The grade on these are all or nothing.  Not passing means you need to do much better on the other quiz elements.
+
+The other quizzes, which are a combination of video questions, multiple choice and graphing can be completed at most five times and you have an hour to complete them.  We take the high score. 
+
+There are at least three of these other exercises in each chapter. All of these are in the Modules you can find in Achieve when you choose to view by `Course Content`.
+
+- A : 15 
+- A-: 14
+- B+: 13
+- B : 12
+- B-: 11
+- C+: 10
+- C : 9
+- C-: 7
+- P : 7
+
+# A Few Words
+
+My job is to help you learn.  I set the bounds on what you should be learning, create the drills, give feedback, and help you get what you need out of the course for future classes and life.
+
+Nothing I do will will help you learn unless you believe that you can learn and that you want to learn.  Trying to teach an unmotivated learner, or someone that thinks they can't learn is an impossible task.
+
+For many of you the hardest module is the first one that covers the math you need for the course. You only need Freshman High School Algebra.  The textbook has a summary but if you need more, work through Khan Academy (https://www.khanacademy.org/math) and get where you have to go.
+
+The second thing I need you to do is read. It is the fastest way to learn.  Lecture is far more limited in scope and detail and lecture slides are summaries of summaries. Each of those summaries built for someone other than you.
+
+A better approach to reading the mass of material you need to read in you courses, and to keep current in your field, is **academic skimming**.  Just Google it and follow the directions.  Your future self will thank you.
 
 # Textbook and Other Resources
 
-I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with quizzes and homework assignments and you should be able to purchase the whole package through Canvas.
+I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with quizzes and homework assignments and you should be able to purchase the whole package through https://achieve.macmillanlearning.com/courses/asmeup
 
+## Topics
+
+Some of the shorter chapters will be combined into one module.
 
 1. Math:  You need Freshman High School Algebra for this class. This is one of the biggest stumbling blocks.
 
@@ -98,11 +130,17 @@ I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth 
 
 1. Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes  is less clear than you thought.
 
+1. Decision Making by Individuals and Firms (Ch 9):  Different ways of thinking about costs and which ones are important, plus a few things about time value of money.
+
+1. The Rational Consumer (Ch 10): This is the idealized case and explains huge chunks of human behavior.  There is a little bit about behavioral economics.
+
 1. Behind Supply Curves (Ch 11): Not all markets, choices, or allocation mechanisms can be described by supply and demand.  Cost curves allow us to find out what happens in those circumstances.
 
 1. Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
 
 1. Monopoly (Ch 13): Uses cost curves to describe the costs to society of market power.
+
+1. Oligopoly (Ch 14):  Somewhere between Monopoly and Perfect Competion.
 
 1. Monopolistic Competition (Ch 15):  The most common market structure you interact with.  If it has a prominent brand -- its monopolistic competition.
 
