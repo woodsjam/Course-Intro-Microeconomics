@@ -3,8 +3,8 @@ title: "Syllabus EC 201 Winter 2022"
 author: "James Woods"
 date: ''
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 fontsize: 12pt
 ---
 
@@ -12,31 +12,30 @@ fontsize: 12pt
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 # Course Description
 
 The official description of the course is:
 
  > A study of the choices individuals face as participants in the markets for goods, services and factors of production like labor; behavior of profit-maximizing firms operating in markets with varying degrees of competitive pressure; potential role of government in intervening to influence market outcomes using taxes and subsidies; reasons for international trade and economic inequality.
 
-It is my intent to give you a basket of tools that you can use to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices we make.
+I intend to give you a basket of tools that you can use to better understand the news, your later economics courses, and how small differences in institutions can dramatically change the choices we make.
 
 
 ## Technology Requirements
 
-It is assumed that you can access the class via zoom and have a functioning web browser that can access your  @pdx.edu account.  The slides are interactive and assume you have some kind of touch or pseudo-pen interface. You could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
+You should have access to  Zoom and a functioning web browser.  The slides are interactive and assume you have some touch or pseudo-pen interface. For example, you could use your finger and your phone (which works but I would not recommend), a computer with a touch screen, or even a small \$30 Wacom tablet.
 
 The technology requirements are your responsibility. 
 
 # Contact Information
 
-Communication will be handled through slack <http://woodseconomics.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
+We will handle course communication through slack <http://woodseconomics.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
 
-Slack will be used for IM, email and forum style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#micro_general. If you have a personal message that is not intended for others, send a direct message, i.e., @woodsj.
+Slack allows for IM and forum-style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#micro_general. If you have a personal message not intended for others, send a direct message to @woodsj.
 
 Office Hours:
 
-Office hours, where I or the GA, Roy, will be active on Slack to answer questions via text, voice, or video, are scattered in the attempt to make at least one convenient for you.   I will respond on Slack at other times, but I will not respond immediately.
+Office hours, where I or the GA, Roy, will be active on Slack to answer questions via text, voice, or video, are scattered throughout the week in the attempt to make at least one convenient for you.   I will respond on Slack at other times, but I will not respond immediately.
 
 + Monday 4-5 pm
 + Tuesday 11am- 1pm
@@ -44,29 +43,29 @@ Office hours, where I or the GA, Roy, will be active on Slack to answer question
 
 # The In-Class Experience
 
-This class is remote, which means it is just like regular class.  We talk. Ask questions.  Draw things on the whiteboard/jamboard.
+This class is remote, which means it is just like a regular class.  We talk. Ask questions.  Draw things on the whiteboard/jamboard.
 
 ## Regular Lecture Days
 
-I'll have zoom up, but I'll just have the microphone on. The the in-class material will be a combination of Google slides, which I will share with you and a jamboard for problem solving. This should work a lot better for those with with slower computer processors and less memory. Zoom video eats cpu cycles.  
+I'll have Zoom up but will be using it primarily for audio. The in-class material will be a combination of Google slides, which I will share with you, and a jamboard for problem-solving. This combination of tools should work better for those with slower computer processors and less memory. 
 
-The slides will be shared with you and will stay synced with where we are in class. I won't be screen sharing; it will just automatically sync.  This makes it much easier to join by phone without running zoom in the background.
+The slides will be shared with you and stay synced automatically. There is no need for me to screen share.  This makes it much easier to join by phone without running zoom in the background.
 
-There will also be a lot of collaborative elements to these slides. I may ask you to draw a diagram of a domestic market with imports and I will be able to see what each of you do.  This is why the psudo-pen interface is important. [^2]
+There will also be a lot of collaborative elements to these slides. I may ask you to draw a diagram of a domestic market with imports, and I will see what each of you do.  This is why the psudo-pen interface is important. [^2]
 
 [^2]: Pear Deck (<https://www.peardeck.com>) is driving this if you are curious.
 
 Stay alert. Stay engaged.  Roy and I will send feedback via email on what you did in class.
 
-There is a participation component to this.  We will actually put your **anonymous** work up for others to see.  We will also look at how well you did on those in-class exercises, either getting things generally right or showing some progress towards doing well. This will show up in the grade book as a quick assessment:
+There is a participation component to this.  We will put your **anonymous** work up for others to see.  We will also look at how well you did on those in-class exercises, either getting things generally right or showing some progress towards doing well. This will show up in the grade book as a quick assessment:
 
-+ 0: Absent, not or minimally active.
++ 0: Absent or minimally active.
 + 1: Somewhere in the middle.
 + 2: Active student that is making progress towards learning the material.
 
-We will focus on the actual written work so the extroverts don't get all the credit.
+We will focus on the actual written work, so the extroverts don't get all the credit.
 
-There are no actual `points` for this but your participation determines the standard that we use on the modules, described next, for determining if you pass at an acceptable level.  Active students don't need to show as much on the Achieve quizzes because they have shown it in class.  The others needs to score higher on the modules in Achieve.
+There are no actual `points` for this, but your participation determines the standard that we use in the modules for determining if you pass at an acceptable level.  Active students don't need to show as much in the modules because they have shown it in class.  The others need to score higher on the module exercises.
 
 # Basis for Grade
 
@@ -74,15 +73,19 @@ Your grade in the class will be determined by the number of modules you complete
 
 The acceptable level, a weighted average of the exercises in the module, is determined by your participation in-class.  The minimum weighted average to pass the module for each participation level is:
 
-+ Participation 0: 85%
++ Participation 0: 90%
 + Participation 1: 80%
 + Participation 2: 70%
 
-Quizzes for each module are available now.  You can start if you like.  The due dates are generally about three weeks after we introduce the topic in class. There will be an `LearningCurve` quiz, which can take anywhere from 15 minutes to forever.  You only get one try at these so reserve some time.  The grade on these are all or nothing.  Not passing means you need to do much better on the other quiz elements.
+Exercises for all the modules are available now.  You can start if you like.  The due dates are approximately three weeks after introducing the topic in class. 
 
-The other quizzes, which are a combination of video questions, multiple choice and graphing can be completed at most five times and you have an hour to complete them.  We take the high score. 
+There will be a `LearningCurve` quiz, which can take anywhere from 15 minutes to forever.  You only get one try at these, so reserve some time.  The grade on these is all or nothing.  Not passing means you need to do much better on the other exercises in the module.
 
-There are at least three of these other exercises in each chapter. All of these are in the Modules you can find in Achieve when you choose to view by `Course Content`.
+The other exercises, which are a combination of video questions, multiple-choice and graphing, can be attempted at most five times. You have an hour on each attempt.  We take the high score. 
+
+There are at least three exercises in each module. It is easiest to see the Modules in Achieve when you choose to view by `Course Content`.
+
+The cut points for course grades are:
 
 - A : 15 
 - A-: 14
@@ -94,59 +97,64 @@ There are at least three of these other exercises in each chapter. All of these 
 - C-: 7
 - P : 7
 
+I reserve the right to ease these standards.
+
 # A Few Words
 
 My job is to help you learn.  I set the bounds on what you should be learning, create the drills, give feedback, and help you get what you need out of the course for future classes and life.
 
-Nothing I do will will help you learn unless you believe that you can learn and that you want to learn.  Trying to teach an unmotivated learner, or someone that thinks they can't learn is an impossible task.
+Nothing I do will help you learn unless you believe that you can learn and want to learn.  It is impossible to teach an unmotivated learner or someone who thinks they can't learn.
 
-For many of you the hardest module is the first one that covers the math you need for the course. You only need Freshman High School Algebra.  The textbook has a summary but if you need more, work through Khan Academy (https://www.khanacademy.org/math) and get where you have to go.
+For many of you, the most challenging module is the first one that covers the math you need for the course. You only need Freshman High School Algebra.  The textbook has a summary, but if you need more, work through Khan Academy (https://www.khanacademy.org/math) and get where you have to go.
 
-The second thing I need you to do is read. It is the fastest way to learn.  Lecture is far more limited in scope and detail and lecture slides are summaries of summaries. Each of those summaries built for someone other than you.
+The second thing I need you to do is read. It is the fastest way to learn.  Lecture[^3] is far more limited in scope and detail, and lecture slides are summaries of summaries.
 
-A better approach to reading the mass of material you need to read in you courses, and to keep current in your field, is **academic skimming**.  Just Google it and follow the directions.  Your future self will thank you.
+
+[^3]: Lecture,  A performative exercise where the teacher pretends to teach, and the student pretends to learn.
+
+A better approach to reading the mass of material you need to read in your courses, and to keep current in your field, is **academic skimming**.  Just Google it and follow the directions.  Your future self will thank you.
+
+My final point is about time.  Expect to spend about twelve hours per week outside of class.  Treat it like daily exercise. Put it on your calendar. Please don't plan on marathon sessions; they don't work.  
 
 # Textbook and Other Resources
 
-I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with quizzes and homework assignments and you should be able to purchase the whole package through https://achieve.macmillanlearning.com/courses/asmeup
+I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with your online exercises. You should be able to purchase the whole package through https://achieve.macmillanlearning.com/courses/asmeup
 
 ## Topics
 
-Some of the shorter chapters will be combined into one module.
+1. Math:  You need Freshman High School Algebra for this class. This is the stumbling block for half the class.
 
-1. Math:  You need Freshman High School Algebra for this class. This is one of the biggest stumbling blocks.
+1. What is Economics (Ch 1):  It is more expansive than you thought.
 
-1. What is Economics (Ch 1):  It is bigger than you thought and even helps explain small behaviors.
+1. The Basis for Trade and PPFs (Ch 2):  There are excellent reasons to make some things yourself and to buy others.  
 
-1. The Basis for Trade and PPFs (Ch 2):  There are very good reasons make somethings yourself and to buy others.  
+1. Supply and Demand (Ch 3):  What everyone knows.  This is an excellent model for many things, but not everything.
 
-1. Supply and Demand (Ch 3):  What everyone knows.  This is a good simple model for many things, but not everything.
+1. Consumer and Producer Surplus  (Ch 4): This is one of the ways economists measure welfare, how well off people are, not free money.
 
-1. Consumer and Producer Surplus  (Ch 4): This is one of the ways economists measure welfare, how well off people are not free money.
+1. Price and Quantity Controls (Ch 5):  Sometimes you can make people better off by constraining price, and sometimes you make people worse off.
 
-1. Price and Quantity Controls (Ch 5):  Sometimes you can make people better off by constraining price and sometimes you make people worse off,
+1. Elasticity (Ch 6):  A measure of how flexible people, businesses, and other institutions are to changes, including price and income changes.
 
-1. Elasticity (Ch 6):  A measure of how flexible people, businesses and other institutions are to changes, including price and income changes.
+1. Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes is less clear than you thought.
 
-1. Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes  is less clear than you thought.
+1. Decision Making by Individuals and Firms (Ch 9):  Different ways of thinking about costs and which ones are important, plus a few things about the time-value of money.
 
-1. Decision Making by Individuals and Firms (Ch 9):  Different ways of thinking about costs and which ones are important, plus a few things about time value of money.
+1. The Rational Consumer (Ch 10): This is the idealized case and explains vast chunks of human behavior, but not everything economists study.
 
-1. The Rational Consumer (Ch 10): This is the idealized case and explains huge chunks of human behavior.  There is a little bit about behavioral economics.
+1. Behind Supply Curves (Ch 11): Supply and demand cannot describe all markets, choices, or allocation mechanisms.  Cost curves allow us to find out what happens in those circumstances.
 
-1. Behind Supply Curves (Ch 11): Not all markets, choices, or allocation mechanisms can be described by supply and demand.  Cost curves allow us to find out what happens in those circumstances.
-
-1. Perfect Competition (Ch 12) :  We prove to ourselves that we can use cost curves to describe what happens in perfect competition, when markets are the right tool for the job.
+1. Perfect Competition (Ch 12) :  We prove that we can use cost curves to describe what happens in perfect competition, i.e., when markets are the right tool for the job.
 
 1. Monopoly (Ch 13): Uses cost curves to describe the costs to society of market power.
 
-1. Oligopoly (Ch 14):  Somewhere between Monopoly and Perfect Competion.
+1. Oligopoly (Ch 14):  Somewhere between Monopoly and Perfect Competition.
 
-1. Monopolistic Competition (Ch 15):  The most common market structure you interact with.  If it has a prominent brand -- its monopolistic competition.
+1. Monopolistic Competition (Ch 15):  The most common market structure you interact with on a daily basis.  If it has a prominent brand -- it's monopolistic competition.
 
-1. Externalities (Ch 16) :  This is where economist spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic to were the benefits to society are as large as possible.  
+1. Externalities (Ch 16) :  This is where economists spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic.
 
-1. Public Goods (Ch 17):  There are some goods we share -- like parks, roads, national defense. Deciding how much of these shared goods around is more complex that figuring out how many cups of coffee to drink.
+1. Public Goods (Ch 17): We share some goods -- like parks, roads, and national defense. Deciding how much of these shared goods to have is more complex than figuring out how many cups of coffee to drink.
 
 # Policy Statements from the University
 
@@ -186,8 +194,6 @@ PSU Sexual Misconduct Response website gives you comprehensive information about
 + **Recording Technology Notice**: We will use technology for virtual meetings and recordings in this course. Our use of such technology is governed by FERPA, the Acceptable Use Policy and PSU’s Student Code of Conduct. A record of all meetings and recordings is kept and stored by PSU, in accordance with the Acceptable Use Policy and FERPA. Your instructor will not share recordings of your class activities outside of course participants, which include your fellow students, TAs/GAs/Mentors, and any guest faculty or community-based learning partners that we may engage with. You may not share recordings outside of this course. Doing so may result in disciplinary action. 
 
 + **Turnitin**: Students agree that by taking this course all required papers may be subject to submission for textual similarity review to Turnitin.com for the detection of plagiarism. All submitted papers will be included as source documents in the Turnitin.com reference database solely for the purpose of detecting plagiarism of such papers. Use of Turnitin.com page service is subject to the Usage Policy and Privacy Pledge posted on the Turnitin.com site. 
-
-
 
 
 
