@@ -3,8 +3,8 @@ title: "Syllabus EC 201 Winter 2022"
 author: "James Woods"
 date: ''
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 fontsize: 12pt
 ---
 
@@ -29,7 +29,7 @@ The technology requirements are your responsibility.
 
 # Contact Information
 
-We will handle course communication through slack <http://woodseconomics.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
+We will handle course communication through slack <http://economicswithwoods.slack.com/>. There is an invite link on the Canvas homepage for this course. Use your @pdx.edu email to sign up. There are reasonable help documents to get you started (<https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users>)
 
 Slack allows for IM and forum-style communication. It even handles phone and video calls. If you have a question about course material or the course itself, ask in one of the channels, e.g., \#micro_general. If you have a personal message not intended for others, send a direct message to @woodsj.
 
