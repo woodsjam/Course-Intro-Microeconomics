@@ -155,7 +155,7 @@ The more similar the new product, the more your demand curve rotates, becomes mo
 What kind of beer do you make?
 
 + Similar enough to steal customers
-+ Not so similar so that you have market power
++ Not so similar so that you have no market power
 
 ## Beerspace
 
