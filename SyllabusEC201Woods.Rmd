@@ -3,15 +3,13 @@
 params:
   term_year: !r "Spring 2022"
   
-  GA: !r "Roy"
+  GA: !r "Carl"
   
   office_hours: "
-    + Monday 4-5 pm  \\
+    + Tuesday, Thursday 3-4 pm  \\
     
-    + Tuesday 11am- 1pm  \\
+    + Wednesday 9-11 am  \\"
     
-    + Thursday 1-2 pm  \\"
-  
   participation_scores: "
     + Participation 0: 90%\\
     
@@ -39,7 +37,7 @@ params:
     
     - P : 7"
 
-
+  text_link:  "https://achieve.macmillanlearning.com/courses/4t22du"
 ---
 
 ---
@@ -118,7 +116,8 @@ I reserve the right to ease these standards.
 
 # Textbook and Other Resources
 
-I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with your online exercises. You should be able to purchase the whole package through https://achieve.macmillanlearning.com/courses/asmeup
+I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with your online exercises. You should be able to purchase the whole package through `r params$text_link`.
+
 
 ## Topics
 
