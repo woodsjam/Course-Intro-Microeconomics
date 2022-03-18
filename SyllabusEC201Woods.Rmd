@@ -3,8 +3,8 @@ title: "Syllabus EC 201 Winter 2022"
 author: "James Woods"
 date: ''
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 fontsize: 12pt
 ---
 
@@ -87,13 +87,13 @@ There are at least three exercises in each module. It is easiest to see the Modu
 
 The cut points for course grades are:
 
-- A : 15 
-- A-: 14
-- B+: 13
-- B : 12
-- B-: 11
-- C+: 10
-- C : 9
+- A : ~~15~~ 14 
+- A-: ~~14~~ 13
+- B+: ~~13~~ 12
+- B : ~~12~~ 11
+- B-: ~~11~~ 10
+- C+: ~~10~~ 9
+- C : ~~9~~ 8
 - C-: 7
 - P : 7
 
