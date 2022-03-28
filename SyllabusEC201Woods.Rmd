@@ -1,6 +1,7 @@
 
 ---
 params:
+
   term_year: !r "Spring 2022"
   
   GA: !r "Carl"
@@ -37,9 +38,9 @@ params:
     
     - P : 7"
 
-  text_link:  https://achieve.macmillanlearning.com/courses/4t22du
+  text_link:   https://achieve.macmillanlearning.com/courses/4t22du
 
----
+
 
 ---
 title:  `r paste("Syllabus EC 201", params$term_year)`
