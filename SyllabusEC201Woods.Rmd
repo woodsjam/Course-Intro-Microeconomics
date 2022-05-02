@@ -1,7 +1,6 @@
 
 ---
 params:
-
   term_year: !r "Spring 2022"
   
   GA: !r "Carl"
@@ -40,16 +39,17 @@ params:
 
   text_link:   https://achieve.macmillanlearning.com/courses/4t22du
 
+output:
+  word_document: default
+  pdf_document: default
+fontsize: 12pt
 
+---
 
 ---
 title:  `r paste("Syllabus EC 201", params$term_year)`
 author: "James Woods"
 date: ''
-output:
-  pdf_document: default
-  word_document: default
-fontsize: 12pt
 
 
 ---
