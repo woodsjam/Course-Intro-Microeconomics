@@ -1,49 +1,46 @@
 
 ---
 params:
+  
+  
+  
+  
+    
   term_year: !r "Spring 2022"
-  
   GA: !r "Carl"
-  
   office_hours: "
     + Tuesday, Thursday 3-4 pm  \\
     
     + Wednesday 9-11 am  \\"
-  
   participation_scores: "
+    
+    
+    
     + Participation 0: 90%\\
-    
     + Participation 1: 80%\\
-    
     + Participation 2: 70%\\"
-    
   cut_points: "
-  
+    
+    
+    
+    
+    
+    
+    
     - A : 12\\
-    
     - A-: 11\\
-    
     - B+: 10\\
-    
     - B : 9\\
-    
     - B-: 8\\
-    
     - C+: 7\\
-    
     - C : 6\\
-    
     - C-: 5\\
-    
     - P : 5"
-
   text_link:   https://achieve.macmillanlearning.com/courses/4t22du
-
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
 fontsize: 12pt
-
 ---
 
 ---
