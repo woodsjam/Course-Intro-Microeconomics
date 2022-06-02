@@ -19,23 +19,23 @@ params:
     
   cut_points: "
   
-    - A : 15\\
+    - A : 12\\
     
-    - A-: 14\\
+    - A-: 11\\
     
-    - B+: 13\\
+    - B+: 10\\
     
-    - B : 12\\
+    - B : 9\\
     
-    - B-: 11\\
+    - B-: 8\\
     
-    - C+: 10\\
+    - C+: 7\\
     
-    - C : 9\\
+    - C : 6\\
     
-    - C-: 7\\
+    - C-: 5\\
     
-    - P : 7"
+    - P : 5"
 
   text_link:   https://achieve.macmillanlearning.com/courses/4t22du
 
