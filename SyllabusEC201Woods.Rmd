@@ -2,11 +2,7 @@
 ---
 params:
   
-  
-  
-  
-    
-  term_year: !r "Spring 2022"
+  term_year: !r "Fall 2022"
   GA: !r "Carl"
   office_hours: "+ Tuesday, Thursday 3-4 pm  \\
     + Wednesday 9-11 am  \\"
