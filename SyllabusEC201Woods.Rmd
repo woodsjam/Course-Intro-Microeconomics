@@ -4,29 +4,39 @@ params:
   
   term_year: !r "Fall 2022"
   GA: !r "Carl"
-  office_hours: "+ Tuesday, Thursday 3-4 pm  \\
-    + Wednesday 9-11 am  \\"
+  office_hours: "
+  + Tuesday, Thursday 3-4 pm
+  
+  + Wednesday 9-11 am"
     
   participation_scores: "
-  
-    + Participation 0: 90%\\
-    + Participation 1: 80%\\
+    + Participation 0: 90%
     
-    + Participation 2: 70%\\"
+    + Participation 1: 80%
+    
+    + Participation 2: 70%"
     
   cut_points: "
   
-    - A : 12\\
-    - A-: 11\\
-    - B+: 10\\
-    - B : 9\\
-    - B-: 8\\
-    - C+: 7\\
-    - C : 6\\
-    - C-: 5\\
-    - P : 5"
+    - A : 15
     
-  text_link:   https://achieve.macmillanlearning.com/courses/4t22du
+    - A-: 14
+    
+    - B+: 13
+    
+    - B : 12
+    
+    - B-: 11
+    
+    - C+: 10
+    
+    - C : 8
+    
+    - C-: 7
+    
+    - P : 7"
+    
+
   
 output:
   pdf_document: default
@@ -107,7 +117,7 @@ I reserve the right to ease these standards.
 
 # Textbook and Other Resources
 
-I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with your online exercises. You should be able to purchase the whole package through `r params$text_link`.
+I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with your online exercises. You should be able to purchase the whole package through a link in canvas.
 
 
 ## Topics
