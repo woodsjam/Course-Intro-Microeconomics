@@ -83,19 +83,19 @@ I intend to give you a basket of tools that you can use to better understand the
 
 # Basis for Grade
 
-Your grade in the class will be determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade.
+Your grade in the class is determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade.
 
-The acceptable level on each module is determined by your participation in-class.  The minimum average to pass the module for each participation level is:
+Your participation in-class determines the acceptable level on each module. The minimum average to pass the module for each participation level is:
 
 `r params$participation_scores`
 
-Exercises for all the modules are available at the start of term. The due dates are approximately three weeks after the topic is introduced but that lag time will decrease to a week near the end of the term. 
+Exercises for all the modules are available at the start of the term. The due dates are approximately three weeks after introducing the topic, but that lag time will decrease to a week near the end of the term. 
 
-The exercises, which are a combination of video questions, multiple-choice and graphing, can be attempted at most five times. You have two hours on each attempt.  We take the high score. 
+The exercises, a combination of video questions, multiple-choice and graphing, can be attempted at most five times. You have two hours on each attempt. We take the high score. 
 
-The exception are the Learning Curve (LC) modules, which can be taken as often as you wish, which has a minimum cut point for 100% credit.
+The exceptions are the Learning Curve (LC) modules, which you can take as often as you wish, but a minimum cut point for 100% credit.
 
-It is easiest to see the Modules in Achieve when you choose to view by `Course Content`.
+It is easiest to see the Modules in Achieve when you view by `Course Content`.
 
 The cut points for number of modules needed for course grades are:
 
@@ -117,7 +117,7 @@ I reserve the right to ease these standards.
 
 # Textbook and Other Resources
 
-I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The text is bundled with your online exercises. You should be able to purchase the whole package through a link in canvas.
+I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth Publishers. The etext is bundled with your online exercises. You should be able to purchase the whole package through a link in canvas.
 
 
 ## Topics
@@ -128,21 +128,21 @@ I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth 
 
 1. The Basis for Trade and PPFs (Ch 2):  There are excellent reasons to make some things yourself and to buy others.  
 
-1. Supply and Demand (Ch 3):  What everyone knows.  This is an excellent model for many things, but not everything.
+1. Supply and Demand (Ch 3):  What everyone knows. This is an excellent model for many things, but not everything.
 
 1. Consumer and Producer Surplus  (Ch 4): This is one of the ways economists measure welfare, how well off people are, not free money.
 
-1. Price and Quantity Controls (Ch 5):  Sometimes you can make people better off by constraining price, and sometimes you make people worse off.
+1. Price and Quantity Controls (Ch 5):  Sometimes, you can make people better off by constraining prices, and sometimes you make people worse.
 
 1. Elasticity (Ch 6):  A measure of how flexible people, businesses, and other institutions are to changes, including price and income changes.
 
-1. Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets.  Who pays for taxes is less clear than you thought.
+1. Taxes (Ch 7):  Taxes are a source of revenue for public services, but they can also be used to cure problems in markets. Who pays for taxes is less clear than you thought.
 
 1. Decision Making by Individuals and Firms (Ch 9):  Different ways of thinking about costs and which ones are important, plus a few things about the time-value of money.
 
-1. The Rational Consumer (Ch 10): This is the idealized case and explains vast chunks of human behavior, but not everything economists study.
+1. The Rational Consumer (Ch 10): This idealized case explains vast chunks of human behavior, but not everything economists study.
 
-1. Behind Supply Curves (Ch 11): Supply and demand cannot describe all markets, choices, or allocation mechanisms.  Cost curves allow us to find out what happens in those circumstances.
+1. Behind Supply Curves (Ch 11): Supply and demand cannot describe all markets, choices, or allocation mechanisms. Cost curves allow us to find out what happens in those circumstances.
 
 1. Perfect Competition (Ch 12) :  We prove that we can use cost curves to describe what happens in perfect competition, i.e., when markets are the right tool for the job.
 
@@ -150,9 +150,9 @@ I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth 
 
 1. Oligopoly (Ch 14):  Somewhere between Monopoly and Perfect Competition.
 
-1. Monopolistic Competition (Ch 15):  The most common market structure you interact with on a daily basis.  If it has a prominent brand -- it's monopolistic competition.
+1. Monopolistic Competition (Ch 15):  The most common market structure you interact with daily. If it has a prominent brand -- it's monopolistic competition.
 
-1. Externalities (Ch 16) :  This is where economists spend much of their time. We will use tools to figure out how to do things like reduce air pollution and traffic.
+1. Externalities (Ch 16) :  This is where economists spend much of their time. We will use tools to figure out how to do things like reducing air pollution and traffic.
 
 1. Public Goods (Ch 17): We share some goods -- like parks, roads, and national defense. Deciding how much of these shared goods to have is more complex than figuring out how many cups of coffee to drink.
 
@@ -161,4 +161,4 @@ I have assigned Krugman, Paul R., and Robin Wells. Microeconomics ed. 6., Worth 
 ```{r child = 'syllabus_common_files/psu_policy_statements.Rmd'}
 ```
 
-Link to this syllabus https://github.com/woodsjam/Course-Intro-Microeconomics.  There is a branch for each term with master being the current term.
+Link to this syllabus https://github.com/woodsjam/Course-Intro-Microeconomics. There is a branch for each term, with master being the current term.
