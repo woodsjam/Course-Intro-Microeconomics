@@ -1,43 +1,17 @@
 
 ---
 params:
-  
-
-  
-    
-  term_year: !r "Fall 2022"
-  GA: !r "Noah"
-  office_hours: "  
-    + Friday  1-3 pm
-    
-  + Wednesday 11-12:30 pm"
-    
-  participation_scores: "
-    
-    
-    + Participation 0: 90%
-    + Participation 1: 80%
-    + Participation 2: 70%"
-  cut_points: "
-    
-    
-    
-    
-    
-    
-    
-    - A : 15
-    - A-: 14
-    - B+: 13
-    - B : 12
-    - B-: 11
-    - C+: 10
-    - C : 8
-    - C-: 7
-    - P : 7"
+  term_year: !r Spring 2023
+  GA: !r Noah
+  office_hours: "+ MW 1 pm- 2 pm\\\n+ TR 8 am - 9 am"
+  participation_scores: "+ Participation 0: 90%\\\n+ Participation 1: 80%\\\n+ Participation 2: 70%\\"
+  cut_points: " + A : 15\\\n+  A-: 14\\\n+  B+: 13\\\n+ B : 12\\\n+  B-: 11\\\n+  C+: 10\\\n+
+     C : 8\\\n+  C-: 7\\\n+  P : 7"
 output:
-  pdf_document: default
+  html_document:
+    df_print: paged
   word_document: default
+  pdf_document: default
 fontsize: 12pt
 ---
 
@@ -80,26 +54,26 @@ I intend to give you a basket of tools that you can use to better understand the
 
 # Basis for Grade
 
-Your grade in the class is determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade.
+Your grade in the class will be determined by the number of modules you complete at an acceptable level. The more modules you complete, the higher your grade. This is known as Specifications Grading and is becoming more and more common.
 
-Your participation in-class determines the acceptable level on each module. The minimum average to pass the module for each participation level is:
+Your in-class participation determines the cut score on each module. The minimum average to pass the module for each participation level is:
 
 `r params$participation_scores`
 
-Exercises for all the modules are available at the start of the term. The due dates are approximately three weeks after introducing the topic, but that lag time will decrease to a week near the end of the term. 
+Exercises for all the modules are available at the start of the term. The due dates are two to three weeks after the topic is introduced, but that lag time will decrease to a week near the end of the term.
 
-The exercises, a combination of video questions, multiple-choice and graphing, can be attempted at most five times. You have two hours on each attempt. We take the high score. 
+The exercises, a combination of video questions, multiple-choice and graphing, can be attempted at most five times. You have two hours on each attempt. We take the high score.
 
-The exceptions are the Learning Curve (LC) modules, which you can take as often as you wish, but a minimum cut point for 100% credit.
+The exception is the Learning Curve (LC) modules, which can be taken as often as you wish and have a minimum cut point for 100% credit.
 
-It is easiest to see the Modules in Achieve when you view by `Course Content`.
+The modules and quizzes are available through canvas. The reading assignments are at the top of each module and the exercises follow. You can also work directly in Achieve. It is easiest to see the Modules when you view by `Course Content`.
 
-The cut points for number of modules needed for course grades are:
+The cut points for the number of modules needed for course grades are:
 
 `r params$cut_points`
 
-
 I reserve the right to ease these standards.
+
 
 ## Workflow
 
