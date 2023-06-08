@@ -5,11 +5,11 @@ params:
   GA: !r Noah
   office_hours: "+ MW 1 pm- 2 pm\\\n+ TR 8 am - 9 am"
   participation_scores: "+ Participation 0: 90%\\\n+ Participation 1: 80%\\\n+ Participation 2: 70%\\"
-  cut_points: " + A : 15\\\n+  A-: 14\\\n+  B+: 13\\\n+ B : 12\\\n+  B-: 11\\\n+  C+: 10\\\n+
+  cut_points: " + A : 15-2 =13\\\n+  A-: 14-2 =12\\\n+  B+: 13-2 = 11\\\n+ B : 12-1=10\\\n+  B-: 11-1 =10\\\n+  C+: 10-1 =9 \\\n+
      C : 8\\\n+  C-: 7\\\n+  P : 7"
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
 fontsize: 12pt
